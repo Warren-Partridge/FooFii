@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */; };
 		3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6071F96E45900AA01FC /* AppDelegate.swift */; };
 		3EEEA60A1F96E45900AA01FC /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6091F96E45900AA01FC /* FirstViewController.swift */; };
 		3EEEA60C1F96E45900AA01FC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA60B1F96E45900AA01FC /* SecondViewController.swift */; };
-		3EEEA60F1F96E45900AA01FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
 		3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */; };
+		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FooFii.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EEEA6041F96E45900AA01FC /* FooFii.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FooFii.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EEEA6071F96E45900AA01FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EEEA6091F96E45900AA01FC /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +27,8 @@
 		3EEEA6101F96E45900AA01FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EEEA6131F96E45900AA01FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EEEA6151F96E45900AA01FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.debug.xcconfig"; sourceTree = "<group>"; };
+		BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.release.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +36,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +48,8 @@
 			children = (
 				3EEEA6061F96E45900AA01FC /* FooFii */,
 				3EEEA6051F96E45900AA01FC /* Products */,
+				CEA61DE284092893FB0A7B9F /* Pods */,
+				78C026A62FF19173ADA4742D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -63,8 +71,26 @@
 				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
 				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
+				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
 			);
 			path = FooFii;
+			sourceTree = "<group>";
+		};
+		78C026A62FF19173ADA4742D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CEA61DE284092893FB0A7B9F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */,
+				BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +100,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3EEEA6181F96E45900AA01FC /* Build configuration list for PBXNativeTarget "FooFii" */;
 			buildPhases = (
+				90E841E449330152253C4F80 /* [CP] Check Pods Manifest.lock */,
 				3EEEA6001F96E45900AA01FC /* Sources */,
 				3EEEA6011F96E45900AA01FC /* Frameworks */,
 				3EEEA6021F96E45900AA01FC /* Resources */,
+				5D4F2B7E07B5942357B8A9CA /* [CP] Embed Pods Frameworks */,
+				113F71FBCE6DC118DC99A852 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -128,11 +157,67 @@
 			files = (
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
-				3EEEA60F1F96E45900AA01FC /* Main.storyboard in Resources */,
+				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		113F71FBCE6DC118DC99A852 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FooFii/Pods-FooFii-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5D4F2B7E07B5942357B8A9CA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FooFii/Pods-FooFii-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FooFii/Pods-FooFii-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		90E841E449330152253C4F80 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FooFii-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3EEEA6001F96E45900AA01FC /* Sources */ = {
@@ -276,6 +361,7 @@
 		};
 		3EEEA6191F96E45900AA01FC /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -290,6 +376,7 @@
 		};
 		3EEEA61A1F96E45900AA01FC /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
