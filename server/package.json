@@ -1,0 +1,20 @@
+{
+  "name": "foofii-server",
+  "version": "1.0.0",
+  "description": "Upload data to the foo-fii project",
+  "main": "index.js",
+  "scripts": {
+    "snap": "node scripts/snapupload.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Global App Initiative",
+  "license": "MIT",
+  "dependencies": {
+    "csvjson": "^5.0.0",
+    "firebase-admin": "^5.9.0",
+    "firebase-encode": "0.0.5",
+    "firebase-server": "^0.12.0",
+    "uuid": "^3.2.1"
+  }
+}
