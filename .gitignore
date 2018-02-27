@@ -1,3 +1,5 @@
+# Our Custon Ignores
+server/serviceAccountKey.json
 
 # Created by https://www.gitignore.io/api/swift
 
