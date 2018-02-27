@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FooFii</string>
+
+    <!-- Login -->
+    <string name="facebook_app_id">1583735401690757</string>
+    <string name="fb_login_protocol_scheme">fb1583735401690757</string>
+    <string name="twitter_c_key">1y4c6kWqrRF8vsmSIcoQkJDeR</string>
+    <string name="twitter_c_secret">kiGRsLiCE0wcBk0cwt7JjRlyTaU5uzaK8CYMnsDcFD9a0PABWt</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_button_caption">Login</string>
+    <string name="signup_button_caption">Create Account</string>
+</resources>
