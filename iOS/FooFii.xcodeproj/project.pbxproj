@@ -13,6 +13,7 @@
 		3EEEA60C1F96E45900AA01FC /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA60B1F96E45900AA01FC /* SecondViewController.swift */; };
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
 		3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */; };
+		3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
 		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
 /* End PBXBuildFile section */
 
@@ -158,6 +159,7 @@
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
+				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
