@@ -5,7 +5,6 @@ const helpers = require('./helpers.js');
 // Upload the specific data
 console.log('Loading nationwide farmers market data from csv...');
 const data = helpers.readCSV(path.join(__dirname, '../data/markets/markets.csv'));
-console.log('Loaded nationwide market data!');
 
 const root = '/markets';
 

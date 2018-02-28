@@ -6,6 +6,7 @@ const path = require('path');
 const fbencode = require('firebase-encode');
 const admin = require('firebase-admin');
 const GeoFire = require('geofire');
+const ProgressBar = require('progress');
 
 // Initialize firebase admin and various other firebase settings
 const serviceAccount = require(path.join(__dirname, '../serviceAccountKey.json'));
@@ -51,16 +52,22 @@ module.exports.readCSV = readCSV;
 
 // Split up list into slices of 500s
 function pushChunks(dbpath, list, getLocation) {
-  var i, j, chunk = 500;
+  let i, j;
+  const chunk = 200;
   const chunks = []
   const geoFire = new GeoFire(db.ref(dbpath + '/geofire'));
   const ref = db.ref(dbpath + '/all');
   for (i = 0, j = list.length; i < j; i += chunk) {
     chunks.push(list.slice(i, i + chunk));
   }
+  const bar = new ProgressBar(':bar :percent :current/:total (Chunks of ' +
+    chunk +
+    ' entries)', {
+    total: chunks.length,
+    width: 50
+  });
   function doone() {
     if (chunks.length === 0) {
-      console.log('Success!');
       return;
     }
     const list = chunks.pop();
@@ -77,7 +84,8 @@ function pushChunks(dbpath, list, getLocation) {
       ref.update(updates),
       geoFire.set(geoUpdates)
     ]).then(() => {
-      console.log('Chunks left: ' + chunks.length);
+      //console.log('Chunks left: ' + chunks.length);
+      bar.tick();
       return doone();
     });
   }
