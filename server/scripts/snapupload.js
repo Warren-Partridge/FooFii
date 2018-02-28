@@ -4,7 +4,7 @@ const helpers = require('./helpers.js');
 
 // Upload the specific data
 console.log('Loading nationwide snap data from csv...');
-const data = helpers.readCSV(path.join(__dirname, '../data/snap/store_locations_2018_02_06.csv'));
+const data = helpers.readCSV(path.join(__dirname, '../data/snap/snap.csv'));
 console.log('Loaded nationwide snap data!');
 
 console.log('Uploading snap data to database...');

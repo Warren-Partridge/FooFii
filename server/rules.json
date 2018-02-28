@@ -1,6 +1,9 @@
 {
     "rules": {
         "snap": {
+            "all": {
+              ".read": true
+            },
             "geofire": {
                 ".read": true,
                 ".indexOn": ["g"],
@@ -26,7 +29,10 @@
                 }
             }
         },
-        "farmersMarkets": {
+        "markets": {
+            "all": {
+              ".read": true
+            },
             "geofire": {
                 ".read": true,
                 ".indexOn": ["g"],
