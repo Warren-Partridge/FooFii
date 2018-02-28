@@ -7,7 +7,7 @@ console.log('Loading nationwide snap data from csv...');
 const data = helpers.readCSV(path.join(__dirname, '../data/snap/snap.csv'));
 
 console.log('Uploading snap data to database...');
-helpers.pushChunks('/snap', data, x => {
+helpers.pushChunks('/snap', data, null, x => {
   const ret = [Number(x.Latitude), Number(x.Longitude)];
   delete x.Latitude;
   delete x.Longitude;

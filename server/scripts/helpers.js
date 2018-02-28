@@ -25,14 +25,18 @@ function encode(x) {
   if (typeof(x) !== 'object') {
     return x;
   }
-  var newobj = {};
-  Object.keys(x).forEach(function (key) {
-    var value = x[key];
-    newobj[fbencode.encode(key)] = encode(value);
-  });
-  // Delete extra field.
-  delete newobj[""];
-  return newobj;
+  if (Array.isArray(x)) {
+    return x.map(encode);
+  } else {
+    var newobj = {};
+    Object.keys(x).forEach(function (key) {
+      var value = x[key];
+      newobj[fbencode.encode(key)] = encode(value);
+    });
+    // Delete extra field.
+    delete newobj[""];
+    return newobj;
+  }
 }
 module.exports.encode = encode;
 
@@ -51,7 +55,7 @@ function readCSV(filepath) {
 module.exports.readCSV = readCSV;
 
 // Split up list into slices of 500s
-function pushChunks(dbpath, list, getLocation) {
+function pushChunks(dbpath, list, getKey, getLocation) {
   let i, j;
   const chunk = 1000;
   const chunks = []
@@ -74,7 +78,9 @@ function pushChunks(dbpath, list, getLocation) {
     const updates = {};
     const geoUpdates = {};
     list.forEach(function (x) {
-      const key = ref.push().key;
+      const key = getKey
+        ? getKey(x)
+        : ref.push().key;
       updates[key] = x;
       if (getLocation) {
         geoUpdates[key] = getLocation(x);

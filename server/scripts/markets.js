@@ -58,10 +58,38 @@ data.forEach(x => {
   dotags(x);
   // Derive Address
   x.Address = ('' + x.street + '\n' + x.city + ', ' + x.County + ' ' + x.zip).trim();
+  x.Credit = !!(x.Credit == 'Y');
+  x.SNAP = !!(x.SNAP == 'Y');
+  x.SFMNP = !!(x.SFMNP == 'Y');
+  x.WIC = !!(x.WIC == 'Y');
+  x.WICcash = !!(x.WICcash == 'Y');
+  delete x.Youtube;
+  delete x.Twitter;
+  delete x.OtherMedia;
+
+  // Make seasons an array
+  const seasons = [];
+  for (var i = 1; i <= 4; i++) {
+    const datekey = 'Season' + i + 'Date';
+    const timekey = 'Season' + i + 'Time';
+    const dateval = x[datekey];
+    const timeval = x[timekey];
+    delete x[datekey];
+    delete x[timekey];
+    if (dateval && dateval != '' && timeval && timeval != '') {
+      seasons.push({
+        time: timeval,
+        date: dateval
+      });
+    }
+  }
+  x.Seasons = seasons;
 });
 
 console.log('Uploading market data to database...');
 helpers.pushChunks(root, data, x => {
+  return x.FMID
+}, x => {
   const ret = [Number(x.y), Number(x.x)];
   delete x.x;
   delete x.y;
