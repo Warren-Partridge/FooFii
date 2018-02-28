@@ -53,7 +53,7 @@ module.exports.readCSV = readCSV;
 // Split up list into slices of 500s
 function pushChunks(dbpath, list, getLocation) {
   let i, j;
-  const chunk = 200;
+  const chunk = 1000;
   const chunks = []
   const geoFire = new GeoFire(db.ref(dbpath + '/geofire'));
   const ref = db.ref(dbpath + '/all');
@@ -64,7 +64,7 @@ function pushChunks(dbpath, list, getLocation) {
     chunk +
     ' entries)', {
     total: chunks.length,
-    width: 50
+    width: 40
   });
   function doone() {
     if (chunks.length === 0) {

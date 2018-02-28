@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "clearall": "node scripts/clearall.js",
+    "clearsnap": "node scripts/clearsnap.js",
+    "clearmarkets": "node scripts/clearmarkets.js",
     "snap": "node scripts/snapupload.js",
     "markets": "node scripts/markets.js",
     "start": "node index.js",
@@ -20,6 +22,6 @@
     "firebase-server": "^0.12.0",
     "geofire": "^4.1.2",
     "progress": "^2.0.0",
-    "uuid": "^3.2.1"
+    "prompt-confirm": "^1.2.0"
   }
 }
