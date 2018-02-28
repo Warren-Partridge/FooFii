@@ -1,0 +1,56 @@
+{
+    "rules": {
+        "snap": {
+            "geofire": {
+                ".read": true,
+                ".indexOn": ["g"],
+                "$key": {
+                    ".validate": "newData.hasChildren(['g', 'l']) && newData.getPriority().length <= 22 && newData.getPriority().length > 0",
+                    "g": {
+                        ".validate": "newData.val() == newData.parent().getPriority()"
+                    },
+                    "l": {
+                        "0" : {
+                            ".validate": "newData.isNumber() && newData.val() >= -90 && newData.val() <= 90"
+                        },
+                        "1" : {
+                            ".validate": "newData.isNumber() && newData.val() >= -180 && newData.val() <= 180"
+                        },
+                        "$other": {
+                            ".validate": false
+                        }
+                    },
+                    "$other": {
+                        ".validate": false
+                    }
+                }
+            }
+        },
+        "farmersMarkets": {
+            "geofire": {
+                ".read": true,
+                ".indexOn": ["g"],
+                "$key": {
+                    ".validate": "newData.hasChildren(['g', 'l']) && newData.getPriority().length <= 22 && newData.getPriority().length > 0",
+                    "g": {
+                        ".validate": "newData.val() == newData.parent().getPriority()"
+                    },
+                    "l": {
+                        "0" : {
+                            ".validate": "newData.isNumber() && newData.val() >= -90 && newData.val() <= 90"
+                        },
+                        "1" : {
+                            ".validate": "newData.isNumber() && newData.val() >= -180 && newData.val() <= 180"
+                        },
+                        "$other": {
+                            ".validate": false
+                        }
+                    },
+                    "$other": {
+                        ".validate": false
+                    }
+                }
+            }
+        }
+    }
+}
