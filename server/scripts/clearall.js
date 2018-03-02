@@ -8,6 +8,8 @@ prompt.run()
   console.log('Clearing old snap data from database...');
   return helpers.db.ref('/snap').set({})
 }).then(() =>
+  helpers.db.ref('/pantries').set({})
+}).then(() =>
   helpers.db.ref('/markets').set({})
 }).then(
   () => {console.log('Done!'); process.exit(0)},
