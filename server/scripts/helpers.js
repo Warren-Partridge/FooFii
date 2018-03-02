@@ -12,7 +12,7 @@ const ProgressBar = require('progress');
 const serviceAccount = require(path.join(__dirname, '../serviceAccountKey.json'));
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: 'https://foofii-v0.firebaseio.com/'
+  databaseURL: 'https://foofii-ee6ee.firebaseio.com/'
 });
 const db = admin.database();
 module.exports.db = db;
@@ -56,12 +56,11 @@ module.exports.readCSV = readCSV;
 
 // Split up list into slices of 500s
 function pushChunks(dbpath, list, getKey, getLocation) {
-  let i, j;
   const chunk = 1000;
   const chunks = []
   const geoFire = new GeoFire(db.ref(dbpath + '/geofire'));
   const ref = db.ref(dbpath + '/all');
-  for (i = 0, j = list.length; i < j; i += chunk) {
+  for (let i = 0; i < list.length; i += chunk) {
     chunks.push(list.slice(i, i + chunk));
   }
   const bar = new ProgressBar(':bar :percent :current/:total (Chunks of ' +
