@@ -3,10 +3,10 @@ const firebase = require("firebase/app");
 require("firebase/auth");
 require("firebase/database");
 const config = {
-  apiKey: "foofii-v0",
-  authDomain: "foofii-v0.firebaseapp.com",
-  databaseURL: "https://foofii-v0.firebaseio.com",
-  storageBucket: "foofii-v0.appspot.com",
+  apiKey: "AIzaSyCJ6h6foR7daD3CI6DXav2LMMpuLyUQc1M",
+  authDomain: "foofii-ee6ee.firebaseapp.com",
+  databaseURL: "https://foofii-ee6ee.firebaseio.com",
+  storageBucket: "foofii-ee6ee.appspot.com",
   messagingSenderId: "testclient",
 };
 firebase.initializeApp(config);
