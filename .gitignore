@@ -1,5 +1,6 @@
 # Our Custon Ignores
 server/serviceAccountKey.json
+server/mapboxApiKey.json
 
 # Created by https://www.gitignore.io/api/swift
 

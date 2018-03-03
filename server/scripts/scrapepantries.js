@@ -6,53 +6,53 @@ const fs = require('fs');
 // And DC
 let states = [
   "Alaska",
-  //"Alabama",
-  //"Arkansas",
-  //"Arizona",
-  //"California",
-  //"Colorado",
-  //"Connecticut",
-  //"District of Columbia",
-  //"Delaware",
-  //"Florida",
-  //"Georgia",
-  //"Hawaii",
-  //"Iowa",
-  //"Idaho",
-  //"Illinois",
-  //"Indiana",
-  //"Kansas",
-  //"Kentucky",
-  //"Louisiana",
+  "Alabama",
+  "Arkansas",
+  "Arizona",
+  "California",
+  "Colorado",
+  "Connecticut",
+  "District of Columbia",
+  "Delaware",
+  "Florida",
+  "Georgia",
+  "Hawaii",
+  "Iowa",
+  "Idaho",
+  "Illinois",
+  "Indiana",
+  "Kansas",
+  "Kentucky",
+  "Louisiana",
   "Massachusetts",
-  //"Maryland",
-  //"Maine",
-  //"Michigan",
-  //"Minnesota",
-  //"Missouri",
-  //"Mississippi",
-  //"Montana",
-  //"North Carolina",
-  //"North Dakota",
-  //"Nebraska",
-  //"New Hampshire",
-  //"New Jersey",
-  //"New Mexico",
-  //"Nevada",
-  //"New York",
-  //"Ohio",
-  //"Oklahoma",
-  //"Oregon",
-  //"Pennsylvania",
-  //"Rhode Island",
-  //"South Carolina",
-  //"South Dakota",
-  //"Tennessee",
-  //"Texas",
-  //"Utah",
-  //"Virginia",
-  //"Vermont",
-  //"Washington",
+  "Maryland",
+  "Maine",
+  "Michigan",
+  "Minnesota",
+  "Missouri",
+  "Mississippi",
+  "Montana",
+  "North Carolina",
+  "North Dakota",
+  "Nebraska",
+  "New Hampshire",
+  "New Jersey",
+  "New Mexico",
+  "Nevada",
+  "New York",
+  "Ohio",
+  "Oklahoma",
+  "Oregon",
+  "Pennsylvania",
+  "Rhode Island",
+  "South Carolina",
+  "South Dakota",
+  "Tennessee",
+  "Texas",
+  "Utah",
+  "Virginia",
+  "Vermont",
+  "Washington",
   "Wisconsin",
   "West Virginia",
   "Wyoming"
@@ -60,7 +60,7 @@ let states = [
 
 function doState(state) {
   const pantries = [];
-  const stateUrlFragment = state.toLowerCase().replace(' ', '-');
+  const stateUrlFragment = state.toLowerCase().replace(/ /g, '_');
   const filepath = path.join(__dirname, 
           '../data/pantries/' + stateUrlFragment + '.json');
   // Don't scrape for state that we have already done
@@ -101,7 +101,6 @@ function doState(state) {
       })
       .error(err => {
         console.log('Scraping error: ' + err);
-        reject(err);
       })
       .done(() => {
         /* Scraping finished */
@@ -114,7 +113,7 @@ function doState(state) {
 // Do states in sequence
 let p = Promise.resolve();
 states.forEach(state => {
-    p = p.then(() => doState(state)); // or .bind
+    p = p.then(() => doState(state));
 });
 p.then(() => console.log('Done!'));
 p.catch(err => {

@@ -1,0 +1,641 @@
+[
+  {
+    "State": "Delaware",
+    "City": "Albuquerque",
+    "Name": "SVDP Holy Family",
+    "Description": "Food services: Tuesdays & Thursdays 11am-1:00pm. Must live in zip codes 87105, 87121.",
+    "Address": "562 Atrisco SW\nAlbuquerque, DE 87105",
+    "Phone": "(505) 385-8598",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Bear",
+    "Name": "Union United Methodist Church, Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County Pantry hours: By appointment",
+    "Address": "345 School Bell Road\nBear, DE 19701",
+    "Phone": "(302) 322-3118",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Bear",
+    "Name": "Red Lion United Methodist Church, Food Closet",
+    "Description": "Provides a food pantry.  Pantry Hours:Wednesday 9:00am - 12:00pmCall ahead first and they can have bags ready for you based on how many people are in your household. You can not go to this food closet every Tuesday like other food closets, this is an emergency food closet only and you can only get food here a certain amount of times a year (not sure how many times exactly) ",
+    "Address": "1545 Church Road\nBear, DE 19701",
+    "Phone": "(302) 834-1599",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24768_red_lion_united_methodist_church_food_closet_19701_ihu.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Bear",
+    "Name": "Alpha Worship Center Pantry of Hope",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County Pantry hours: Wednesdays 12:00pm -2pm",
+    "Address": "716 Pulaski Highway\nBear, DE 19701",
+    "Phone": "(302) 325-3930",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Bridgeville",
+    "Name": "Goodwill Industries, Food Closet , Sussex County",
+    "Description": "Provides a food pantry. Documentation Required: One photo ID is required of head of household.For more information, please call.",
+    "Address": "18178 Sussex Highway\nBridgeville, DE 19938",
+    "Phone": "(302) 337-8561",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24746_goodwill_industries_food_closet__sussex_county_19938_dng.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Bridgeville",
+    "Name": "Bridgeville State Service Center",
+    "Description": "Provides a food pantry.  Area Served:andWest Sussex County. Pantry hours: Monday-Friday: 9:00am-4:00pm",
+    "Address": "400 Mill Street\nBridgeville, DE 19933",
+    "Phone": "(302) 337-8261",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Claymont",
+    "Name": "New Knollwood Civic Association, Food Closet",
+    "Description": "Provides a food pantry. Area Served:Claymont and Northern New Castle County. Documentation Required: Photo ID and proof of income  Pantry Hours:Monday - Friday8:00am-2:00pm ",
+    "Address": "4 Colby Avenue\nClaymont, DE 19703",
+    "Phone": "(302) 793-1627",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Claymont",
+    "Name": "Holy Rosary Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County",
+    "Address": "3200 Philadelphia Pike\nClaymont, DE 19703",
+    "Phone": "(302) 798-1513",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Claymont",
+    "Name": "Claymont Community Center, Food Closet",
+    "Description": "Provides a food pantry.  Eligibility:andResidents of Claymont, Edgemoor/Brandywine Hundred and surrounding areas. Documentation Required: Picture ID, Birth Certificates or Social Security Cards for all household members, Verification of address (Lease/Electric Bill, etc.), Referral from an agency Case Manager, State Service Center. The referral shouldandhave the clients name, address, number in ho",
+    "Address": "3301 Green Street\nClaymont, DE 19703",
+    "Phone": "(302) 792-2757 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24736_claymont_community_center_food_closet_19703_nzc.png"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dagsboro",
+    "Name": "Dagsboro Church of God, Josephs Storehouse",
+    "Description": "Provides a food pantry.  Area Served: Zip Codes19939, 19966 and 19975 Pantry Hours: By appointment only",
+    "Address": "32224 Dupont Boulevard\nDagsboro, DE 19939",
+    "Phone": "(302) 732-6550",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24737_dagsboro_church_of_god_josephs_storehouse_19939_upd.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Southside Baptist Church",
+    "Description": "Provides a food pantry.  Area Served:andKent County. For more information, please call.",
+    "Address": "4904 South Dupont Highway\nDover, DE 19901",
+    "Phone": "(302) 697-2411",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24777_southside_baptist_church_19901_hdy.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Kent County Community Action, Administration",
+    "Description": "Provides a food pantry to Kent County.Hours:Monday - Friday 12:00pm - 2:00pm",
+    "Address": "120-A South Governors Avenue\nDover, DE 19904",
+    "Phone": "(302) 678-1949",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24753_kent_county_community_action_administration_19904_fgd.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Goodwill Industries, Food Closet , Kent County",
+    "Description": "Provides a food pantry.  Area Served:andKent County. Documentation Required: One photo ID is required of head of household",
+    "Address": "1678 South Governors Avenue\nDover, DE 19904",
+    "Phone": "(302) 741-0456",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24745_goodwill_industries_food_closet__kent_county_19904_lap.png"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Calvary Assembly of God Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andKent County Pantry hours: Fridays are for referrals from The James Williams State Service Center only",
+    "Address": "1141 East Lebanon Road\nDover, DE 19901",
+    "Phone": "(302) 697-7776",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24730_calvary_assembly_of_god_food_closet_19901_qyk.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Catholic Charities Basic Needs Program Kent County",
+    "Description": "Provides a food pantry.  Area Served:andKent County, Low income families or persons in a crisis. Documentation Required: proof of income and monthly expenses",
+    "Address": "2099 South Dupont Highway\nDover, DE 19901",
+    "Phone": "(302) 674-4016",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Dover",
+    "Name": "Williams State Service Center",
+    "Description": "Provides a food pantry.  Area Served:andCentral Kent County, Dover area, including Camden, Wyoming, Hartly and Magnolia",
+    "Address": "805 River Road\nDover, DE 19901",
+    "Phone": "(302) 857-5000",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Ellendale",
+    "Name": "Delmarva Clergy United, Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andSussex County Pantry hours: Monday-Friday, 9:00am-3:00pm",
+    "Address": "13724 South Old State Road\nEllendale, DE 19941",
+    "Phone": "(302) 422-5306",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Felton",
+    "Name": "Gods Missionary",
+    "Description": "Provides a food pantry.  Pantry Hours:Please call for more information.",
+    "Address": "1616 Lords Corner\nFelton, DE 19943",
+    "Phone": "(302) 284-9566",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Frankford",
+    "Name": "Bethel Tabernacle Church of God, Helping Hands Food Bank",
+    "Description": "Provides a food pantry.  Area Served:and19945, 19930, 19967, 19970 (small parts of 19939 and 19975-call to confirm) Pantry hours: 1st three Tuesdays of the month by appointment only",
+    "Address": "34180 Omar Road\nFrankford, DE 19945",
+    "Phone": "(302) 539-6768",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Georgetown",
+    "Name": "Thurman Adams State Service Center",
+    "Description": "Provides a food pantry.  Documentation Required: Photo ID Pantry hours: Monday-Friday, 9:00am-4:00pm",
+    "Address": "546 South Bedford Street\nGeorgetown, DE 19947",
+    "Phone": "(302) 856-5574",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Georgetown",
+    "Name": "First State Community Action, Food Closet - Sussex County",
+    "Description": "Provides a food pantry.  Documentation Required: andID for head of household, social security cards for all household members and proof of income. Pantry hours: Monday-Friday, 8:00am-4:30pm",
+    "Address": "308 North Railroad Ave\nGeorgetown, DE 19947",
+    "Phone": "(302) 856-7761",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Georgetown",
+    "Name": "Blessed Givings, Emergency Food Program",
+    "Description": "Provides a food pantry.  Area Served:andSussex County Pantry hours: Monday through Saturday by appointment only",
+    "Address": "40 Ingramtown\nGeorgetown, DE 19947",
+    "Phone": "(302) 856-3447",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Georgetown",
+    "Name": "Catholic Charities Basic Needs Program Sussex County",
+    "Description": "Provides a food pantry.  Area Served:andSussex County, Low income families or persons in a crises Documentation Required: proof of income and monthly expenses. Pantry hours: Monday-Friday, 8:30am-4:30pm",
+    "Address": "406 Bedford Street Suite 9\nGeorgetown, DE 19947",
+    "Phone": "(302) 856-9578 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Harrington",
+    "Name": "Lake Forest Church Association Food Pantry",
+    "Description": "FOOD PANTRY - by appointment only\r\n\r\nVolunteers distribute food.Hours:Tuesday &amp; Thursday9:00am - 12:30pm\r\n\r\nCALL to be interviewed \r\nand get an appointment to receive food.\r\nYou may call as early as 8:30am \r\non Tuesdays or Thursdays to schedule your appointment.\r\n\r\n                                                    We provide help to people who ",
+    "Address": "102 Dorman Street\nHarrington, DE 19952",
+    "Phone": "302-222-8404",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37278_lake-forest-church-association-food-pantry_jyx.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Hockessin",
+    "Name": "Hockessin Community Center, Community Services",
+    "Description": "Provides a food pantry. ",
+    "Address": "4266 Millcreek Road\nHockessin, DE 19707",
+    "Phone": "(302) 239-2363",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Middletown",
+    "Name": "Amazing Grace Outreach Ministries  - Food Rescue",
+    "Description": "The Food Assistance Hours:Wednesday12:00pm - 3:00pm Requires a referral from a state social service center.\r\nAlternate address: 580 Woods Rd Bear, DE 19701. Alternate phone: (302) 838-2256",
+    "Address": "4843 Summit Bridge Road\nMiddletown, DE 19709",
+    "Phone": "(302) 777-7791",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/1458_amazing-grace-outreach-ministries-u-s-food-rescue_xkf.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Middletown",
+    "Name": "St. Anne's Episcopal Church Food Pantry",
+    "Description": "Open 2nd Tuesday of each month from 5:30pm - 6:30pm. We provide approximately a 2-3 day supply of basic non-perishable pantry staples.",
+    "Address": "15 E. Green Street\nMiddletown, DE 19709",
+    "Phone": "302-378-2401",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Middletown",
+    "Name": "Neighborhood House - Middletown Location",
+    "Description": "Provides a food pantry.  Area Served:Southern New Castle County - Middletown, Odessa and Townsend area Pantry Hours: Monday-Friday 10:00am - 3:30pm",
+    "Address": "219 West Green Street\nMiddletown, DE 19709",
+    "Phone": "(302) 378-7217",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24763_neighborhood_house_southern_new_castle_county_19709_kkz.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Middletown",
+    "Name": "Appoquinimink State Service Center",
+    "Description": "Provides a food pantry.  Area Served:and19977 (Northern Smyrna), 19938 (Clayton)",
+    "Address": "122 Silver Lake Road\nMiddletown, DE 19709",
+    "Phone": "(302) 378-5770",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Milford",
+    "Name": "Food Bank of Delaware",
+    "Description": "",
+    "Address": "1041 Mattlind Way\nMilford, DE 19963",
+    "Phone": "(302) 424-3301",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Milford",
+    "Name": "Milford State Service Center",
+    "Description": "Provides a food pantry.  Monday-Friday, 7:30am-5:00pm",
+    "Address": "11-13 Church Avenue\nMilford, DE 19963",
+    "Phone": "(302) 424-7230",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Milton",
+    "Name": "Jusst Sooup Ministry - Mobile Soup Kitchen",
+    "Description": "Provides a food pantry. For more information, please call.",
+    "Address": "18483 Cool Spring Rd\nMilton, DE 19968",
+    "Phone": "(302) 644-8113",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24752_jusst_sooup_ministrymobile_soup_kitchen_19958_ely.png"
+  },
+  {
+    "State": "Delaware",
+    "City": "Milton",
+    "Name": "Catholic Charities Casa San Francisco Emergency Food Pantry",
+    "Description": "Provides a food pantry.  ServesandLow-income people. Documentation Required: proof of income.",
+    "Address": "127 Broad Street\nMilton, DE 19947",
+    "Phone": "(302) 684-8694",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "Peoples Baptist Church, Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County",
+    "Address": "50 South Street\nNew Castle, DE 19720",
+    "Phone": "(302) 658-8156",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "LIFE Program, Mobile Pantries - Hope Lutheran Church",
+    "Description": "Provides a food pantry.  Area Served: New Castle County. Pantry hours: 3rd Thursday of the month starting at 3:00pm",
+    "Address": "230 Christiana Road\nNew Castle, DE 19720",
+    "Phone": "302-654-8886",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "DeLaWarr State Service Center",
+    "Description": "Open from 9:00 AM to 12:30 PM, Monday through Friday.",
+    "Address": "500 Rogers Road\nNew Castle, DE 19720",
+    "Phone": "(302) 577-2970",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "RiverCross Fellowship - Southgate Center",
+    "Description": "Hours: Wednesday 4:00pm - 6:00pmPlease call, for more information.",
+    "Address": "77 McCullough Drive, Suites 1 & 2\nNew Castle, DE 19720",
+    "Phone": "302-544-6770",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "Asbury UMC/ Fatima Food Closet",
+    "Description": "We distribute food through the week for emergencies.  On Friday, from 10:00am -1:00pm we distribute from the foyer of the fellowship hall.",
+    "Address": "300 East Basin Road\nNew Castle, DE 19720",
+    "Phone": "302-328-5649",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "New Castle",
+    "Name": "Asbury UMC - Fatima Food Closet",
+    "Description": "Please call the church office at 302-328-5649 or Merle at 302-328-6752.Referrals&nbsp; are needed to receive food",
+    "Address": "300 East Basin Road\nNew Castle, DE 19720",
+    "Phone": "302-328-5649",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Name": "Food Bank of Delaware ",
+    "Description": "Our mission is to provide nutritious foods to Delawareans in need and \r\nfacilitate long-term solutions to the problems of hunger and poverty \r\nthrough community education and advocacy. For more information, please call.",
+    "Address": "14 Garfield Way\nNewark, DE 19713",
+    "Phone": "(302) 292-1305",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/710_food-bank-of-delaware-incorporated_bwj.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Name": "United Auto Workers Local 1183",
+    "Description": "Provides a food pantry. ",
+    "Address": "698 Old Baltimore Pike\nNewark, DE 19702",
+    "Phone": "(302) 738-4500",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Name": "Society of Saint Vincent De Paul",
+    "Description": "Provides a food pantry.  Area Served:andBoundaries - I-95 to North side canal, Delaware/Maryland State line to Porter/Salem Church Roads Pantry hours: Monday-Friday, 9:00am-4:00pm",
+    "Address": "2431 Frazer Road\nNewark, DE 19702",
+    "Phone": "(302) 834-0228 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Name": "Hudson State Service Center",
+    "Description": "Provides a food pantry.  Area Served:andGreater Newark and North West New Castle County - Zip codes served are: 19711, 19713, 19701, 19717, 19702.",
+    "Address": "501 Ogletown Road\nNewark, DE 19711",
+    "Phone": "(302) 283-7500",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Newark",
+    "Name": "Friendship House, Newark Empowerment Center",
+    "Description": "Sunday BreakfastHours:7:00am - 9:00amat 720 N. Orange Street WilmingtonFirst come, first serve",
+    "Address": "69 East Main Street\nNewark, DE 19711",
+    "Phone": "(302) 544-0165",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24743_friendship_house_newark_empowerment_center_19711_eic.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Seaford",
+    "Name": "Salvation Army, Sussex",
+    "Description": "Provides a food pantry.  Area Served:and Delmar, Laurel, Seaford, Bridgeville, Greenwood Pantry hours: Monday-Friday, 9:30am-4:00pm",
+    "Address": "601 North Dual Highway\nSeaford, DE 19973",
+    "Phone": "(302) 628-2020",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Seaford",
+    "Name": "Shipley State Service Center",
+    "Description": "Provides a food pantry.  Area Served:andSouth and West Sussex County Pantry hours: Monday-Friday, 8:00am-4:30pm",
+    "Address": "350 Virginia Avenue\nSeaford, DE 19973",
+    "Phone": "(302) 628-2000",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Acorn Inc",
+    "Description": "",
+    "Address": "1607 Todds Ln\nWilmington, DE 19802",
+    "Phone": "(302) 762-4226",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "West End Neighborhood House, Crisis Alleviation Program",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County. Documentation:andreferrals requested, Photo ID required",
+    "Address": "710 North Lincoln Street\nWilmington, DE 19805",
+    "Phone": "(302) 658-4171",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "St Helenas Parish Social Ministry",
+    "Description": "Provides a food pantry.  Call for appointment or for food; no walk-ins. Serves clients in the following zip codes only: 19703, 19802, 19803, 19809, 19810, some 19801 Pantry hours: Monday-Friday, 9:00 am-12 noon (until 3:00pm in an emergency) MUST CALL FOR APPOINTMENT",
+    "Address": "602 Philadelphia Pike\nWilmington, DE 19809",
+    "Phone": "(302) 764-7545",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Sharon Temple Seventh-Day Adventist Church, Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andWilmington area Documentation Required: ID/or a referral",
+    "Address": "2001 Washington Street\nWilmington, DE 19802",
+    "Phone": "(302) 655-2461",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Rick VanStory Resource Center",
+    "Description": "Provides a food pantry. ",
+    "Address": "617 Shipley Street\nWilmington, DE 19801",
+    "Phone": "(302) 691-7946",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Saint Patricks Center, Food Security Initiative",
+    "Description": "Provides a food pantry.  Area Served:andNorthern New Castle County. Documentation Required: Referral from social service agency necessary for emergency food client and identification Pantry hours: Monday and Friday, 1:00pm -3:00pm",
+    "Address": "107 East 14Th Street\nWilmington, DE 19801",
+    "Phone": "(302) 652-6219",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Mount Joy United Methodist Church, Food Closet",
+    "Description": "Provides a food pantry.  Area Served:New Castle County Pantry Hours: Sunday8:00am - 12:00pm",
+    "Address": "455 Townsend Street\nWilmington, DE 19801",
+    "Phone": "(302) 655-7751",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24761_mount_joy_united_methodist_church_food_closet_19801_eay.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Neighborhood House, Family Services",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County, but primarily South Wilmington Pantry Hours: Monday-Friday10:00am-3:30pm",
+    "Address": "1218 B Street\nWilmington, DE 19801",
+    "Phone": "(302) 652-3928",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/24762_neighborhood_house_family_services_19801_jlv.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "O.A. Herring Community Services, Administration",
+    "Description": "Provides a food pantry.  Area Served:andNortheast Wilmington: 19801 and 19802 residents. Documentation Required: ID and referral, Picture I.D. for adults Pantry hours: Monday-Thursday, 9:00am-11:00am and Thursday 1-2:30pm",
+    "Address": "2801 North Pine Street\nWilmington, DE 19802",
+    "Phone": "(302) 764-0137",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Goodwill Industries, Food Closet - New Castle County",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County, Unemployed or under-employed individuals in need of food assistance",
+    "Address": "300 East Lea Boulevard\nWilmington, DE 19802",
+    "Phone": "(302) 761-4640",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Hanover Presbyterian Church Clothing Closet",
+    "Description": "Provides a food pantry.  Food Closet is available to the first 25 people, and they will be served once a month.and No referral necessary, bring Photo ID, and proof of income",
+    "Address": "1801 North Jefferson Street\nWilmington, DE 19802",
+    "Phone": "(302) 658-5114",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Kingswood Community Center, Community and Family Services",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County. Documentation Required: photo ID, proof of income and proof of all individuals in the household (Ex. SS Card, Medicaid Card). Pantry hours: Monday-Friday: 10am-1pm",
+    "Address": "2300 Bowers Street\nWilmington, DE 19802",
+    "Phone": "(302) 764-9022",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "LACC, Family Support Services",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County Pantry hours: Tuesday and Thursday: 1:00-4:00pm",
+    "Address": "403 North Van Buren Street\nWilmington, DE 19805",
+    "Phone": "(302) 655-7338 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "LIFE Program, Mobile Pantries - Shiloh Baptist Church",
+    "Description": "Provides a food pantry.  Area Served: New Castle County Pantry hours: 2nd Thursday of the month starting at 2:00pm",
+    "Address": "W 23rd and N Washington Streets\nWilmington, DE 19802",
+    "Phone": "302-654-8886",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Ministry of Caring, Samaritan Outreach",
+    "Description": "Provides a food pantry.  Documentation Required: picture ID required Pantry hours: By appointment",
+    "Address": "1410 North Claymont Street\nWilmington, DE 19802",
+    "Phone": "(302) 594-9476",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Evangelistic Temple of Truth, Emergency Food Closet",
+    "Description": "Provides a food pantry.  Area Served:andZip Codes 19805 and 19806 (including areas south of Lancaster Avenue, Hedgeville and Browntown). Documentation Required: photo ID, proof of income and address.",
+    "Address": "307 South Franklin Street\nWilmington, DE 19805",
+    "Phone": "302-654-0190",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Catholic Charities Basic Needs Program New Castle County",
+    "Description": "Provides a food pantry.  Area Served:andEastern Shore of Maryland, Low income families or persons in a crisis. Documentation Required: provide proof of income and monthly expenses Pantry hours: Monday-Friday, 8:30am-4:30pm",
+    "Address": "2601 W. 4Th Street\nWilmington, DE 19805",
+    "Phone": "(302) 655-9624",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Mother Africa Union Church",
+    "Description": "Food Pantry is open on Tuesdays 10:00-4:00",
+    "Address": "812 North Franklin Street\nWilmington, DE 19806",
+    "Phone": "(302) 559-1912",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Salvation Army, Family Services-New Castle County",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County Pantry hours: Monday to Friday 9:00am-11:00am",
+    "Address": "104 West 5th Street\nWilmington, DE 19801",
+    "Phone": "(302) 472-0750",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Church of Our Savior",
+    "Description": "Provides a food pantry.  Area Served:andNew Castle County Pantry hours: 3rd and 4th Saturday of the Month, 11:00am-2:00pm",
+    "Address": "1006 East 28Th Street\nWilmington, DE 19802",
+    "Phone": "(302) 764-4642",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Sunday Breakfast Mission",
+    "Description": "Community Meal\r\nA hot, nutrious meal is served to more than 200 men, women and children each night.",
+    "Address": "110 N. Poplar St.\nWilmington, DE 19899",
+    "Phone": "(302) 875-7873",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/33716_nboxhzhzeg.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "ALAC Food Pantry",
+    "Description": "ALAC Food Pantry is committed to helping the Wilmington, DE community, with the mission to \"ServeChristByServingOthers\". We provide perishable and non-perishable  foods every third (3rd) Friday of the month. Participants must have proof of residence in a Wilmington zip code, provide necessary income verification, and complete a family information profile. Hours: The 3rd Frida",
+    "Address": "2923 N Tatnall St\nWilmington, DE 19802",
+    "Phone": "302-778-2522",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "Cedars Church of Christ",
+    "Description": "Hours:Thursday  6pm-7pmRequirements:Picture IDWe provide three days worth of food (3 meals per day), for no charge. This is meant as a temporary help, for those in need. Check website for monthly schedule. Please call, for more information.",
+    "Address": "511 Greenbank Rd\nWilmington, DE 19808",
+    "Phone": "(302) 994-3800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37364_cedars-church-of-christ_nvo.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "St. Stephen's Lutheran Church",
+    "Description": "Hours:Monday, Tuesday, Thursday and Friday9:00am - 12:00pmWednesday 5:00pm - 7:00pm",
+    "Address": "1301 N. Broom Street\nWilmington, DE 19806",
+    "Phone": "(302) 652-7623",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37689_st-stephens-lutheran-church_juv.jpg"
+  },
+  {
+    "State": "Delaware",
+    "City": "Wilmington",
+    "Name": "(LCS) Lutheran Community Services",
+    "Description": "Stationary Pantries (referral needed)\r\n\r\nHope Lutheran Church\r\n230 Christiana Rd., New Castle, DE 19720\r\nWednesday, Thursday, Friday9:30am – 12:00pmSt. Stephens Lutheran Church\r\n1301 N. Broom St., Wilmington, DE 19806\r\nMonday, Tuesday, Thursday, Friday 9:00am -12:00pmWednesday5:00pm - 7:00pm \r\n\r\nZion Lutheran Church\r\n2101 Lanca",
+    "Address": "2809 Baynard Blvd\nWilmington, DE 19802",
+    "Phone": "(302) 654-8886",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  }
+]

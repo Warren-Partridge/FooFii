@@ -1,0 +1,920 @@
+[
+  {
+    "State": "Hawaii",
+    "City": "Aiea",
+    "Name": "Aiea Seventh-day Adventist Church",
+    "Description": "Provides a food pantry.  Serves Aiea and Halawa area residents on the island of Oahu Pantry hours: By appointment",
+    "Address": "99 Moanalua Road\nAiea, HI 96701",
+    "Phone": "808-488-9855",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Eleele",
+    "Name": "Eleele Baptist Church",
+    "Description": "Provides a food pantry.  Pantry hours: Call Ahead",
+    "Address": "339 Mehana Road\nEleele, HI 96705",
+    "Phone": "808-332-5906",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Ewa Beach",
+    "Name": "Ewa Beach UMC Loaves and Fishes",
+    "Description": "Food bank is open  from 9 to 11 a.m. on the second and fourth Wednesdays of each month.  A picture\r\nID is required.  Additionally, from 7:30 to 8:30 a.m. on the days the food bank is  open, there is a free\r\nbreakfast with prayer with the Pastor.",
+    "Address": "91-660 Pohakupuna Road\nEwa Beach, HI 96706",
+    "Phone": "808-689-0153",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Ewa Beach",
+    "Name": "Ewa Beach Baptist Church",
+    "Description": "Provides a food pantry.  Serves Ewa, Ewa Beach, Waipahu, Kapolei on Oahu. Picture ID required. Pantry hours: Last Saturday of every month: 10 am - 11 am",
+    "Address": "91-743 Pohakupuna Road\nEwa Beach, HI 96706",
+    "Phone": "808-689-8888",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Haiku",
+    "Name": "Feed My Sheep",
+    "Description": "Provides a food pantry.  Serves Kahului and Lahaina on the island of Maui. ID must be presented upon registration and for all family members being claimed. Pantry hours: Saturday: 9:30 am - 11 am",
+    "Address": "655 Haiku Road\nHaiku, HI 96708",
+    "Phone": "808-870-9421",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Haleiwa",
+    "Name": "North Shore Christian Fellowship Fresh Produce Distribution",
+    "Description": "Provides a food pantry.  Serves Haleiwa/North Shore area on the island of Oahu. Must sign in (first come, first served). Pantry Hours: 4th Friday of every month 11:30am",
+    "Address": "66-437 Kamehameha Hwy Suite 104\nHaleiwa, HI 96712",
+    "Phone": "808-637-6353",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25401_north_shore_christian_fellowship_fresh_produce_distribution_96712_ari.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Haleiwa",
+    "Name": "North Shore Christian Fellowship North Shore Community Foodb",
+    "Description": "Provides a food pantry.  Serves North Shore area on the island of Oahu. Pantry hours: Last Tuesday of every month: 10 am - 11 am",
+    "Address": "67-437 Kamehameha Hwy Suite 101\nHaleiwa, HI 96712",
+    "Phone": "808-637-6225",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Haleiwa",
+    "Name": "Once A Month Church North Shore Food Bank",
+    "Description": "Provides a food pantry.  Serves Oahu Pantry hours: Wednesday.: 10am - 2pm",
+    "Address": "66-437 Kamehameha Highway #210\nHaleiwa, HI 96712",
+    "Phone": "808-637-3138",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hana",
+    "Name": "Feed My Sheep",
+    "Description": "Provides a food pantry.  Serves Kahului and Lahaina on the island of Maui. ID must be presented upon registration and for all family members being claimed. Pantry hours: Wednesdays 4:30 pm - 6 pm",
+    "Address": "Hana Highway\nHana, HI 96713",
+    "Phone": "808-870-9421",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hanapepe",
+    "Name": "Salvation Army - Hanapepe Corps",
+    "Description": "Provides a food pantry.  Serves West-side - Island of Kauai (Koloa to Manaa). Written application needed. Pantry hours: Intake: Tuesdays 1 pm - 4 pm",
+    "Address": "4465 Puolo Road\nHanapepe, HI 96716",
+    "Phone": "808-335-5441",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hauula",
+    "Name": "Kama Lama Lama O Keao Church",
+    "Description": "Provides a food pantry.  Serves Oahu. Pantry hours: 1st Wednesday of every month: 9 am - 2 pm",
+    "Address": "53-842 Kamehameha Hwy\nHauula, HI 96717",
+    "Phone": "808-293-5411",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hauula",
+    "Name": "Greater Mount Zion Holiness Church",
+    "Description": "Provides a food pantry.  Serves Windward side of Oahu Pantry hours: 3rd Tuesdays of every month: 12 pm - 2 pm",
+    "Address": "53-776 Kamehameha Hwy\nHauula, HI 96717",
+    "Phone": "808-293-2261",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hilo",
+    "Name": "Under His Wings Ministry",
+    "Description": "Provides a food pantry.  Serves Hilo on the Island of Hawaii. Pantry hours: Wednesdays 8 am - 10 am",
+    "Address": "111 Wainuhe Place\nHilo, HI 96720",
+    "Phone": "808-969-3094",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hilo",
+    "Name": "Salvation Army - Hilo Corps",
+    "Description": "Provides a food pantry.  Serves the first 25 people in line. Need to bring picture ID and social security card for each household member. Pantry hours: Friday: 8:30-11 am",
+    "Address": "219 Ponahawai Street\nHilo, HI 96720",
+    "Phone": "808-935-1277",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hilo",
+    "Name": "Glad Tidings Assembly of God",
+    "Description": "Provides a food pantry.  Serves Hilo area on the Island of Hawaii. Pantry hours: Tues., 11:30 am - 1:30 pm Closed 2nd Tues. of every month.",
+    "Address": "116 Kapiolani Street\nHilo, HI 96720",
+    "Phone": "(808) 961-061",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Hilo",
+    "Name": "Glad Tidings Assembly of God",
+    "Description": "Provides a food pantry.  Serves Hilo area on the Island of Hawaii. Pantry hours: Tuesday, 11:30 am - 1:30 pm (Closed 2nd Tuesday of every month.)",
+    "Address": "116 Kapiolani Street\nHilo, HI 96720",
+    "Phone": "808-961-0616",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Holualoa",
+    "Name": "Office for Social Ministry",
+    "Description": "",
+    "Address": "PO Box 569\nHolualoa, HI 96725",
+    "Phone": "(808) 322-7373",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honokaa",
+    "Name": "Salvation Army - West Hawaii Outpost",
+    "Description": "Provides a food pantry.  Serves Hamakua and North Hilo district on the Island of Hawaii. Pantry hours: Wednesday and Thursday: 9 am - 12pm",
+    "Address": "45-511 Rickard Place\nHonokaa, HI 96727",
+    "Phone": "808-775-7346",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honokaa",
+    "Name": "Our Lady of Lourdes Church Food Pantry",
+    "Description": "Provides a food pantry.  Serves Hamakua Coast on the Island of Hawaii. Pantry hours: Tuesday and Thursday: 1 pm - 3 pm",
+    "Address": "45-5028 Plumeria Road\nHonokaa, HI 96727",
+    "Phone": "808-775-9591",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Waikiki Community Center Emergency Food Pantry",
+    "Description": "Provides a food pantry.  Serves Waikiki area on the Island of Oahu. Bring identification and either EBT or Quest card. Pantry Hours: Tuesday 1:00pm to 2:45pm",
+    "Address": "310 Paoakalani Avenue\nHonolulu, HI 96815",
+    "Phone": "808-923-1802",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25447_waikiki_community_center_96815_wwf.png"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Susannah Wesley Community Center",
+    "Description": "Provides a food pantry.  Serves Kalihi and greater Honolulu. Pantry hours: Thursdaysand Friday: 12pm - 2pm",
+    "Address": "1117 Kaili Street\nHonolulu, HI 96819",
+    "Phone": "808-847-1535",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Sts. Peter and Paul Catholic Church",
+    "Description": "Provides a food pantry.  Serves Service border is Ward Avenue up to Wilder, to Ala Moana Blvd, and Kapahulu Avenue. Recipient must live within the service area, have an income of $1000 or less, and not have received assistance from this food pantry for the past two years. Hawaii State Photo ID and proof of current residence required. Pantry hours: Tuesday, Thursday - Friday: 8 am - 10 ",
+    "Address": "800 Kaheka Street\nHonolulu, HI 96814",
+    "Phone": "808-941-0675",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "St Pius X Church Outreach",
+    "Description": "Provides a food pantry.  Serves Manoa, University, Punahou, upper Makiki areas on the Island of Oahu. Picture I.D. required. Pantry hours: Mondays through Fridays 10 am - 11:30 am (Closed on all State and Federal Holidays)",
+    "Address": "2821 Lowrey Avenue\nHonolulu, HI 96822",
+    "Phone": "808-988-3308",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "River of Life Mission",
+    "Description": "Provides a food pantry.  Serves Oahu. Picture ID is required. Pantry hours: Pick up - Friday: 1pm - 2pm. (For food distribution, you must call ahead)",
+    "Address": "101 N Pauahi Street\nHonolulu, HI 96817",
+    "Phone": "808-524-7656",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Saint Elizabeth's Church",
+    "Description": "Provides a food pantry.  Food Pantry Hours:St. Elizabeth’s offers a food pantry that is open daily to those in need. Please call, for more information.Office Hours:Monday - Thursday9:00am - 2:00pmFoodbankTuesday - Friday 8:00am - 1:00pm",
+    "Address": "720 North King Street\nHonolulu, HI 96817",
+    "Phone": "(808) 284-2112",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25414_saint_elizabeths_church_96817_xsz.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Palama Settlement",
+    "Description": "Provides a food pantry.  Serves Kalihi, Liliha, and Palama neighborhoods.",
+    "Address": "810 N Vineyard Boulevard\nHonolulu, HI 96817",
+    "Phone": "808-845-3945",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Parish of St Clement",
+    "Description": "Provides a food pantry.  Serves Oahu. Need to bring picture ID for adults and birth certificates for children. Pantry hours: 3rd Saturday every month: 11:30 am - 12:30 pm",
+    "Address": "1515 Wilder Avenue\nHonolulu, HI 96822",
+    "Phone": "808-955-7745",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Our Lady of the Mount - Kokua Ministry",
+    "Description": "Provides a food pantry.  Serves Oahu Pantry hours: 1st and 3rd Thursday of every month: 8:30 am-11:30 am",
+    "Address": "1614 Monte Street\nHonolulu, HI 96819",
+    "Phone": "808-845-0828",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Olivet Baptist Church",
+    "Description": "Provides a food pantry.  Serves Oahu. Photo identification required for all family members for food pantry services. Pantry hours: Last Saturday of every month. 9 am - 11 am",
+    "Address": "1775 S Beretania St\nHonolulu, HI 96826",
+    "Phone": "808-946-6505",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "New Life United Pentecostal Church",
+    "Description": "Provides a food pantry.  Serves Oahu. Pantry hours: 1st Tuesday of every month: 8:30 pm - 9:30 pm",
+    "Address": "20 Bouganville Drive\nHonolulu, HI 96818",
+    "Phone": "808-623-4300",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Kaumakapili Church",
+    "Description": "Provides a food pantry.  Serves Oahu. Picture ID is required. Pantry hours: Every Other Wednesdays 8:30 am - 9:30 am",
+    "Address": "766 N King Street\nHonolulu, HI 96817",
+    "Phone": "808-845-0908",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Honolulu Church of God",
+    "Description": "Provides a food pantry.  Serves Moilili area on the island of Oahu (96826). Must present Photo I.D. Written application will be required for first time people. Pantry hours: Sunday: 10:30am (Church service starts, afterwards food is distributed. Call 1st.) Wednesdays 6:45pm",
+    "Address": "822 Coolidge Street\nHonolulu, HI 96826",
+    "Phone": "808-949-4995",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Full Gospel Temple",
+    "Description": "Provides a food pantry.  Serves Senior Citizens, single parents, widows, and homeless individuals in Oahu Pantry hours: Sunday: 12pm -12:30pm; Wednesdays 8am-10am",
+    "Address": "2464 North School Street\nHonolulu, HI 96819",
+    "Phone": "808-780-7861",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Angel Network Charities",
+    "Description": "Provides a food pantry.  Serves Oahu area residents who are homeless or are at risk of being homeless. Pantry hours: Thursday, Friday: 9 am - 3 pm",
+    "Address": "5339 Kalanianaole Hwy\nHonolulu, HI 96824",
+    "Phone": "808-377-1841",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25354_1045162_311961872271615_2105318115_n.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Surfing the Nations - Send Hope",
+    "Description": "Provides a food pantry.  Serves Kalihi Valley area on the island of Oahu.",
+    "Address": "1542 Kam IV Road\nHonolulu, HI 96819",
+    "Phone": "808-622-6234",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Honolulu",
+    "Name": "Taiheiyo Church Sunrise Food Pantry",
+    "Description": "Provides a food pantry.HoursThe last Saturday of each month7:30am - 8:30am Nutritious meals and drinks for individuals or families.",
+    "Address": "844 Wiliwili Street\nHonolulu, HI 96826",
+    "Phone": "(808) 949-1610",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kahului",
+    "Name": "Maui Food Bank - Kahului",
+    "Description": "",
+    "Address": "330 Hoohana St\nKahului, HI 96733",
+    "Phone": "",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kahului",
+    "Name": "Salvation Army - Kahului Corps Family Services",
+    "Description": "Provides a food pantry.  Serves Maui (not including Lahaina). Documentation Needed: Proof of identification, low income status, and residence required. Pantry hours: Thursday: 9 am - 12pm (By appointment)",
+    "Address": "45 W. Kamehameha Avenue\nKahului, HI 96732",
+    "Phone": "808-877-6757",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kahului",
+    "Name": "Family Life Center Food Pantry",
+    "Description": "Provides a food pantry.  Serves Kahului on the island of Maui. Must register first and ID is required. Pantry hours: Wednesdays 10 am - 1 pm or by appointment.",
+    "Address": "95 S Kane Avenue\nKahului, HI 96732",
+    "Phone": "808-877-0880",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kahului",
+    "Name": "Christ the King Outreach Pantry",
+    "Description": "Provides a food pantry.  Serves Kahului on the island of Maui. ID required. Pantry hours: 2nd and 4th Friday of the month: 3 - 5 pm",
+    "Address": "20 West Wakea Avenue\nKahului, HI 96732",
+    "Phone": "",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua",
+    "Name": "St Anthony's Outreach",
+    "Description": "Provides a food pantry.  Serves Kailua, Oahu. Need to bring driver's license or State ID card, Social Security card and proof of address. Pantry hours: Monday, Tuesday, Thursday, Friday: 9am - 11am",
+    "Address": "114 Makawao Street\nKailua, HI 96734",
+    "Phone": "808-266-2227",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua",
+    "Name": "Harbor House Inc",
+    "Description": "Provides a food pantry.  Serves Windward Oahu. Must bring photo I.D. Pantry hours: 1st and 2nd Friday of every month: 2pm -4:30pm",
+    "Address": "1341 Aunauna Street\nKailua, HI 96734",
+    "Phone": "808-261-1017",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua",
+    "Name": "Windward United Church of Christ",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 10:30-12pm",
+    "Address": "38 Kaneohe Bay Drive\nKailua, HI 96734",
+    "Phone": "808-254-3802",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua",
+    "Name": "Hope Chapel Olomana",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 5pm",
+    "Address": "1020 Keolu Drive\nKailua, HI 96734",
+    "Phone": "808-262-8021",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua-Kona",
+    "Name": "St Anthony's Outreach",
+    "Description": "Provides a food pantry.  Serves Kailua, Oahu. Need to bring driver's license or State ID card, Social Security card and proof of address. Pantry hours: Monday, Tuesday, Thursday, Friday: 9am - 11am",
+    "Address": "114 Makawao Street\nKailua, HI 96734",
+    "Phone": "808-266-2227",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua-Kona",
+    "Name": "Harbor House Inc",
+    "Description": "Provides a food pantry.  Serves Windward Oahu. Must bring photo I.D. Pantry hours: 1st and 2nd Friday of every month: 2pm -4:30pm",
+    "Address": "1341 Aunauna Street\nKailua, HI 96734",
+    "Phone": "808-261-1017",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua-Kona",
+    "Name": "Windward United Church of Christ",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 10:30-12pm",
+    "Address": "38 Kaneohe Bay Drive\nKailua, HI 96734",
+    "Phone": "808-254-3802",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kailua-Kona",
+    "Name": "Hope Chapel Olomana",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 5pm",
+    "Address": "1020 Keolu Drive\nKailua, HI 96734",
+    "Phone": "808-262-8021",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kalaheo",
+    "Name": "Kalaheo Missionary Church",
+    "Description": "Provides a food pantry.  Pantry hours: Last Wednesday of the month",
+    "Address": "4480 Hokua Road\nKalaheo, HI 96741",
+    "Phone": "808-332-9916",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaneohe",
+    "Name": "St Ann's Catholic Church",
+    "Description": "Provides a food pantry.  Serves Kaneohe area of the Island of Oahu. Must be a member of the church and/or a families living in the Kaneohe community. Please call ahead for food distribution during the operation hours.Hours:  Monday - Friday 9:30 am - 12:00pm (for pickup that day) and 1 pm - 2:30 pm (for pickup the next day)",
+    "Address": "46-129 Haiku Road\nKaneohe, HI 96744",
+    "Phone": "(808) 247-3092",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25424_st_anns_catholic_church_96744_iqw.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaneohe",
+    "Name": "Salvation Army - Kaneohe Corps",
+    "Description": "Provides a food pantry.  Serves Windward Oahu. Pantry hours: Mondays through Fridays 9 am - 1 pm",
+    "Address": "45-175 Waikalua Road\nKaneohe, HI 96744",
+    "Phone": "808-235-1408",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaneohe",
+    "Name": "Kualoa-heeia Ecumenical Youth Project",
+    "Description": "Provides a food pantry.  Serves Heeia (Kahaluu-North) through Kahuku in Windward Oahu. Will not accept clients from other areas of Oahu including Kaneohe. Emergency food: Heeia (Kahaluu) to Kahuku in Windward Oahu. Pantry hours: Wednesdays 9 am - 10 am (Except during the 3rd week of the month, then it is on Monday: 3 pm - 4:30 pm)",
+    "Address": "47-200 Waihee Road\nKaneohe, HI 96744",
+    "Phone": "808-239-5777",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaneohe",
+    "Name": "Kaneohe Seventh-day Adventist Church",
+    "Description": "Provides a food pantry.  Serves Kaneohe area on the Island of Oahu. Please bring your own box. Pantry hours: Wednesdays 6 pm",
+    "Address": "45-566 Mahinui Road\nKaneohe, HI 96744",
+    "Phone": "808-247-4345",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaneohe",
+    "Name": "Honolulu Community Action Program",
+    "Description": "Provides a food pantry.  Serves Windward area on the island of Oahu. You need to register at the HCAP office on Waihee road before going to the food pantry, and they just need your ID. Its the first Tuesday and third Monday of every month. Registration is at 2:00 , distribution at 2:30, no one is allowed on premises until 2:00 p.m ",
+    "Address": "47-232 Waihee Road\nKaneohe, HI 96744",
+    "Phone": "808-239-5754",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kapaa",
+    "Name": "Kapaa Missionary Church",
+    "Description": "Provides a food pantry.  Pantry Hours: Saturday 5:00pm - 6:00pmSoup Kitchen meal is on the 2nd &amp; 4th Saturday of each month.&nbsp; Sometimes there are special church events which may result in the cancelation of the Food Pantry and/or Soup Kitchen. A notice is usually given the week prior. ",
+    "Address": "4-758 Kuhio Highway\nKapaa, HI 96746",
+    "Phone": "808-822-5594",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kapaa",
+    "Name": "Kapaa Seventh Day Adventist",
+    "Description": "Provides a food pantry.  Pantry hours: Sunday: Until 4pm (Please call 1st)",
+    "Address": "6979 Kawaihua Road\nKapaa, HI 96746",
+    "Phone": "808-823-6083",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kapolei",
+    "Name": "St Jude Catholic Church Outreach",
+    "Description": "Provides a food pantry.  Serves Makakilo, Kapolei, Waipahu, Waianae, and Honokai Hale on Oahu. Bring photo ID for adults, birth certificates for children. Pantry hours: Tuesday, Thursday: 3:30 pm - 4:30 pm",
+    "Address": "92-455 Makakilo Drive\nKapolei, HI 96707",
+    "Phone": "808-672-8669",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kaunakakai",
+    "Name": "Maui Economic Opportunity Inc Program - Molokai",
+    "Description": "Provides a food pantry.  Serves Molokai Pantry hours: 3rd Wednesday of the Month: 7:45am-4:30pm",
+    "Address": "380 Kolapa Place\nKaunakakai, HI 96748",
+    "Phone": "808-553-3216",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Keaau",
+    "Name": "Paradise Park Church of the Nazarene Ohana Food Pantry",
+    "Description": "Provides a food pantry.  Serves Puna. Need photo ID of self, ID for other members of household and income verification. Pantry hours: Wednesday (except 1st week of the month): 4:30 pm - 5:30 pm Year around.",
+    "Address": "15-1839 32nd Avenue\nKeaau, HI 96749",
+    "Phone": "808-982-5177",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Keauhou",
+    "Name": "Hawaii Island Food Bank",
+    "Description": "",
+    "Address": "Keauhou, HI 96739",
+    "Phone": "(808) 322-1418",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kihei",
+    "Name": "Keolahou Church",
+    "Description": "Provides a food pantry.  Serves Kihei on the island of Maui. Must register first and ID and proof of residency is required. Pantry hours: Friday: 9 am - 10 am",
+    "Address": "177 S Kihei Road\nKihei, HI 96753",
+    "Phone": "808-879-4693",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kihei",
+    "Name": "Feed My Sheep",
+    "Description": "Provides a food pantry.  Serves Kahului and Lahaina on the island of Maui. ID must be presented upon registration and for all family members being claimed. Pantry hours: Saturday: 10:30 am - 12 pm",
+    "Address": "300 East Welakahao\nKihei, HI 96753",
+    "Phone": "808-870-9421",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Koloa",
+    "Name": "Koloa Union Church",
+    "Description": "Provides a food pantry.  Pantry hours: 3rd Wednesday of the Month: 2:45pm",
+    "Address": "3289 Poipu Road\nKoloa, HI 96756",
+    "Phone": "808-742-1730",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Koloa",
+    "Name": "Child And Family Service Community Centers Nana's House",
+    "Description": "Provides a food pantry.  Serves Koloa, Lawai, Kalaheo, Eleele, Hanapepe, Waimea or Kekaha Pantry hours: Monday, Wednesday, Friday: 10am - 12pm; Wednesday, Thursday: 1-4 p.m",
+    "Address": "9675 Waimea Road\nKoloa, HI 96756",
+    "Phone": "808-338-0252",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Kula",
+    "Name": "St John's Episcopal Church",
+    "Description": "Provides a food pantry.  Serves Kula on the island of Maui. Must register and ID is required.",
+    "Address": "8992 Kula Hwy\nKula, HI 96790",
+    "Phone": "808-878-1485",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lahaina",
+    "Name": "Salvation Army - Lahaina Corps",
+    "Description": "Provides a food pantry.  Serves West Maui and Lanai. Need to bring verification of income, identification, and proof of emergency. Pantry hours: Thursday: 9 am - 1:30 pm",
+    "Address": "131 Shaw Street\nLahaina, HI 96761",
+    "Phone": "808-661-5335",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lahaina",
+    "Name": "Feed My Sheep",
+    "Description": "Provides a food pantry.  Serves Kahului and Lahaina on the island of Maui. Lahaina Pantry Hours: Thursday10:30am - 11: 45amThe corner of Dickenson Street and Wainee StreetKahului Pantry Hours:Saturday9:30am - 12:00pmChrist the King Catholic Church, corner of Wakea and PuuneneRequirements:ID must be presented upon registration and for all famil",
+    "Address": "1028 Wainee Street\nLahaina, HI 96761",
+    "Phone": "(808) 870-9421",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25368_feed_my_sheep_96761_jnx.gif"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lanai City",
+    "Name": "Maui Economic Opportunity Inc Lanai",
+    "Description": "Provides a food pantry.  Serves Lanai. To qualify, your household's income cannot exceed 150% of the State's poverty guidelines",
+    "Address": "1144 Ilima Street\nLanai City, HI 96763",
+    "Phone": "808-565-6665",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lawai",
+    "Name": "Kauai Bible Church",
+    "Description": "Provides a food pantry.  Serves Kauai Pantry hours: Sunday: 11:30am-12:30pm",
+    "Address": "2-4131 Kaumualii Highway\nLawai, HI 96765",
+    "Phone": "808-742-7514",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lihue",
+    "Name": "Kauai Food Bank",
+    "Description": "",
+    "Address": "3285 Waapa Street\nLihue, HI 96766",
+    "Phone": "(808) 246-3809",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lihue",
+    "Name": "St Michael's And All Angels Church",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 1:30-3:30 pm",
+    "Address": "4364 Hardy Street\nLihue, HI 96766",
+    "Phone": "808-245-3796",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lihue",
+    "Name": "Salvation Army - Lihue Corps",
+    "Description": "Provides a food pantry.  Serves Kauai. Pantry Hours: Tuesday and Thursday11:3-am - 12:30pm",
+    "Address": "4182 Hardy Street\nLihue, HI 96766",
+    "Phone": "(808) 245-2571",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25422_salvation_army_lihue_corps_96766_xvk.png"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lihue",
+    "Name": "Lihue Court Townhomes",
+    "Description": "Provides a food pantry.  Pantry hours: 3rd Wednesday of the month",
+    "Address": "4160 Hoala Street\nLihue, HI 96766",
+    "Phone": "808-246-6997",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Lihue",
+    "Name": "Aloha Church",
+    "Description": "Provides a food pantry.  Pantry hours: 3rd Friday of the Month: 12 pm",
+    "Address": "4334 Uahi Road\nLihue, HI 96766",
+    "Phone": "808-241-7177",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Makawao",
+    "Name": "St Joseph Church Outreach Program - Makawao",
+    "Description": "Provides a food pantry.  Serves Upcountry Maui (Haiku, Haliimaile, Kula, Makawao, Pukalani, Olinda). Need to bring verification of income and need to bring utility bill, etc. Pantry hours: 4th Thursday of every month: 9 am - 11:30 am",
+    "Address": "1294 Makawao Avenue\nMakawao, HI 96768",
+    "Phone": "808-572-2822",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Pahoa",
+    "Name": "Sacred Heart Church - Pahoa",
+    "Description": "Hours:Third Thursday of the month10:00 am to 12:00pm\r\nWe are located in Avery Hall.  Free parking, coffee and snacks.",
+    "Address": "15-3033 Pahoa Village Road\nPahoa, HI 96778",
+    "Phone": "(808) 965-8202",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Pearl City",
+    "Name": "Peniel Pearl Gates Church",
+    "Description": "Provides a food pantry.  Serves Only serves Aiea to Pearl City residents, and proof of residency is required. Pantry hours: 1st Thursday of every month: 10 am - 11:30 am. Please call 1st",
+    "Address": "944 Hugh Street\nPearl City, HI 96782",
+    "Phone": "808-454-0800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Pearl City",
+    "Name": "Our Lady of Good Counsel Church Outreach",
+    "Description": "Provides a food pantry.  Serves Pearl City and Aiea. Must have picture I.D. with current address. Pantry Hours: Monday and Thursday: 9:00am - 11:30amCall 1st - ensure availability, closed on holidays.",
+    "Address": "1525 Waimano Home Road\nPearl City, HI 96782",
+    "Phone": "808-455-3012",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Princeville",
+    "Name": "Church of the Pacific",
+    "Description": "Provides a food pantry.  Pantry hours: Wednesdays 4:15-5pm",
+    "Address": "4521 Kapa Ka Street\nPrinceville, HI 96722",
+    "Phone": "808-826-6481",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Pukalani",
+    "Name": "Grace Church",
+    "Description": "Provides a food pantry.  Serves Upcountry and Kula areas on the island of Maui. Pantry hours: Wednesdays 12-1 pm",
+    "Address": "55 Maka'ena Road\nPukalani, HI 96788",
+    "Phone": "808-572-8384",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Ualapue",
+    "Name": "Ka Hale Pomaika'i",
+    "Description": "We serve the families on the East End of Moloka'i. \r\nHours for families other than our clients are generally M-W-F after 12:30 PM \r\nPlease call first to schedule your pick up.  ",
+    "Address": "7533 Kamehameha V Hwy\nUalapue, HI 96748",
+    "Phone": "808-558-8480",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wahiawa",
+    "Name": "Wahiawa 7th Day Adventist Church",
+    "Description": "Provides a food pantry.  Serves Oahu Pantry hours: Last Sunday of every month: 9 am-11 am",
+    "Address": "1313 California Avenue\nWahiawa, HI 96786",
+    "Phone": "808-622-3440",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wahiawa",
+    "Name": "St Stephen's Episcopal Church Food Pantry",
+    "Description": "Provides a food pantry.  Serves Wahiawa, Whitmore Village, or the North Shore. May not have received food from the food pantry for at least 30 days. Pantry hours: Tuesdays and Fridays 9 am - 11 am",
+    "Address": "1679 California Avenue\nWahiawa, HI 96786",
+    "Phone": "808-621-8662",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waialua",
+    "Name": "St Michael's Church Parish Outreach",
+    "Description": "Provides a food pantry.  Serves Haleiwa, Waialua and Mokuleia on the Island of Oahu. Need to bring driver's license or State ID card. Pantry hours: Monday, Tuesday and Thursday: 8:30 am - 10 am",
+    "Address": "67-390 Goodale Avenue\nWaialua, HI 96791",
+    "Phone": "808-637-4040 x2",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waianae",
+    "Name": "Waianae Seventh Day Adventist Church",
+    "Description": "Provides a food pantry.  Serves Waianae.",
+    "Address": "86-072 Farrington Hwy\nWaianae, HI 96792",
+    "Phone": "808-696-3988",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waianae",
+    "Name": "Waianae Assembly of God - Food Pantry",
+    "Description": "Provides a food pantry.  Clients need to present official Hawaii State photo identification (State ID or Driver's License) in order to recieve food. Pantry hours: 1st and 2nd Tuesdays of every month: 1:30 - 2:30 pm",
+    "Address": "94-123 Makaha Valley Road\nWaianae, HI 96792",
+    "Phone": "808-306-3931",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waianae",
+    "Name": "Paradise Chapel Ma'ili",
+    "Description": "Provides a food pantry.  Pantry hours: 2nd Tuesday of each month from 8 a.m. to 9 a.m. Picture ID needed.",
+    "Address": "87-125 Maipaloa Street\nWaianae, HI 96792",
+    "Phone": "808-668-1588",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waianae",
+    "Name": "Honolulu Community Action Program Inc. Leeward District",
+    "Description": "Provides a food pantry.  Serves Makaha, Waianae, Maili, Nanakuli, Makakilo, and Ewa on the Island of Oahu. Hours;The last 2 Tuesdays of the month10:00am - 12:00pmRequirements:Registration is required. Forms are available at 10:00am on siteIDProof of&nbsp; residence.",
+    "Address": "85-555 Farrington Hwy\nWaianae, HI 96792",
+    "Phone": "(808) 696-4261",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/25380_honolulu_community_action_program_inc_96792_pwk.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waianae",
+    "Name": "Holy Hill of Zion",
+    "Description": "Provides a food pantry.  Serves Oahu. Pantry hours: Last Thursday of every month: 9 am - 11 am",
+    "Address": "85-841 Farrington Hwy\nWaianae, HI 96792",
+    "Phone": "808-696-4710",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Maui Food Bank",
+    "Description": "Maui Food Bank's mission is to help the hungry in Maui County by collecting and distributing food through community partnerships.For more information, please call.",
+    "Address": "760 Kolu Street\nWailuku, HI 96793",
+    "Phone": "(808) 243-9500",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/444_maui-food-bank_zis.png"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Maui Individualized Learning Center",
+    "Description": "",
+    "Address": "PO Box 2988\nWailuku, HI 96793",
+    "Phone": "(808)244-6119",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Wailuku Church of God",
+    "Description": "The food pantry serves residents of Lahaina, Kihei, and central areas on Maui. Alternate phone: (808) 244-7033.",
+    "Address": "2123 Kahookele Street\nWailuku, HI 96793",
+    "Phone": "(808) 264-0435",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Wailuku Union Church",
+    "Description": "Provides a food pantry.  Serves Wailuku on the island of Maui. Must be a resident of Paia, Wailuku, or Kahului. Picture I.D. and proof of residency are required to receive assistance. Pantry hours: Saturday: 8:30 am - 11:30 am",
+    "Address": "327 High Street\nWailuku, HI 96793",
+    "Phone": "808-244-9177",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Ka Hale Ake Ola",
+    "Description": "Provides a food pantry.  Serves Wailuku on the island of Maui. Must register and ID is required. Pantry hours: Monday and Wednesdays 1 pm - 3 pm",
+    "Address": "670 Waiale Road\nWailuku, HI 96793",
+    "Phone": "808-242-7600",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Wailuku",
+    "Name": "Feed My Sheep",
+    "Description": "Provides a food pantry.  Serves Kahului and Lahaina on the island of Maui. ID must be presented upon registration and for all family members being claimed. Pantry hours: Saturday: 9:30 am - 12 pm",
+    "Address": "W Vineyard St and N Church St\nWailuku, HI 96793",
+    "Phone": "808-870-9421",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waimanalo",
+    "Name": "St Matthew's Episcopal Church",
+    "Description": "Provides a food pantry.  Serves Oahu. Waimanalo, but, we will provide food to other areas when needed. Applicant client must be 18 years or older. Clients preferrably should reside in the Waimanalo area. We will service Windward residents when they are referred to us, or when we find that our services are needed, particularly when children and elderly are involved. Pantry hours: Wednes",
+    "Address": "41-054 Ehukai Street\nWaimanalo, HI 96795",
+    "Phone": "808-259-8664",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waimanalo",
+    "Name": "St George Catholic Church",
+    "Description": "Provides a food pantry.  Serves Waimanalo area on the Island of Oahu. Need picture ID for first time visit. Limit one package per family per week for two years. Pantry hours: Tuesday and Thursday, 9am-12pm; closed on holidays. ",
+    "Address": "41-1323 Kalanianaole Hwy\nWaimanalo, HI 96795",
+    "Phone": "808-259-7188",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waipahu",
+    "Name": "St Joseph Church Outreach Waipahu",
+    "Description": "Provides a food pantry.  Serves Waipahu.Referral required by Welfare Office/Health Nurse.No walk-ins. Pantry hours: Call ahead - verify availability, dates, and times for distribution.",
+    "Address": "94-675 Farrington Hwy\nWaipahu, HI 96797",
+    "Phone": "808-677-4276",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waipahu",
+    "Name": "Lighthouse Outreach Center",
+    "Description": "Provides a food pantry.  Serves Waipahu area on the island of Oahu. Pantry hours: 1st and 3rd Wednesday (of every month); 2nd and 4th Monday (of every month): 9am-2pm",
+    "Address": "94-230 Leokane Street\nWaipahu, HI 96797",
+    "Phone": "808-680-0823",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waipahu",
+    "Name": "Calvary Chapel - Pearl Harbor",
+    "Description": "Provides a food pantry.  Serves Waipahu Pantry hours: Monday, Wednesday, Friday: 9am-11am (by appointment)",
+    "Address": "94-1044 Waipio Uka Street\nWaipahu, HI 96797",
+    "Phone": "808-295-1669",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waipahu",
+    "Name": "Brethren of Christ International",
+    "Description": "Provides a food pantry.  Serves Leeward area on the island of Oahu. Referral required by Brethren members. Appointment required. Pantry hours: Every 3rd Sunday (of every month): 1 pm - 2 pm",
+    "Address": "94-133 Pahu Street\nWaipahu, HI 96797",
+    "Phone": "808-676-4673",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Hawaii",
+    "City": "Waipahu",
+    "Name": "The International City of Refuge Christian Church Ministries",
+    "Description": "Provides a food pantry.  Serves Islandwide Pantry hours: \r\nFood Giveaway every Friday at 3:30pm (until the food is gone). \r\nWe serve Waianae Tuesdays at 11:30am.\r\n ",
+    "Address": "94-929 Waipahu Street\nWaipahu, HI 96797",
+    "Phone": "808-677-5677",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  }
+]

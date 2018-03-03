@@ -1,0 +1,3206 @@
+[
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "Southwest Church of Christ",
+    "Description": "Provides a food pantry.  Serves Ada. Documentation Required: Social Security number. Pantry hours: Mondays through Thursdays 9 am - 4 pm and Friday: 9 am - 12pm",
+    "Address": "1930 E Arlington\nAda, OK 74820",
+    "Phone": "(580) 332-3651",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Pontotoc County Documentation Required: SS card numbers of all household members and a drivers license with appropriate address. Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "115 N Oak\nAda, OK 74820",
+    "Phone": "(580) 332-1377",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "First Lutheran Church",
+    "Description": "Provides a food pantry.  Serves Pontotoc County and surrounding communities Pantry hours: Tuesdays though Fridays 8:30 am - 4:30 pm and Saturday: 8:30 am - 1 pm",
+    "Address": "1319 E 18th Street\nAda, OK 74820",
+    "Phone": "(580) 332-3433",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "First Pentecostal Holiness Church",
+    "Description": "Provides a food pantry.  Serves Pontotoc County Pantry hours: Mondays through Thursdays 9 am - 4 pm",
+    "Address": "101 E 13th Street\nAda, OK 74820",
+    "Phone": "(580) 332-0246",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "Corner Stone Christian Church",
+    "Description": "Provides a food pantry.  Serves Pontotoc County and Ada Pantry hours: Mondays through Fridays 9 am - 5 pm",
+    "Address": "600 W 9th Street\nAda, OK 74820",
+    "Phone": "(580) 436-2444",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "Matthew 25 Mission",
+    "Description": "Provides a food pantry.  Serves Pontotoc County. Documentation Required: Two forms of ID such as a Photo ID and a bill to show proof of address. Pantry hours: 3rd Thursday of the month: 8 am -11 am",
+    "Address": "110 E 17th Street\nAda, OK 74820",
+    "Phone": "(580) 332-6429",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ada",
+    "Name": "First Christian Church",
+    "Description": "Provides a food pantry.  Serves Pontotoc County Pantry hours: Mondays through Thursdays 9 am - 4 pm",
+    "Address": "101 E 13th Street\nAda, OK 74820",
+    "Phone": "(580) 332-0246",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Altus",
+    "Name": "Tamarack Road Church of Christ",
+    "Description": "Provides a food pantry.  Serves Altus area. Pantry Hours: Monday - Thursday9:00am - 2:30pmFriday 9:00am - 12:00pm",
+    "Address": "1000 E Tamarack Road\nAltus, OK 73521",
+    "Phone": "(580) 482-2751",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31030_tamarack_road_church_of_christ_73521_jve.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Altus",
+    "Name": "Southwest Oklahoma Community Action Group Inc",
+    "Description": "Provides a food pantry.  Serves Greer, Harmon, and Jackson Counties with referral from DHS Pantry hours: Mondays through Fridays 8:30 am - 5 pm",
+    "Address": "900 S Carver Rd\nAltus, OK 73521",
+    "Phone": "(580) 482-5040",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Alva",
+    "Name": "Opportunities Outreach - Alva",
+    "Description": "Provides a food pantry.  Serves Wood and Alfalfa Counties",
+    "Address": "326 7th Street\nAlva, OK 73717",
+    "Phone": "(580) 327-4912",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Anadarko",
+    "Name": "The Christian Center of Anadarko",
+    "Description": "Provides a food pantry.  Serves Anadarko area. Pantry hours: Mondays through Fridays 9:30 am - 11:30 am",
+    "Address": "225 E Main Street\nAnadarko, OK 73005",
+    "Phone": "(405) 247-3683",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Antlers",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Antlers Pantry hours: Mondays through Fridays 8:30 am - 4:30 pm",
+    "Address": "208 NE B Street\nAntlers, OK 74523",
+    "Phone": "(580) 298-3374",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Apache",
+    "Name": "Apache Ministerial Alliance - First United Methodist",
+    "Description": "Provides a food pantry.  Serves Any area. Pantry Hours: Monday through Thursday 9:00am - 3:00pmPlease call for appointment",
+    "Address": "120 S Forest\nApache, OK 73006",
+    "Phone": "(580) 588-2426",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Carter, Johnston, Love and Murray Counties. Documentation Required: Picture ID and a copy of SS cards of everyone in the household. Pantry hours: Mondays through Thursdays 8 am - 11:30 am and 1 pm - 2:30 pm and Friday: 8 am - noon",
+    "Address": "123 A Street SW\nArdmore, OK 73401",
+    "Phone": "(580) 223-6176",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "House of Prayer",
+    "Description": "Provides a food pantry.  Serves Ardmore Pantry hours: Tuesdays 8:30 am - 11:30 am",
+    "Address": "2116 Harris NW\nArdmore, OK 73401",
+    "Phone": "(580) 226-3430",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Downtown Mission (First Baptist Church)",
+    "Description": "Provides a food pantry.  Serves Carter County and surrounding areas Pantry Hours: Saturday5:00pm - 6:30pm",
+    "Address": "225 1st Ave SW\nArdmore, OK 73401",
+    "Phone": "(580) 223-1473",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30808_downtown_mission_(first_baptist_church)_73401_qsv.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Big Five Community Action",
+    "Description": "Provides a food pantry.  Serves Carter County Pantry hours: Mondays through Fridays 8 am - noon and 1 pm - 5 pm",
+    "Address": "15 First Avenue St.\nArdmore, OK 73402",
+    "Phone": "(580) 223-4613",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Southern Oklahoma Nutrition Program of Carter County",
+    "Description": "Provides a food pantry.  Serves Ardmore individuals, must be a resident of Oklahoma, meet required income limits and be age 60 years old or older. Documentation Required: Photo ID Pantry hours: Mondays through Fridays 8 am - 2 pm",
+    "Address": "220 13th SE\nArdmore, OK 73401",
+    "Phone": "(580) 223-0450",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Loaves and Fishes",
+    "Description": "Provides a food pantry.  Serves Carter and Love Counties. Must have a voucher from Churches or DHS. Pantry hours: Mondays through Fridays 4 pm - 5 pm",
+    "Address": "315 Stanley Street\nArdmore, OK 73401",
+    "Phone": "(580) 223-2399",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ardmore",
+    "Name": "Food and Resource Center of South Central Oklahoma ",
+    "Description": "HOURS OF OPERATION:MONDAY: 2:00PM-6:00PM  TUESDAY: CLOSED  WEDNESDAY: 10:00AM-2:00PM  THURSDAY: 10:00AM - 2:00PM  FRIDAY: 10:00AM-2:00PMPlease note that the times listed indicate when our doors will open and close each day. If you choose to show up before we are scheduled to open, please be aware that we will be unable to unlock the doors until the listed times. If you are con",
+    "Address": "801 Hailey Street SW\nArdmore, OK 73401",
+    "Phone": "(580) 798-2293",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37713_food-and-resource-center-of-south-central-oklahoma_qwv."
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Asher",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Asher Pantry hours: Mondays through Fridays 9 am - Noon",
+    "Address": "109 E Main\nAsher, OK 74826",
+    "Phone": "(405) 784-5513",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Atoka",
+    "Name": "Southern Oklahoma Nutrition Program of Carter County",
+    "Description": "Provides a food pantry.  Serves Atoka individuals, must be a resident of Oklahoma, meet required income limits and be age 60 years old or older. Documentation Required: Photo ID Pantry hours: Mondays through Fridays 8 am - 1 pm",
+    "Address": "80-A Cedar Circle\nAtoka, OK 74525",
+    "Phone": "(580) 889-3080",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Atoka",
+    "Name": "OKLA Department of Human Services of Atoka County",
+    "Description": "Provides a food pantry.  Serves Atoka County Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "401 N Greathouse Drive\nAtoka, OK 74525",
+    "Phone": "(580) 889-3394",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Atoka",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Atoka Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "123 N Delaware\nAtoka, OK 74525",
+    "Phone": "(580) 889-6633",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Atwood",
+    "Name": "Church of the Nazarene",
+    "Description": "Provides a food pantry.  Serves Atwood",
+    "Address": "4096 Hwy 48\nAtwood, OK 74827",
+    "Phone": "(580) 986-2235",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bartlesville",
+    "Name": "The United Band of the Western Cherokee Nation",
+    "Description": "",
+    "Address": "625 Cr 2732\nBartlesville, OK 74003",
+    "Phone": "(918) 337-0100",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bartlesville",
+    "Name": "Warriors for Christ",
+    "Description": "Provides a food pantry.  Serves Washington, Nowata and the Bowring area of Osage County, Oklahoma. Documentation Required: Proof of address and Social Security Card. Pantry hours: Every 3rd W every month 5 pm - 6:30 pm",
+    "Address": "4001 W Wisconsin\nBartlesville, OK 74006",
+    "Phone": "(918) 333-2108",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bartlesville",
+    "Name": "Mary Martha Outreach",
+    "Description": "Provides a food pantry.  Serves Osage, Nowata, Washington Counties in Oklahoma and Montgomery and Chautauqua Counties in Kansas. Documentation Required: Proof of residency Pantry hours: Mondays through Thursdays 9am - 11AM",
+    "Address": "1845 Southwest 4th\nBartlesville, OK 74003",
+    "Phone": "(918) 337-3703",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bartlesville",
+    "Name": "Concern Center",
+    "Description": "Provides a food pantry.  Serves Washington County, Oklahoma. Documentation Required: some form of ID. Pantry hours: Mondays through Thursdays 11am -2:45PM",
+    "Address": "333 SW Penn\nBartlesville, OK 74003",
+    "Phone": "(918) 336-4693",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bartlesville",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Osage and Washington Counties in Oklahoma. Documentation Required: Must bring driver's license or picture identification for every adult and Social Security card for everyone living in the home. Pantry hours: Mondays through Fridays 9am - noon",
+    "Address": "101 N Bucy\nBartlesville, OK 74003",
+    "Phone": "(918) 336-6454",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Beaver",
+    "Name": "Ministerial Alliance",
+    "Description": "Provides a food pantry.  Serves Beaver County Pantry hours: Monday, Tuesday, Thursday and Friday: 8a-5p and 2nd and 4th Wednesday of month: 8am - 5pm",
+    "Address": "101 Douglas\nBeaver, OK 73932",
+    "Phone": "(580) 625-3659",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bethany",
+    "Name": "First Baptist Church - Bethany",
+    "Description": "Our Food Pantry is open on Monday & Wednesday from 9:30 to 11:30 a.m. We require a photo ID.\r\n\r\n The food pantry tries to help supply staple food items to those in need.  When you sign up with your photo ID you are allowed one bag of groceries per month. The bags usually contain items like canned vegetables, canned fruit, spaghetti noodles, crackers, peanut butter, beans, rice, and oth",
+    "Address": "3800 N Mueller Avenue\nBethany, OK 73008",
+    "Phone": "(405) 789-3312",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34584_ibwxfdarki.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bethany",
+    "Name": "Bethany Church of Christ",
+    "Description": "We have a community pantry that gives out food. Hours: Tuesday and Thursday9:30am - 11:15amFor those that live in the Bethany area.",
+    "Address": "3301 N Rockwell Avenue\nBethany, OK 73008",
+    "Phone": "(405) 789-2923",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34595_bethany-church-of-christ_gsc.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bethany",
+    "Name": "Birth Choice",
+    "Description": "Mon., Thus., Fri.: 10:00-1:00 p.m.\r\nTues: 10-2 p.m. Wed: 10-1, 6-8 p.m.\r\nSat: 10:00-Noon\r\nBaby formula, Baby food\r\n",
+    "Address": "5106 N. Rockwell\nBethany, OK 73008",
+    "Phone": "(405) 495-6919",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bixby",
+    "Name": "Bixby Community Outreach Center",
+    "Description": "Provides a food pantry.  Serves Bixby Pantry Hours: Tuesday, Wednesday and Thursday 9:00am - 12:00pm and 1:00pm - 4:00pmPlease call 8:30am for a same-day appointment.We provide food and clothing once a month for clients in our service area.&nbsp; We also provide school supplies, holiday meals, and gift assistance.",
+    "Address": "77 E Breckenridge Ave\nBixby, OK 74008",
+    "Phone": "(918) 366-9226",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30746_bixby_community_outreach_center_74008_esa.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Blackwell",
+    "Name": "Associated Charities",
+    "Description": "Provides a food pantry.  Serves Blackwell Pantry hours: Monday, Tuesday, Thursday &Friday: 9:00 am - 11:30 am",
+    "Address": "212 E. Bridge\nBlackwell, OK 74631",
+    "Phone": "(580) 363-1290",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Blanchard",
+    "Name": "Fervent Fire Ministries",
+    "Description": "Provides a food pantry.  Serves Blanchard and surrounding areas. Documentation Required: Photo ID. Pantry hours: Monday, Tuesday, Thursday and Friday: 9 am - 5 pm",
+    "Address": "302 N Jackson Ave\nBlanchard, OK 73010",
+    "Phone": "(405) 485-3777",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bokchito",
+    "Name": "Southern Oklahoma Nutrition Program of Carter County",
+    "Description": "Provides a food pantry.  Serves Bokchito individuals, must be a resident of Oklahoma, meet required income limits and be age 60 years old or older. Documentation Required: Photo ID Pantry hours: Mondays through Fridays 8 am - 1 pm",
+    "Address": "107 Norman Street\nBokchito, OK 74726",
+    "Phone": "(580) 295-3661",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Bristow",
+    "Name": "Bristow Social Services",
+    "Description": "Provides a food pantry.  Serves Bristow, Depew, Flick, Milfay and Shamrock. Documentation Required: proof of income, residence and SS# if everyone living in the home. Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "206 S. Main\nBristow, OK 74010",
+    "Phone": "(918) 367-5400",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Broken Arrow",
+    "Name": "Broken Arrow Neighbors",
+    "Description": "Provides a food pantry.  Serves Broken Arrow and Coweta residents. Documentation Required: Proof of residency, such as current PSO or ONG bill, SSN cards for all, proof of income and fill out intake/budget form. Pantry hours: Mondays through Thursdays 9AM-4PM",
+    "Address": "322 W Broadway\nBroken Arrow, OK 74012",
+    "Phone": "(918) 251-7781",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Broken Arrow",
+    "Name": "Broken Arrow Assembly",
+    "Description": "Provides a food pantry.  Serves Broken Arrow residents. Documentation Required: Social Security numbers of all persons in household. Must have current bill or rent receipt to prove residency. Pantry hours: Monday, Wednesday and Thursday: 10 am - 2 pm and Tuesdays noon - 4 pm",
+    "Address": "223 E College\nBroken Arrow, OK 74012",
+    "Phone": "(918) 251-6679",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Broken Arrow",
+    "Name": "Arms Around BA",
+    "Description": "Provides a food pantry.  Serves Broken Arrow and Coweta residents Hours:Monday, Wednesday, and Friday10:00am - 3:00pm",
+    "Address": "700 W Ft Worth St\nBroken Arrow, OK 74012",
+    "Phone": "(918) 258-7714",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30735_arms_around_ba_74012_zlm.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Broken Arrow",
+    "Name": "Safe Harbor - Church at Battle Creek",
+    "Description": "Provides a food pantry.  Serves Broken Arrow area. Pantry hours: Tuesdays 9:30 am - 11:30 am",
+    "Address": "3025 N Aspen Ave\nBroken Arrow, OK 74012",
+    "Phone": "(918) 355-3699",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Calvin",
+    "Name": "Loaves and Fishes",
+    "Description": "Provides a food pantry.  Serves Hughes County and the town of Allen Pantry Hours: Last two Monday and Tuesday of the month",
+    "Address": "507 4th Street\nCalvin, OK 74531",
+    "Phone": "405-712-1999",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chandler",
+    "Name": "Straight Street Ministries",
+    "Description": "Provides a food pantry.  Serves Lincoln County Pantry Hours: Wednesday1:00pm - 3:00pm",
+    "Address": "701 Steele Ave,\nChandler, OK 74834",
+    "Phone": "(405) 203-3644",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chandler",
+    "Name": "Chandler Ministerial Alliance - First Christian Church",
+    "Description": "Provides a food pantry.  Serves Chandler and surrounding area. Pantry Hours: &nbsp;Friday and Saturday 800am - 12:00pmFor more information about how to sign in, please call.",
+    "Address": "215 N Blaine Ave\nChandler, OK 74834",
+    "Phone": "(405) 258-0722",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30764_chandler_ministerial_alliance_first_christian_church_74834_atx.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chandler",
+    "Name": "God and People's Food Pantry",
+    "Description": "Hours;Saturday10AM-12Noon.\r\nThe pantry doesn't have a phone number. The above number is Chandler Friends Churches phone number.  This is not the correct number though.",
+    "Address": "1101 S. Price Ave.\nChandler, OK 74834",
+    "Phone": "(405) 258-0722",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37675_god-and-peoples-food-pantry_gvd.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Checotah",
+    "Name": "Checotah Methodist Mission",
+    "Description": "Food Pantry Hours:Tuesday through Thursday 10:30am - 12:30pm  Associated with a Thrift Store that is open same days  9:00am - 1:00pm Provides clothing along with food if needed.   ",
+    "Address": "419 West Gentry Ave.\nChecotah, OK 74426",
+    "Phone": "(918) 473-1999",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chelsea",
+    "Name": "United Methodist Church Chelsea",
+    "Description": "Wednesdays 4:30 - 6 serving Chelsea & the surrounding communities, God bless :)",
+    "Address": "441 W 6TH ST\nChelsea, OK 74016",
+    "Phone": "9187893938",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chickasha",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Grady and Caddo Counties. Documentation Required: Must have proof of residency and income and Social Security card for all persons in the home. Pantry hours: Monday -Thursday: 9 am - Noon and 1 pm - 4 pm and Friday: 9 am- 12pm",
+    "Address": "227 N 4th St\nChickasha, OK 73018",
+    "Phone": "(405) 224-5647",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chickasha",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Grady County Pantry hours: Thursday: 2 pm - 4 pm",
+    "Address": "324 W Colorado Ave\nChickasha, OK 73018",
+    "Phone": "(405) 224-5196",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Chickasha",
+    "Name": "Southern Oaks Church of Christ",
+    "Description": "Provides a food pantry.  Serves Chickasha. Documentation Required: Proof of residency. Pantry Hours: Thursday 9:00am - 12:00pm",
+    "Address": "3320 South 16th Street\nChickasha, OK 73018",
+    "Phone": "(405) 224-1821",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31007_southern_oaks_church_of_christ_73018_otx.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Choctaw",
+    "Name": "Lighthouse Family Church",
+    "Description": "Provides a food pantry.  Serves Choctaw and Harrah. Documentation Required: Bring proof of residency and income. Pantry hours: 3rd Friday of the month 1 pm - 3 pm",
+    "Address": "NE 23rd St and Triple X Rd\nChoctaw, OK 73020",
+    "Phone": "(405) 390-3100",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Choctaw",
+    "Name": "Choctaw Church of Christ",
+    "Description": "Appointment Only. Please call.",
+    "Address": "14998 E. Reno\nChoctaw, OK 73020",
+    "Phone": "(405) 390-8732",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34608_choctaw-church-of-christ_wwi.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "First United Methodist Church -  Claremore",
+    "Description": "Pantry Hours:Tuesday &amp; Thursday9:00am - 12:00pm; 1:00pm - 4:45pmIt only serves residents of Rogers County.&nbsp; Proof of residency and photo ID is required. ",
+    "Address": "1615 N. Hwy 88\nClaremore, OK 74017",
+    "Phone": "(918) 341-4580",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/32333_first-united-methodist-church-claremore_edf.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "Salvation Army - Rogers County",
+    "Description": "Provides a food pantry.  Serves Rogers County. Documentation Required: Proof of residency. Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "524 West Will Rogers Boulevard\nClaremore, OK 74017",
+    "Phone": "(918) 341-5000",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "Lifechanger Church",
+    "Description": "Provides a food pantry.  Serves Rogers County. Documentation Required: Photo ID and utility bill showing address.The hours for the food pantry are \"The 2nd Saturday of each month@ 5pm, please bring photo ID, proof of residence: (letter or lease)",
+    "Address": "2221 Cornerstone Ave\nClaremore, OK 74018",
+    "Phone": "(918) 341-8344",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "Good Samaritan Ministry - Faith Baptist Church",
+    "Description": "Provides a food pantry.  Serves Rogers County. Documentation Required: Proof of residency in Rogers County. Pantry hours: Tuesday and Thursday: 10 am - 2 pm",
+    "Address": "901 S Faith Lane\nClaremore, OK 74017",
+    "Phone": "(918) 343-4357",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "Claremore Seventh Day Adventists CSC",
+    "Description": "Provides a food pantry.  Serves City of Claremore area. Documentation Required: Proof of residency. Pantry hours: 11 AM to 1 PM on the second and fourth Sundays of the month.",
+    "Address": "20555 South 4170 Road\nClaremore, OK 74017",
+    "Phone": "(918) 341-7873",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Claremore",
+    "Name": "St Cecilia Catholic Church Food Pantry",
+    "Description": "Provides a food pantry.  Serves Claremore Pantry hours: The hours of our Food Pantry are Wednesday mornings 10:00 am to 12:00 pm and Friday afternoons 2:00 pm to 4:00 pm.",
+    "Address": "1304 N Dorothy\nClaremore, OK 74017",
+    "Phone": "(918) 341-2343",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Coalgate",
+    "Name": "Pentecostal Holiness Church",
+    "Description": "Provides a food pantry.  Serves Coal County",
+    "Address": "7 N Broadway\nCoalgate, OK 74538",
+    "Phone": "(580) 927-9942",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Coalgate",
+    "Name": "Big Five Community Action",
+    "Description": "Provides a food pantry.  Serves Coal County Pantry hours: Mondays through Fridays 8 am - noon and 1 pm - 5 pm",
+    "Address": "210 N Main\nCoalgate, OK 74538",
+    "Phone": "(580) 927-2381",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Coalgate",
+    "Name": "Godands House",
+    "Description": "Provides a food pantry.  Serves Atoka and Coalgate",
+    "Address": "6 W Lafayette\nCoalgate, OK 74538",
+    "Phone": "(580) 889-2727",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Colbert",
+    "Name": "Victory Life Food Bank",
+    "Description": "Provides a food pantry.  Serves Bryan County Pantry hours: 3rd Saturday of the month: 9 am - 11 AM. Clients should call before going to the pantry to verify days and hours and if they need to take any information with them.",
+    "Address": "981 S Franklin\nColbert, OK 74733",
+    "Phone": "(580) 296-2141",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Colbert",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Colbert Pantry hours: Mondays through Fridays 10 am - noon",
+    "Address": "307 N Franklin\nColbert, OK 74733",
+    "Phone": "(580) 296-2926",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Colbert",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Colbert Pantry hours: 2nd Saturday of every month",
+    "Address": "307 N Franklin\nColbert, OK 74733",
+    "Phone": "(580) 296-2926",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Colbert",
+    "Name": "Country Gospel Lighthouse",
+    "Description": "Provides a food pantry.  Serves Bryan County Pantry hours: 3rd Saturday of the month: 9 am - 11 AM. Clients should call before going to the pantry to verify days and hours and if they need to take any information with them",
+    "Address": "981 S Franklin\nColbert, OK 74733",
+    "Phone": "(580) 296-2141",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Comanche",
+    "Name": "Ray Of Hope Ministries",
+    "Description": "Provides a food pantry.  Serves Stephens County Pantry Hours: The second Thursday of every month 1:00pm to 3:00 pm",
+    "Address": "Hwy 81 and Refinery Road\nComanche, OK 73529",
+    "Phone": "(580) 252-7772",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30971_ray_of_hope_ministries_73529_tpw.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Comanche",
+    "Name": "Christian Helping Hands",
+    "Description": "Provides a food pantry.  Serves Bray, Central High, Comanche, County Line, Empire City, Loco, Marlow and Velma. Documentation Required: Photo ID. Pantry Hours: Thursday 10:00am - 3:00pm",
+    "Address": "115 N 2nd Street\nComanche, OK 73529",
+    "Phone": "(580) 439-5712",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Commerce",
+    "Name": "First Assembly of God Church in Commerce",
+    "Description": "Provides a food pantry.  Serves Commerce, Oklahoma",
+    "Address": "600 S Mickey Mantle Boulevard\nCommerce, OK 74339",
+    "Phone": "(918) 675-5222",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Coweta",
+    "Name": "Joseph House Community Food Bank ",
+    "Description": "Joseph House Hours of OperationTuesday  9:00 am to 12:00 pmSaturday The 2nd Saturday of the month9:00am to 12:00pm Joseph House Community Food Bank has a goal to significantly reduce the number of hungry in America. Food is one of life's most basic needs. In the United States we are fortunate to have endless fields with crops, and yet in the midst of our g",
+    "Address": "12425 South 273rd East Ave\nCoweta, OK 74429",
+    "Phone": "(918) 486-6788",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/35645_joseph-house-community-food-bank_nrn.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Coweta",
+    "Name": "CARD Inc.",
+    "Description": "Provides a food pantry.  Serves Coweta, Porter, Red Bird, and Haskell (the portion that is Wagoner County) plus the eastern part of Broken Arrow and the edge of Catoosa that falls into Wagoner County. Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "217 S Broadway\nCoweta, OK 74429",
+    "Phone": "(918) 486-2471",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Crescent",
+    "Name": "Crescent Assembly of God",
+    "Description": "Provides a food pantry.  Serves Logan County Pantry hours: Monday - Wednesdays 9 am - 4 pm",
+    "Address": "802 E Jefferson\nCrescent, OK 73028",
+    "Phone": "(405) 969-3322",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Cushing",
+    "Name": "First Baptist Church",
+    "Description": "The pantry is open on the 2nd and 4th&nbsp;TUESDAY of each month from 9:00 to 10:30a.m.&nbsp; It serves Cushing and Agra only.",
+    "Address": "802 N. Maitlen\nCushing, OK 74023",
+    "Phone": "",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Cushing",
+    "Name": "Clearing House-Cushing-(Love INC)",
+    "Description": "Provides a food pantry.  Serves Cushing, OK If you need food in Cushing please call Love INC at 918-225-1125.&nbsp; You must call. There are no walk in food pantry options available.&nbsp; No walk-ins please.&nbsp; Leave a message.&nbsp; We will return your call as soon as possible. ",
+    "Address": "213 N Cleveland\nCushing, OK 74023",
+    "Phone": "(918) 225-1125",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Cushing",
+    "Name": "Oak Grove Baptist Church",
+    "Description": "Provides a food pantry.  Serves Cushing, Payne Pantry hours: 1st Tuesday of Month: 9:00am - 11:00am",
+    "Address": "420 N Oak Grove Rd\nCushing, OK 74023",
+    "Phone": "(918) 352-3174",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30952_oak_grove_baptist_church_74023_ooz.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Davenport",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Lincoln county. Documentation Required: Resident of Lincoln county. Pantry hours: Thursday: 6 pm - 8 pm",
+    "Address": "112 Broadway\nDavenport, OK 74026",
+    "Phone": "(918) 377-2720",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Deer Creek",
+    "Name": "Deer Creek Food Pantry",
+    "Description": "HoursWe hand out food on the fourth Tuesday of every month2:00pm - 6:00pm ",
+    "Address": "main st\nDeer Creek, OK 74636",
+    "Phone": "5806701570",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Davis",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Murray County Office Hours: Monday - Friday 8:00am - 5:00pmFor more information, please call.",
+    "Address": "208 S 3rd Street\nDavis, OK 73030",
+    "Phone": "(580) 369-2151",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Del City",
+    "Name": "Sunnylane Family Church Food Pantry",
+    "Description": "Provides a food pantry.  Documentation Required: Photo ID and proof of residency (utility bill, etc.). Pantry Hours:&nbsp;  Wednesday  6:00pm - 7:30 pm",
+    "Address": "4221 SE 41st St\nDel City, OK 73115",
+    "Phone": "(405) 677-0631",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31029_sunnylane_family_church_73115_dmf.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Dewar",
+    "Name": "Eagle Hope Food Pantry",
+    "Description": "Provides a food pantry. Call for details. ",
+    "Address": "104 S Hickory\nDewar, OK 74431",
+    "Phone": "918-652-3444",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Dewey",
+    "Name": "Storehouse of the Shepherd - Bluestem Baptist Church",
+    "Description": "Provides a food pantry.  Serves Dewey. Pantry hours: Mondays through Thursdays 10am - Noon (Call for appointments) and Last Saturday of every month: 10am - Noon (No appointments needed)",
+    "Address": "327 E Durham Road\nDewey, OK 74029",
+    "Phone": "(918) 534-2837",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Dibble",
+    "Name": "Community Center",
+    "Description": "Provides a food pantry.  Serves Dibble and surrounding area Pantry hours: Tuesday and Thursday: 9 am - 1 pm",
+    "Address": "12219 Firemans Rd\nDibble, OK 73031",
+    "Phone": "(405) 344-6789",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Duncan",
+    "Name": "Immanuel Baptist Church",
+    "Description": "Provides a food pantry.  Serves Duncan Pantry Hours: Monday - Friday 8:00am - 4:30pm",
+    "Address": "207 N 2nd Street\nDuncan, OK 73533",
+    "Phone": "(580) 255-0467",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30895_immanuel_baptist_church_73533_ohp.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Duncan",
+    "Name": "Compassion Care Center",
+    "Description": "Provides a food pantry.  Serves Duncan. Documentation Required: Social Security card for each member of household. Pantry hours: Wednesdays 9 am - 11 am",
+    "Address": "802 N 10th\nDuncan, OK 73533",
+    "Phone": "(580) 255-2650",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Duncan",
+    "Name": "Chisholm Trail",
+    "Description": "Provides a food pantry.  Serves Duncan area Pantry hours: Wednesdays 9 am - 11 am",
+    "Address": "1404 W Main\nDuncan, OK 73533",
+    "Phone": "(580) 255-7038",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Duncan",
+    "Name": "Assumption Catholic Church",
+    "Description": "Provides a food pantry.  Serves Alma, Duncan, Marlow and Velma. Documentation Required: Proof of residence. Pantry hours: Monday or Friday: 9-4",
+    "Address": "711 W Hickory\nDuncan, OK 73533",
+    "Phone": "(580) 255-0590",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Duncan",
+    "Name": "Rescue Mission",
+    "Description": "Provides a food pantry.  Serves Duncan. Documentation Required: Photo ID and a current utility bill with their name on it. Pantry hours: Monday, Tuesday and Thursday: 9 am - noon",
+    "Address": "102 N 5th Street\nDuncan, OK 73533",
+    "Phone": "(580) 255-4679",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Durant",
+    "Name": "Hands of Hope Food Bank",
+    "Description": "Hours:Monday4:00pm - 6:00pmTuesday, Thursday and Friday8:00am - 12:00pmClosed on Wednesday",
+    "Address": "724 W Main St\nDurant, OK 74701",
+    "Phone": "(580) 920-2574",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/343_victory-life-food-bank_qjt.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Durant",
+    "Name": "River of Life Christian Fellowship",
+    "Description": "Provides a food pantry.  Serves Bryan County. Documentation Required: Drivers license or other form of ID. Pantry Hours: Tuesday10:00am - 1:00pm",
+    "Address": "1280 W Mockingbird Lane\nDurant, OK 74701",
+    "Phone": "(580) 931-0910",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30976_river_of_life_christian_fellowship_74701_kwe.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Edmond",
+    "Name": "Hope Center of Edmond",
+    "Description": "Provides a food pantry.  Serves Edmond and Arcadia zip codes: 73034, 73003, 73013, 73007, 73012, 73025. Documentation Required: Proof of residency, utility bill and photo ID. Pantry hours: Mondays through Thursdays 8:30 am - 5 pm and Friday: 8:30 am - Noon",
+    "Address": "1251 N Broadway, Suites A & B\nEdmond, OK 73034",
+    "Phone": "(405) 348-1340",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Edmond",
+    "Name": "Church at the North Gate",
+    "Description": "Provides a food pantry.  Serves Oklahoma and Logan counties Pantry hours: Mondays through Fridays 8 am - 5 pm by appointment only",
+    "Address": "6705 N I-35 Frontage Rd\nEdmond, OK 73034",
+    "Phone": "(405) 330-0123",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Edmond",
+    "Name": "Midway Church of Christ",
+    "Description": "",
+    "Address": "5700 N. Sooner Road\nEdmond, OK 73034",
+    "Phone": "(405) 348-6089",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "El Reno",
+    "Name": "Lords Harvest",
+    "Description": "Provides a food pantry.  Serves El Reno and surrounding areas. Documentation Required: Bank statement and 3 months of pay stubs. Call for details. Pantry hours: Monday, Wednesday and Thursday: 10 am - 2 pm and Tuesdays 4:30 pm - 7 PM, by appointment",
+    "Address": "216 S Rock Island Ave\nEl Reno, OK 73036",
+    "Phone": "(405) 422-2001",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Elk City",
+    "Name": "Help - Beckham County Supportive Services",
+    "Description": "Provides a food pantry. Monday &amp; Wednesday 2-5:30pm. Serves Beckham, Washita, &amp; Roger Mills counties.Help\r\n Inc. was founded to serve struggling individuals and families living in\r\n Beckham, Roger Mills and Washita counties. Eligibility is determined at\r\n the time proof is presented at the Help Inc. office.\r\n- Geographic eligibility must be established with official \r\nident",
+    "Address": "609 W. Ave. E.\nElk City, OK 73644",
+    "Phone": "(580) 243-0770",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Elk City",
+    "Name": "St. Mathews ",
+    "Description": "Available Tuesday 12:00pm to 2:00pm open to the public. Bring proof of income if any. Social Secury and date of birth for all residents of household.",
+    "Address": "3001 E Highway 66 Access Rd.\nElk City, OK 73644",
+    "Phone": "580-225-0067",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/36528_st-mathews_tkl.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Enid",
+    "Name": "Loaves & Fishes of NW OK",
+    "Description": "Pantry Hours:\r\nMonday1:00pm - 4:00pm\r\nTuesday 3:00pm - 6:00pm\r\nWednesday 1:00pm - 4:00pm\r\nThursday 3:00pm - 6:00pm",
+    "Address": "701 E Maine\nEnid, OK 73701",
+    "Phone": "(580) 540-9830",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/35640_loaves-fishes-of-nw-ok_wba.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Enid",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Enid . Garfield, Grant and Major Counties. Documentation Required: ID and Social Security Cards for each member of house hold Pantry hours: Mondays through Fridays 8 am - 12 pm and 1 pm - 4 pm",
+    "Address": "516 N. Independence\nEnid, OK 73701",
+    "Phone": "(580) 237-1910",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Eufaula",
+    "Name": "God's Helping Hands",
+    "Description": "Provides a food pantry.  Serves McIntosh county. Documentation Required: picture ID and Social Security cards for everyone in the household. Pantry hours: Mondays through Fridays 10 am - 2 pm",
+    "Address": "107 McKinley #3\nEufaula, OK 74432",
+    "Phone": "(918) 689-1800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Fairview",
+    "Name": "Serving Christ",
+    "Description": "Provides a food pantry.  Serves Major, Dewey, and Blaine county Pantry hours: Tuesdays through Thursdays 9am - 2pm",
+    "Address": "124 N Railroad\nFairview, OK 73737",
+    "Phone": "(580) 227-3590",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Fort Cobb",
+    "Name": "Bethel Assembly of God",
+    "Description": "Provides a food pantry.  Serves Fort Cobb and surrounding area. Pantry hours: Every 3rd Thursday: 1:30 pm and every 4th Tuesdays 9 am",
+    "Address": "102 7th Street\nFort Cobb, OK 73038",
+    "Phone": "(405) 643-2007",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Frederick",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Tillman County. Pantry Hours: Tuesday 4:00pm - 5:00pm",
+    "Address": "901 N. 15th\nFrederick, OK 73542",
+    "Phone": "(580) 335-5848",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Goldsby",
+    "Name": "Goldsby Baptist Church",
+    "Description": "Provides a food pantry.  Serves Goldsby (zip code 73093 only) Pantry hours: Mondays through Fridays 9 am - 3 pm",
+    "Address": "153 W Center Rd\nGoldsby, OK 73093",
+    "Phone": "(405) 288-2514",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Grove",
+    "Name": "Christian HELP Center",
+    "Description": "Provides a food pantry.  Serves Northern Delaware County, Oklahoma. Pantry hours: Monday through Thursday 10am - 2PM",
+    "Address": "1703 E Highway 10\nGrove, OK 74344",
+    "Phone": "(918) 786-6798",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Guthrie",
+    "Name": "God's Food Bank",
+    "Description": "Call for hours. ",
+    "Address": "1324 N Wentz St\nGuthrie, OK 73044",
+    "Phone": "(405) 260-1412",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Guthrie",
+    "Name": "Hands of Jesus",
+    "Description": "The food pantry is open from 4:00 to 6:00 PM on Tuesday and from 12:00 to 2:00 PM on Thursday. Serves residents of Logan County. Requires proof of address and birth certificates for every child in household.",
+    "Address": "2403 W Noble\nGuthrie, OK 73044",
+    "Phone": "(405) 260-3440",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Guthrie",
+    "Name": "Gods Food Bank",
+    "Description": "Provides a food pantry.  Serves Logan County. Documentation Required: Social security card, birth certificate, income verification, or DHS referral. . Pantry hours: Wednesday and Thursday: 10 am - 5:30 pm",
+    "Address": "1324 N Wentz, Ste E\nGuthrie, OK 73044",
+    "Phone": "(405) 260-1412",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Guymon",
+    "Name": "Loaves and Fishes Food Cupboard",
+    "Description": "Provides a food pantry.  Serves Texas County Pantry hours: Tuesday and Thursday: 10am - 4pm",
+    "Address": "310 E 1st Street\nGuymon, OK 73942",
+    "Phone": "(580) 338-0008",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Heavener",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Haskell, Latimer and LeFlore Counties Pantry hours: Last Thursday of every month. Walk ins after 2pm. And unless you make an appointment for morning you will not get food or clothing. And this place is only used every THREE months for help",
+    "Address": "200 W Avenue\nHeavener, OK 74937",
+    "Phone": "(918) 653-7788",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Heavener",
+    "Name": "United Methodist Church Food Pantry Heavener",
+    "Description": "Food Pantry: one may use this every 30 days. &nbsp;Hours:Monday-Thursday 10-3. Friday 9-12. Walk ins welcome. No appointment needed.",
+    "Address": "201 E. Avenue B\nHeavener, OK 74937",
+    "Phone": "918-653-2232",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hennessey",
+    "Name": "Methodist Church",
+    "Description": "Provides a food pantry.  Serves Hennessey and those within a 100 mile radius. Must be below income for number in family according to this chart: Single, below $1575, 2 people, below $2111, 3 people, below $2648, 4 people, below $3184 and 5 people, below $3721. Documentation Required: Copy of most recent paycheck stub. Pantry hours: 2nd and 4th Wednesday (after 2nd and 4th Tuesday): 4 p",
+    "Address": "201 S Cherokee\nHennessey, OK 73742",
+    "Phone": "(405) 853-2569",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hennessey",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Hennessey and Dover Pantry hours: Wednesday after the 2nd and 4th Tuesday of the month: 4 pm - 6 pm",
+    "Address": "201 S Cherokee St\nHennessey, OK 73742",
+    "Phone": "(405) 853-2569",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Henryetta",
+    "Name": "Henryetta Church of Christ",
+    "Description": "Provides a food pantry.  Serves Henryetta area of Oklahoma. Call for pantry dates/times. ",
+    "Address": "413 W Broadway\nHenryetta, OK 74437",
+    "Phone": "(918) 652-4258",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hobart",
+    "Name": "Hobart Food Pantry",
+    "Description": "",
+    "Address": "215 S Jefferson St\nHobart, OK 73651",
+    "Phone": "(580) 726-2723",
+    "FoodPantriesImage": "https://www.usfoodbanks.com/gallery/15_276568_173793349378917_1455008099_n.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hobart",
+    "Name": "Kiowa County Service Agencies - First United Methodist Churc",
+    "Description": "Provides a food pantry.  Serves Kiowa County. Pantry hours: Thursday: 9:30 - noon",
+    "Address": "201 S Washington St\nHobart, OK 73651",
+    "Phone": "(580) 726-3678",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hobart",
+    "Name": "Hobart Ministerial Alliance",
+    "Description": "Provides a food pantry.  Serves Kiowa County area, Granite, Sentinel, and Rocky areas are also served. Income limits are based off single household $1575, double household $2111, three in household $2648, four in household $3184, five in household $3721, six in household $4257. Each additional family member add $537 a month. Documentation Required: State Photo ID, SS Card for each household member",
+    "Address": "215 S Jefferson St\nHobart, OK 73651",
+    "Phone": "(580) 726-2723",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hodgen",
+    "Name": "Christ's Food Center",
+    "Description": "Food services: 3rd Saturday of every month.",
+    "Address": "60591 Cliff Lane\nHodgen, OK 74939",
+    "Phone": "918-651-3264",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Holdenville Pantry hours: Mondays through Fridays 9 am - 2 pm",
+    "Address": "300 N Golf Street\nHoldenville, OK 74848",
+    "Phone": "(405) 379-2439",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "Housing Authority",
+    "Description": "Provides a food pantry.  Serves Holdenville senior citizens Pantry hours: Mondays through Fridays 8 am - 4 pm",
+    "Address": "301 Crestview\nHoldenville, OK 74848",
+    "Phone": "(405) 379-3375",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "First Church of God",
+    "Description": "Provides a food pantry.  Serves Holdenville",
+    "Address": "624 E Main Street\nHoldenville, OK 74848",
+    "Phone": "(405) 379-3773",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Holdenville Pantry hours: Mondays through Thursdays 8 am - noon and 1 pm - 4:30 pm and Friday: 8 am - noon",
+    "Address": "324 N Broadway\nHoldenville, OK 74848",
+    "Phone": "(405) 379-6606",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "Deep Fork Community Action Agency of Hughes County",
+    "Description": "Provides a food pantry.  Serves Hughes, McIntosh, Okfuskee and Okmulgee Counties Pantry hours: Mondays through Fridays 8 am - noon and 12:30 pm - 4:30 pm",
+    "Address": "109 E Main St\nHoldenville, OK 74848",
+    "Phone": "(405) 379-6813",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Holdenville",
+    "Name": "Penn West Baptist Church",
+    "Description": "Provides a food pantry.  Serves Holdenville",
+    "Address": "305 E 4th Penn W\nHoldenville, OK 74848",
+    "Phone": "(405) 379-3420",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Hugo",
+    "Name": "Sharing Hope",
+    "Description": "Provides a food pantry.  Serves Choctaw County. Documentation Required: Drivers license or other form of ID, a recent utility bill and SS cards for every member of the household. Pantry hours: Monday: 10 am - 1 pm",
+    "Address": "400 W Bissel Street\nHugo, OK 74743",
+    "Phone": "(580) 372-8170",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Idabel",
+    "Name": "Hand to Hand",
+    "Description": "Provides a food pantry.  Serves McCurtain County. Documentation Required: Photo ID and referral. Pantry hours: Tuesdays though Fridays 9 am - 1 pm",
+    "Address": "18 SE Jefferson\nIdabel, OK 74745",
+    "Phone": "(580) 286-6383",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Jay",
+    "Name": "Christian Community Care Center",
+    "Description": "Provides a food pantry.  Serves Delaware County. Documentation Required: Driver's license or other ID, current utility bill that shows physical address of residence and copy of CDIB card, if applicable. Pantry Hours: Tuesday and Thursday10:00am - 3:00pm",
+    "Address": "202 N 5th St\nJay, OK 74346",
+    "Phone": "(918) 253-6168",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Jenks",
+    "Name": "Jenks Community Food Bank",
+    "Description": "Clients must live in the Jenks Public School District. Phone messages are checked ONLY on Saturdays",
+    "Address": "324 West Aquarium Place\nJenks, OK 74037",
+    "Phone": "(918) 296-5119",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/634_jenks-community-food-bank_qcx.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Jennings",
+    "Name": "Grace Gospel Church",
+    "Description": "Provides a food pantry.  Serves Jennings Pantry hours: Tuesdays 2 pm - 5 pm",
+    "Address": "728 S Devine St\nJennings, OK 74038",
+    "Phone": "(918) 757-2517",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Kingfisher",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Kingfisher County. Documentation Required: Photo ID. Pantry hours: Mondays through Thursdays 9 am - 11 am",
+    "Address": "102 S Main\nKingfisher, OK 73750",
+    "Phone": "(405) 375-3286",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Kingfisher",
+    "Name": "Kingfisher Nazarene Church Food Pantry",
+    "Description": "Kingfisher Church of the Nazarene provides assistance to residents of Kingfisher Dover, Loyal, and Okarche.The food pantry is open during regular church office hours which is Mon-Fri, 9am - 12:30pm. Anyone planning to come for food might call first just to verify someone is here to help.Anyone can get a box if they need it regardless of income. We allow those with letters from DH",
+    "Address": "410 Hill Dr\nKingfisher, OK 73750",
+    "Phone": "(405) 375-4722",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30904_kingfisher_nazarene_church_73750_gdq.bmp"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Kingfisher",
+    "Name": "Kingfisher County Food Bank",
+    "Description": "Hours are Monday thru Thursday 9:00 a.m. to 4:00p.m. We help those within our county",
+    "Address": "102 South Main\nKingfisher, OK 73750",
+    "Phone": "405-375-3286",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Konawa",
+    "Name": "Ministerial Alliance",
+    "Description": "Provides a food pantry.  Serves Konawa. Documentation Required: Proof of residency. Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "301 W 1st\nKonawa, OK 74849",
+    "Phone": "(580) 925-3781",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Konawa",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Konawa. Documentation Required: Proof of address such as a utility bill.",
+    "Address": "301 W 1st Street\nKonawa, OK 74849",
+    "Phone": "(580) 925-3781",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lane",
+    "Name": "Manna Foods Ministry Foundation",
+    "Description": "Provides a food pantry.  Documentation Required: ID and social security number. Pantry hours: Monday - Saturday: 9 am - 5 pm",
+    "Address": "980 Brier\nLane, OK 74555",
+    "Phone": "(580) 364-0890",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Comanche County. Documentation Required: Picture ID, Social Security cards for all household members, and a rent receipt or lease agreement are required. If receiving food stamps, they need a referral from a case worker. Pantry hours: Mondays through Thursdays 10 am - noon and 1 pm - 3 pm and Friday 10 am - noon",
+    "Address": "1306 E Ave\nLawton, OK 73501",
+    "Phone": "(580) 355-1802",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "House of Bread Ministries Food Pantry",
+    "Description": "Provides a food pantry.  Serves Comanche County. Documentation Required: Proof of income and Social Security Card for all household members is required.",
+    "Address": "1415 Wisconsin\nLawton, OK 73501",
+    "Phone": "(580) 248-8519",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Faith Based Church of God",
+    "Description": "Provides a food pantry.  Serves Lawton. Pantry Hours:The 4th Saturday of every other month (Jan., March, May, July, Sept., Nov.) 9:00am - 12:00pm",
+    "Address": "1105 SW F Ave\nLawton, OK 73502",
+    "Phone": "(580) 357-3203",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Armed Services YMCA",
+    "Description": "Provides a food pantry.  Serves Active Duty Military and their family and must be referred from a Fort Sill chaplain, the ACS, or other Fort Sill entity. Documentation Required: Current Military ID required. Pantry hours: Mondays through Fridays : 7 am - 6:30 pm",
+    "Address": "201 S 4th St\nLawton, OK 73501",
+    "Phone": "(580) 355-5520",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Lawton Food Bank",
+    "Description": "People in need must be able to verify identities of all household members, address, and income. HoursMonday, Wednesday and Friday8:00am - 2:00pmTuesdays and Thursdays 12:00pm - 6:00pm ",
+    "Address": "1819 SW Sheridan Road\nLawton, OK 73505",
+    "Phone": "(580) 353-7994",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/36119_lawton-food-bank_esc.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Heartland SHARE",
+    "Description": "Provides a food pantry.  Documentation Required: Identification. Pantry hours: Mondays through Thursdays 9 am -5 pm and Closed 1 pm -2 pm for lunch",
+    "Address": "609 SW B Ave Ste 2\nLawton, OK 73501",
+    "Phone": "(580) 357-7280",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lawton",
+    "Name": "Bethlehem Bread of Life Food and Clothing Ministry",
+    "Description": "Provides a food pantry.  Serves Lawton-Fort Sill. Documentation Required: Picture I.D. Pantry hours: Monday and Friday: 10:00 - noon",
+    "Address": "602 NW Arlington Ave\nLawton, OK 73501",
+    "Phone": "(580) 354-9266",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lexington",
+    "Name": "Lexington United Methodist Church",
+    "Description": "Provides a food pantry.  Pantry hours: 3rd Saturday of the month: Noon - 4 pm",
+    "Address": "631 E Ash\nLexington, OK 73051",
+    "Phone": "(405) 527-3506",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lexington",
+    "Name": "Circle the Wagon's Ministries ",
+    "Description": "Weekly Food Pantry and Soup Kitchen.Hours: Tuesday 2:00pm - 5:00pmWe are here to serve anyone with a need for food. We do not qualify people by taking their private information. We work on the assumption that Jesus did.",
+    "Address": "604 E Broadway St.\nLexington, OK 73051",
+    "Phone": "405-922-3971",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/36905_circle-the-wagons-ministries_wpa.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lindsay",
+    "Name": "United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Lindsay Pantry hours: 2nd Saturday of every month: 10 am - noon",
+    "Address": "114 W Chickasaw\nLindsay, OK 73052",
+    "Phone": "(405) 428-2459",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lindsay",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Lindsay Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "401 SW 3rd\nLindsay, OK 73052",
+    "Phone": "(405) 756-2266",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Lindsay",
+    "Name": "Calvary Baptist Church",
+    "Description": "Provides a food pantry.  Serves Lindsay Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "410 W Chickasaw\nLindsay, OK 73052",
+    "Phone": "(405) 756-2781",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Locust Grove",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Pantry hours: Mon, Thurs., 9:30am-11:30am",
+    "Address": "703 N HWY 82\nLocust Grove, OK 74352",
+    "Phone": "918-479-6356",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Luther",
+    "Name": "Open Door Assembly of God",
+    "Description": "4th Thur of each Mon: 1:00-3:00 p.m.",
+    "Address": "310 S. Ash\nLuther, OK 73054",
+    "Phone": "(405) 277-3223",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Luther",
+    "Name": "Luther Church of Christ Service Center",
+    "Description": "Thur - 10:30 a.m. - 11:30 a.m.\r\nLuther only (10:30 in winter & 9:30 in summer)",
+    "Address": "205 First Street\nLuther, OK 73054",
+    "Phone": "(405) 277-3911",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34623_mvndmnrfki.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Madill",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Marshall County. Documentation Required: Two forms of ID with one a photo ID. People using the food bank for the first time will fill out a short form with basic information. Pantry hours: Monday: 1 pm - 3 pm",
+    "Address": "301 W Taliaferro\nMadill, OK 73446",
+    "Phone": "(580) 795-3732",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Madill",
+    "Name": "Bread of Life Ministries",
+    "Description": "Provides a food pantry.  Serves Marshall County Pantry hours: Tuesdays, Thursdays: 5 pm - 6 pm",
+    "Address": "405 E Main\nMadill, OK 73446",
+    "Phone": "(580) 795-3732",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Madill",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Marshall County Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "114 S 1st Street\nMadill, OK 73446",
+    "Phone": "(580) 795-7476",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Marietta",
+    "Name": "Mercy Health Hospital",
+    "Description": "Provides a food pantry.  Serves Love County residents living at or below 180% of poverty guideline. Pantry hours: Tuesdays 8 am - 2 pm",
+    "Address": "300 Wanda Street\nMarietta, OK 73448",
+    "Phone": "(580) 276-3347",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Maud",
+    "Name": "First Baptist Church of Maud",
+    "Description": "Provides a food pantry.  Serves Maud",
+    "Address": "Oxford and Young\nMaud, OK 74854",
+    "Phone": "(405) 374-2707",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Maud",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Maud and surrounding area. Documentation Required: Proof of residency, Photo ID, Social Security numbers for all household members, proof of income.",
+    "Address": "S Oxford and W Young Sts\nMaud, OK 74854",
+    "Phone": "(405) 374-2866",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McAlester",
+    "Name": "Shared Blessings",
+    "Description": "Provides a food pantry.  Serves McAlester. Documentation Required: Social Security card, proof of your monthly income, address verification, food voucher from the DHS and a Photo ID. Pantry hours: Tuesdays through Thursdays 1 pm - 2 pm",
+    "Address": "1558 S Main\nMcAlester, OK 74501",
+    "Phone": "(918) 423-8624",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McAlester",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Pittsburg County. Documentation Required: 3 forms of ID, one picture ID, SS card for all members of the household, total income for entire household and copy of all bills paid. Pantry hours: Mondays through Thursdays 10 am - noon and 1 pm - 3 pm",
+    "Address": "400 N A Street\nMcAlester, OK 74501",
+    "Phone": "(918) 423-5668",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McAlester",
+    "Name": "First United Methodist Church of McAlester Pantry",
+    "Description": "Provides a food pantry.  Serves Pittsburg County.Pantry Hours:Monday9:30am - 11:30am Tuesday1:30pm - 3:30pmWednesday9:30am - 11:30am We are an emergency pantry and will give food once every three months.&nbsp; An ID is needed to receive food. For more information, please call or visit our website.",
+    "Address": "1501 S. 13th Street\nMcAlester, OK 74501",
+    "Phone": "(918) 423-6136",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30861_first_united_methodist_church_of_mcalester_74501_peo.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McAlester",
+    "Name": "Frink Baptist Church",
+    "Description": "Provides a food pantry.  Serves McAlester Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "Hwy 69 S and Frink Road\nMcAlester, OK 74501",
+    "Phone": "(918) 423- 5230",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McAlester",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Pittsburgh County. Documentation Required: ID card photo and address. Pantry hours: Mondays through Fridays 9 am - noon and 1 pm - 5 pm",
+    "Address": "100 E Washington\nMcAlester, OK 74501",
+    "Phone": "(918) 423-0990",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "McLoud",
+    "Name": "McLoud Outreach Food Pantry",
+    "Description": "Provides a food pantry.  Documentation Required: Photo ID, social security card for each member of household, proof of income, and proof of residency (water bill, utility bill, etc.) Pantry hours: Tuesdays 10 am - 2 PM, If there are 5 Tuesdays in a month, they are closed on that Tuesday.",
+    "Address": "111 Main St\nMcLoud, OK 74851",
+    "Phone": "(405) 964-6777",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Medford",
+    "Name": "First Christian Church Food Pantry",
+    "Description": "Provides a food pantry.  Serves Grant",
+    "Address": "123 N Main\nMedford, OK 73759",
+    "Phone": "(580) 395-2046",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Meno",
+    "Name": "Faith Center Fellowship",
+    "Description": "Provides a food pantry. ",
+    "Address": "201 S Meno Avenue\nMeno, OK 73760",
+    "Phone": "(580) 776-2200",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Miami",
+    "Name": "Inter Tribal Council Inc",
+    "Description": "Provides a food pantry.  Serves Northeastern Oklahoma",
+    "Address": "114 N Eight Tribes Trail\nMiami, OK 74354",
+    "Phone": "(918) 542-3443",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Miami",
+    "Name": "Ottawa County Nutrition Coalition",
+    "Description": "Provides a food pantry.  Serves Ottawa County, Oklahoma. Documentation Required: Social security card or picture ID. Pantry hours: Mondays through Fridays 1pm - 4PM",
+    "Address": "33 N Main\nMiami, OK 74354",
+    "Phone": "(918) 542-9676",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Midwest City",
+    "Name": "Mid Del Food Pantry",
+    "Description": "Provides a food pantry.  Serves Zip Codes served: 73007,73020, 73045, 73049, 73054, 73066, 73084, 73110, 73115, 73117, 73121, 73130, 73135, 73141, 73145, 73150, 73165, 74857 Pantry Hours: Monday, Wednesday and Friday 10:00 am - 3:00pm (Closed 12:00pm - 1:00pm for lunch)",
+    "Address": "322 N Midwest Blvd\nMidwest City, OK 73110",
+    "Phone": "(405) 732-3603",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30934_mid_del_food_pantry_73110_ftn.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Midwest City",
+    "Name": "Masters Market Mission Mid Del",
+    "Description": "Provides a food pantry.  Serves Midwest City Area: 73110, 73115, 73130, 73135, 73141, 73145, 73150, 73165, 73020, 73066, 73084, 73117 (east of Bryant Avenue only). Documentation Required: Proof of residency (rent receipt or utility bill). Pantry Hours: Tuesday and Friday 10:00am - 1:30pm",
+    "Address": "5751 E Reno Ave\nMidwest City, OK 73110",
+    "Phone": "(405) 737-2010",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30925_masters_market_mission_mid_del_73110_oqs.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Midwest City",
+    "Name": "St. Christopher Episcopal Church",
+    "Description": " St. Christopher's is a small church with a big heart .St. Christopher's goal is to provide an emergency food pantry, providing one days worth of food for your family so no one goes to bed hungry. Interested individuals must provide drivers license for them selves as well a s social security cards for their children plus utility bill stating where you live. Emergency food pantry hours are 12:30-",
+    "Address": "800 S. Midwest Blvd\nMidwest City, OK 73140",
+    "Phone": "(405) 732-4802",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34620_corqvuhftv.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Moore",
+    "Name": "Regency Park Baptist Church",
+    "Description": "Provides a food pantry.  Serves Moore area only.Documentation Required: Proof of residence, picture ID and SS numbers for everyone in household. Forms are filled out on-site with above required info. Pantry Hours: Wednesday 10:00 am - 4:00 pm",
+    "Address": "2001 N Janeway\nMoore, OK 73160",
+    "Phone": "405-794-3507",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30973_regency_park_baptist_church_73160_nnt.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Moore",
+    "Name": "Highland Baptist Church",
+    "Description": "Provides a food pantry.  Serves Moore.HoursTuesday and Thursday9:00am - 12:00pmMust provide a proof of residency when they come like a utility bill or lease agreement. ",
+    "Address": "2425 SE 4th St\nMoore, OK 73160",
+    "Phone": "(405) 794-5432",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30886_highland_baptist_church_73160_ano.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Moore",
+    "Name": "Fresh Start Community Church",
+    "Description": "Provides a food pantry.  Serves Resident of Moore or Cleveland County. Pantry Hours:3rd Thursday of the month5:00pm - 6:00pm",
+    "Address": "309 N Eastern Ave.\nMoore, OK 73160",
+    "Phone": "(405) 794-7313",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30864_fresh_start_community_church_73160_jcy.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Moore",
+    "Name": "First Baptist Church of Moore",
+    "Description": "Provides a food pantry.  Serves Moore Zip code 73160. Documentation Required: Proof of residency (e.g., utility bill or rent payment showing current address) Pantry Hours: Monday 10:00am - 1:00pm",
+    "Address": "301 NE 27th St\nMoore, OK 73160",
+    "Phone": "(405) 793-2600",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Moore",
+    "Name": "St Andrew Catholic Church",
+    "Description": "Provides a food pantry.  Serves Moore. Documentation Required: Proof of Moore, OK residency. \r\n\r\nFood Pantry Hours: Tuesday &amp; Friday 10:00am - 12:00pm Proof of address utility bill and ID ",
+    "Address": "800 NW 5th St\nMoore, OK 73160",
+    "Phone": "(405) 799-3334 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Mooreland",
+    "Name": "Mooreland Ministerial Alliance Food Pantry",
+    "Description": "Provides a food pantry.  Serves Mooreland area Pantry hours: Mondays through Fridays 9am - 12pm and 1pm - 4pm",
+    "Address": "418 S Elm\nMooreland, OK 73852",
+    "Phone": "(580) 994-5420",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Muskogee. Documentation: Proof of American citizenship, ID, proof of income, social security cards for all family members. Pantry hours: Office  Mondays through Fridays 9 am - 4 pm",
+    "Address": "615 S Main\nMuskogee, OK 74401",
+    "Phone": "(918) 682-3384",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "Gospel Rescue Mission",
+    "Description": "Provides a food pantry.  Serves Muskogee County. Eligibility  Picture ID Pantry hours:  Tuesday through Thursday 8-4pm",
+    "Address": "326 S Second Street\nMuskogee, OK 74401",
+    "Phone": "(918) 682-3489",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "First Baptist Church Community First Center",
+    "Description": "Food Pantry Hours:Tuesday 10:00am - 12:00pmTuesday6:00 - 8:00 p.m.Additional Service by appointment only.You will need to bring the following EVERY TIME you come in for a referral:&nbsp;Picture I.D.&nbsp;Social Security Card for all members of the household&nbsp;Verification of Residence: A bill, or other printed docum",
+    "Address": "111 South 7th Street\nMuskogee, OK 74401",
+    "Phone": "918-351-8771",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "Ark of Faith",
+    "Description": "Provides a food pantry.  Serves Muskogee who work 1 hour at the Ark. Documentation Required: Needs referral from Community First Center at 1st Baptist. Pantry hours: Tuesdays through Thursdays 12 pm - 4 pm",
+    "Address": "401 E Broadway\nMuskogee, OK 74403",
+    "Phone": "(918) 682-8411",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "Muskogee County CAP",
+    "Description": "Provides a food pantry.  Serves Muskogee. Pantry hours: Monday - Wednesdays 9 am - 3 pm",
+    "Address": "1313 N Main Street\nMuskogee, OK 74401",
+    "Phone": "(918) 683-7637 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Muskogee",
+    "Name": "Muskogee Cooperative Ministries food pantry",
+    "Description": "Provides a food pantry. Call for hours. ",
+    "Address": "600 E. Okmulgee St. \nMuskogee, OK 74401",
+    "Phone": "918-682-3368",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Mustang",
+    "Name": "Mustang Kiwanis Food Pantry",
+    "Description": "  œKiwanis is a global organization of volunteers dedicated to changing the world one child and one community at a time  .Mustang Kiwanis Food Pantry HoursSaturdays 8:30am - 10:00am  We are located across from the Mustang Fire Department and just west of the Del Rancho Restaurant.",
+    "Address": "470 West St. Hwy. 152\nMustang, OK 73064",
+    "Phone": "(405) 921-8028",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Nicoma Park",
+    "Name": "We Care Ministry First Baptist Church - Nicoma Park",
+    "Description": "Fri 10a.m. to 2 p.m.\r\nSERVE 73068",
+    "Address": "2020 Nicoma Lane\nNicoma Park, OK 73066",
+    "Phone": "(405) 769-3167",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Noble",
+    "Name": "First Baptist Church of Noble",
+    "Description": "Food pantry. Mondays and Thursdays 1:30-3:00 pm",
+    "Address": "330 E. Chestnut\nNoble, OK 73068",
+    "Phone": "872 3529",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Noble",
+    "Name": "Twelve Corners Baptist Church",
+    "Description": "",
+    "Address": "15601 E. Etowah\nNoble, OK 73068",
+    "Phone": "(405) 899-4624",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Trinity Baptist Church",
+    "Description": "Provides a food pantry.  Serves City of Norman Pantry Hours: Wednesdays 5:00pm - 6:00pmTo receive help, you need to bring some type of proof that you live in Norman (picture ID and a piece of mail, etc  ¦). Families are allowed to come once every three months. We operate on a donation-only basis, so all donations are welcome.",
+    "Address": "801 N Peters Ave\nNorman, OK 73069",
+    "Phone": "(405) 321-2000",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31032_trinity_baptist_church_73069_wla.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Norman Seven Day Adventist Church",
+    "Description": "Provides a food pantry.  Serves Cleveland County. Documentation Required: Social Security card and photo ID. Pantry hours: Tuesdays 9 am - Noon",
+    "Address": "1818 E Alameda\nNorman, OK 73071",
+    "Phone": "(405) 366-7772",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Mission Norman Inc",
+    "Description": "Office hours are monday 10 a.m. -  12:45 p.m. tuesday, wednesday and \r\nfriday from 10 a.m. - 2 p.m. and thursday evening from 3:00 p.m. - 7:00 \r\np.m.Provides a food pantry.  Serves Cleveland and McClain counties \r\nThe food pantry provides food once every 30 days to needy individuals \r\nand families. The food pantry supplies enough food for about one week \r\nfor each individual.\r",
+    "Address": "2525 E Lindsey\nNorman, OK 73071",
+    "Phone": "(405) 321-8880",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30942_mission_norman_inc_73071_jlf.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "McFarlin Memorial United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Norman, Noble or Little Axe. Documentation Required: Photo ID with local address. The Food Pantry is located in Aldersgate House on the northwest end of the church property. Hours: Tuesday and Thursday9:00 - 12:00pm and 1:00pm - 4:00pmExcept for holidays or when the church is closed due to bad weather.We need the",
+    "Address": "419 S University Blvd\nNorman, OK 73069",
+    "Phone": "405-321-3484",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30929_mcfarlin_memorial_united_methodist_church_73069_bdo.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Little Axe Community Center",
+    "Description": "Provides a food pantry. We ONLY service the Little Axe School District area.&nbsp; Patrons MUST live within the school district to receive food pantry services.&nbsp; The operation is quite small and supported by the patrons in the school district. We distribute on Thursdays from 8:30 a.m. - 9:00 a.m.&nbsp; You must bring something with your address, photo id and social sec",
+    "Address": "1000 168th Ave NE\nNorman, OK 73026",
+    "Phone": "(405) 292-9770",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Hilltop Baptist Church",
+    "Description": "Monday and Thursday from 9:30 am to 12:00 pmSaturday from 9:00 am to 11:00 am. You must be within a 12 mile radius of the church. You can visit the food pantry once every 30 days.&nbsp;",
+    "Address": "11710 E Stella Rd\nNorman, OK 73026",
+    "Phone": "(405) 794-0603",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Crosspointe Church",
+    "Description": "Provides a food pantry.  Serves Cleveland County also helps people traveling through. Documentation Required: Photo ID for head of household. Pantry hours: Friday: 11 am - Noon",
+    "Address": "2601 24th Ave SE\nNorman, OK 73071",
+    "Phone": "(405) 329-0823",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Alameda Church of Christ",
+    "Description": "Provides a food pantry. Serves Norman and surrounding areas, including Moore, Lexington, Little Axe, Noble, and Purcell (McClain County). Documentation Required: Bring Photo ID.Pantry Hours: Wednesday10:00am - 12:30pm4th Thursday of each month5:30pm to 7:30pm2nd Saturday 9:00am - 12:00pmFamilies must live in Cleveland and McClain County. ",
+    "Address": "801 E Alameda Street\nNorman, OK 73071",
+    "Phone": "(405) 321-0788",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30729_alameda_church_of_christ_73071_dgv.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Salvation Army of Norman",
+    "Description": "Provides a food pantry.  Serves Cleveland County Pantry hours: Mondays through Thursdays 12:30 pm - 2:30 pm",
+    "Address": "318 E Hayes\nNorman, OK 73069",
+    "Phone": "(405) 364-9910",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Central Oklahoma Community Action Agency",
+    "Description": "Provides a food pantry.  Serves Cleveland County. Documentation Required: Photo ID, social security card, and proof of income and residency. Pantry hours: Mondays through Fridays 9 am - Noon",
+    "Address": "2270 Industrial Blvd\nNorman, OK 73069",
+    "Phone": "(405) 447-0832",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Norman",
+    "Name": "Alameda Baptist Church",
+    "Description": "Mon,Tues.,Thur.: 9:00 a.m.- 12:00 p.m. By appointment only",
+    "Address": "1503 E. Alameda\nNorman, OK 73071",
+    "Phone": "(405) 329-5157",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "North Miami",
+    "Name": "North Miami Baptist Church Food Pantry",
+    "Description": "Provides a food pantry.  Serves Ottawa County, Oklahoma.",
+    "Address": "600 Olive and Rose\nNorth Miami, OK 74358",
+    "Phone": "(918) 542-0225",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Nowata",
+    "Name": "Loaves and Fishes",
+    "Description": "Provides a food pantry.  Serves Nowata, Oklahoma. Pantry hours: Third Thursday of every month: 10am - Noon",
+    "Address": "225 S Ash\nNowata, OK 74048",
+    "Phone": "(918) 273-1208",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okemah",
+    "Name": "Community Cupboard - St Paul UMC",
+    "Description": "Provides a food pantry.  Serves Okemah Pantry hours: Tuesday and Thursday: 9 am - noon and 1 pm - 4 pm",
+    "Address": "202 N 3rd\nOkemah, OK 74859",
+    "Phone": "(918) 623-0265",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "City Rescue Mission",
+    "Description": "Providing more than 1,000 meals a day to hungry Oklahomans, the Mission offers the opportunity for men, women and children to gain proper nutrition no matter their circumstance. In order to meet the needs of as many people as possible, meals are provided in shifts to maximize the use of space and food preparation.\r\nThe majority of the food prepared in our kitchen has been donated or provided t",
+    "Address": "800 West California Ave.\nOklahoma City, OK 73106",
+    "Phone": "(405) 232-2709",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/1654_City_Rescue_Mission_wcg.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Wildewood Christian Church - North Building",
+    "Description": "Provides a food pantry.  Serves OKC metro area. Documentation Required: Picture ID, income verification, and children's Social Security cards. Pantry hours: Friday: 11 am - 2 pm",
+    "Address": "6900 N Kelly Ave\nOklahoma City, OK 73111",
+    "Phone": "(405) 478-0781",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Trinity International Baptist Church",
+    "Description": "Provides a food pantry.  Serves 73102, 73103, 73104 and 73106. Documentation Required: Proof of residency at each visit and SS cards for all members of household. Pantry hours: Thursday: 9:30 am - 11:30 am and 1 pm - 3 pm",
+    "Address": "1329 NW 23rd St\nOklahoma City, OK 73106",
+    "Phone": "(405) 528-6327",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Skyline Urban Ministry",
+    "Description": "We do not offer financial assistance or housing, but we provide food, clothing, senior-meal program and eye care.Hours:Monday1:00pm - 6:00pmTuesday and Thursday10:30am - 2:00pmWednesday 1:00pm - 4:00pmFriday9:00am - 12:00pmSaturday9:00am - 11:00amHow to get help:Families can be served up to six times per year.A picture I.D.",
+    "Address": "500 SE 15th\nOklahoma City, OK 73129",
+    "Phone": "(405) 632-2644",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31006_skyline_urban_ministry_73102_bpm.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Reaching Our City",
+    "Description": "Provides a food pantry. Serves Oklahoma City: 73008, 73112, 73120, 73122, 73127, 73132, 73134, 73142, 73162. Documentation Required: Social Security card for each person in household and proof of residency.Pantry hours: Monday, Thursday and Friday: 10 am - Noon (must be signed in by 11:30 AM) and 1 pm - 3 pm (must be signed in by 2:30 pm 2nd and 4th Saturday: 10 am - ",
+    "Address": "7710 NW 10th St\nOklahoma City, OK 73127",
+    "Phone": "(405) 440-9994",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30972_reaching_our_city_73127_lqr.JPG"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Miracle Revival Center",
+    "Description": "Provides a food pantry.  Serves Oklahoma City Pantry hours: Monday 10:00 am - 12:30 pm",
+    "Address": "901 NW 6th St\nOklahoma City, OK 73106",
+    "Phone": "(405) 236-8822",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30941_miracle_revival_center_73106_irt.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Mayfair Church of Christ",
+    "Description": "Provides a food pantry.  Serves 73103, 73106, 73107, 73112, and 73116 zip codes.Pantry Hours: Wednesday3:00pm - 5:00pmThe last Monday of each month10:00am - 12:00pm",
+    "Address": "2340 NW 50th St\nOklahoma City, OK 73112",
+    "Phone": "(405) 842-2993",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30927_mayfair_church_of_christ_73112_knz.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Love Link Ministries Inc.",
+    "Description": "Provides a food pantry.  Serves Oklahoma. Documentation Required: Photo ID and proof of address. Persons served every 30 days. Pantry Hours: Tuesday and Friday 11:00am - 1:00pmFor more information, please call.",
+    "Address": "1122 Linwood Blvd\nOklahoma City, OK 73106",
+    "Phone": "(405) 239-6219",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30921_love_link_ministries_inc_73109_fou.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Jesus House",
+    "Description": "Provides a food pantry.  Serves Oklahoma City Families with children, the elderly, and the disabled. Homeless, near homeless, and working poor. Documentation Required: Photo ID and utility bill with proof of residency. Pantry hours: Monday, Wednesdays 8:30am - 12noon.",
+    "Address": "1335 W Sheridan\nOklahoma City, OK 73106",
+    "Phone": "(405) 232-7164",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Guild of St George",
+    "Description": "Provides a food pantry.  Serves 73101, 73102, 73103, 73104, 73105, 73106, 73117, and 73121. Documentation Required: Proper identification: Social Security card and photo ID. Pantry hours: Monday, Wednesdays and Fridays 9 am - Noon",
+    "Address": "117 NW 7th\nOklahoma City, OK 73102",
+    "Phone": "(405) 232-2266",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "CareForOKC a ministry of First Baptist Church of Oklahoma City",
+    "Description": "CareForOKC is located in the northeast corner of our church building.&nbsp; Enter in the double doors under the portico closest to Robinson and 12th Street.&nbsp;&nbsp;&nbsp; Food Pantry and Clothing Hours:Mondays&nbsp; Only 4:30 - 6:30 p.m. (No appointment necessary)&nbsp;&nbsp;&nbsp; Requirements:Must have ID and proof of residency CareForOKC serves the following ",
+    "Address": "1201 N Robinson Ave.\nOklahoma City, OK 73103",
+    "Phone": "(405) 232-4255",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Fathers Business",
+    "Description": "Provides a food pantry.  Serves 73069, 73071, 73072, 73119, 73135, 73139, 73149, 73159, 73160 and 73170. Documentation Required: Social security care and proof of residency (electric, gas, water bill or lease). Pantry hours: 4th Tuesday of every month: 1 pm - 5 pm",
+    "Address": "805 NW 24th\nOklahoma City, OK 73160",
+    "Phone": "(405) 794-3161",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Cross and Crown Mission",
+    "Description": "Provides a food pantry.  Serves 73103 and 73105 Pantry hours: Monday - Wednesdays 8:30 AM, limited to first 50 persons on each of these days",
+    "Address": "1008 N McKinley\nOklahoma City, OK 73106",
+    "Phone": "(405) 232-7696",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Church of The Redeemer",
+    "Description": "Provides a food pantry.  Serves Serves 73111 zip code. DHS referral. Single men OK. Pantry hours: 2nd and 4th W 1 pm - 3 pm",
+    "Address": "2100 Martin Luther King Ave\nOklahoma City, OK 73111",
+    "Phone": "(405) 427-2106",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Britvil Community Food Pantry",
+    "Description": "Provides a food pantry.  Serves 73114, 73120, 73131. Documentation Required: Social Security card for all members of the household and must also bring current proof of address (current utility bill), and picture ID for person doing pickup. Referrals accepted from DHS, supporting churches and North Care. Pantry hours: Mondays through Fridays 9 am - 11 am",
+    "Address": "8717 N Western Ave\nOklahoma City, OK 73114",
+    "Phone": "(405) 842-1275",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Bethel Foundation",
+    "Description": "Provides a food pantry.  Serves Single mothers and grandmothers. Documentation Required: Photo ID, complete 2 simple forms of paperwork, and have your picture taken. Pantry hours: Mondays through Thursdays 9 am - Noon and 1 pm - 3:30 pm",
+    "Address": "13003 N Western Ave\nOklahoma City, OK 73114",
+    "Phone": "(405) 286-3700",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Baptist Mission Center",
+    "Description": "Provides a food pantry.  Serves Oklahoma. Documentation Required: Oklahoma photo ID, proof of residency and Social Security card required. Pantry hours: Thursday: 1 pm - 3 pm",
+    "Address": "2125 Exchange Ave\nOklahoma City, OK 73108",
+    "Phone": "(405) 235-6162",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Urban Mission",
+    "Description": "Provides a food pantry.  Serves Oklahoma County HoursMonday - Thursday1:00 PM - 4:00 PM. ",
+    "Address": "3737 N Portland\nOklahoma City, OK 73112",
+    "Phone": "(405) 946-1556",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31036_urban_mission_73112_mle.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "St James Episcopal Church",
+    "Description": "Provides a food pantry.  Serves 73160, 73108, 73109, 73129, 73139, 73149, 73119, 73159, 73165, 73170. Documentation Required: Picture ID and proof of residency. Pantry Hours: 3rd Saturday of every month: 9:00am - 11:00am",
+    "Address": "8400 S Pennsylvania\nOklahoma City, OK 73159",
+    "Phone": "(405) 682-3405",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Spero Project/ Spero: Resource",
+    "Description": "Provides a food pantry.  Serves Oklahoma City. Documentation Required: Photo ID, current utility bill or lease agreement for proof of address, proof of monthly income, and proof of dependents. Pantry hours: Monday: 6:30 pm - 8 PM, Tuesday and Thursday: 10 am - 1:30 pm",
+    "Address": "4646 N Santa Fe\nOklahoma City, OK 73118",
+    "Phone": "(405) 557-1777",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Salvation Army Food Pantry, OK City",
+    "Description": "food pantry hours are Monday 1-3:30, Wednesday 9-Noon &amp; 1-3:30, Friday 9-12pm ***while supplies last. To be served they require picture ID for all adults in household, social security cards for all members of household, proof of income (must meet income guideline - 185% of Fed. Poverty Guideline) such as pay stub, award letter or unemployment verification and you must live in Oklahoma County. ",
+    "Address": "1001 N. Pennsylvania\nOklahoma City, OK 73107",
+    "Phone": "405-246-1100",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "First Southern Baptist Church",
+    "Description": "Provides a food pantry.  Serves 73110, 73130, 73141, 73145, 73150, 73151, 73115, 73129, 73135, 73149, 73020, 73041, 73045, 73049, 73050, 73051, 73054, 73066, 73084. Pantry Hours: Wednesday and Friday: 1:00 pm - 4:00 pm",
+    "Address": "6400 S Sooner Rd\nOklahoma City, OK 73135",
+    "Phone": "(405) 732-1300",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30853_first_southern_baptist_church_of_del_city_73135_ucf.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Corpus Christi Catholic Church",
+    "Description": "Provides a food pantry.  Serves 73131, 73121, 73104, 73117, 73105 Pantry hours: Friday: 8:30 am - 11:30 am",
+    "Address": "1005 NE 15th St\nOklahoma City, OK 73117",
+    "Phone": "(405) 236-4301",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "ROC Food Pantry",
+    "Description": "The Food Pantry is one of the largest pantries of its kind in Oklahoma City. Over 60,000 pounds of food are distributed each month through the distinctive blue awning at the entrance to the Pantry. The largely volunteer staff welcomes families from ten Oklahoma City zip codes, and is open to the public Mondays, Thursdays, Fridays, and every other Saturday at the main campus, and on Wednesdays in t",
+    "Address": "7710 NW 10th Street\nOklahoma City, OK 73127",
+    "Phone": "405-440-9994",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34583_pmfivepstu.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "50th Street Church of Christ",
+    "Description": "Serves zip codes 73008, 73132, 73122.Hours:Tuesday8:30am - 11:30amFood Truck2nd and 4th Tuesday9:30am - 11:30amFor more information, please call.",
+    "Address": "6035 NW 50th Street\nOklahoma City, OK 73122",
+    "Phone": "(405) 789-8843",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34585_50th-street-church-of-christ_oxn.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Putnam City UMC - Daily Bread Food Pantry",
+    "Description": "Our Daily Bread Food Pantry is open every THURSDAY from 1:15-3:15.\r\n\r\n \r\n\r\nIN ORDER TO BE SERVED AT PUTNAM CITY UNITED METHODIST CHURCH FOOD PANTRY, YOU MUST HAVE THE FOLLOWING:\r\n\r\n \r\n\r\n1. Social Security Cards: EVERY family member MUST have one.\r\n\r\n \r\n\r\n2. Utility Bill: Zip Code MUST be one of the following below:\r\n",
+    "Address": "5819 NW 41st Street\nOklahoma City, OK 73122",
+    "Phone": "405-491-1304",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34586_lnxurazibr.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Billy Hooton Indian UMC",
+    "Description": "For more information, please call.",
+    "Address": "2445 NW 1st Terrace\nOklahoma City, OK 73107",
+    "Phone": "(405) 235-4777",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34597_billy-hooton-indian-umc_jke.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Other Options Inc. Friends Food Pantry",
+    "Description": "The primary program at Other Options is the Friends Food Pantry which provides nutrient dense food, nutrition formula, and toiletries to over 1,064 adults and children able to shop weekly. It is estimated that Other Options provides 21 meals(7 breakfast, 7 lunch, 7 dinners) per client number. These men, women, and children are living below the poverty level. At least one member of the family lives",
+    "Address": "3636 NW 51st Street\nOklahoma City, OK 73107",
+    "Phone": "405-605-8020",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34598_wpbokbibik.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "OKC Compassion Inc.",
+    "Description": "We have a long line of people ready to receive bags of food.HoursMondays and Thursdays2:00pm - 4:00pmOur food sources are Oklahoma City Food Bank, Feed the Children, churches, and individual contributions.",
+    "Address": "2132 W Park PL\nOklahoma City, OK 73107",
+    "Phone": "(405) 524-8082",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34599_okc-compassion-inc_kdx.JPG"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Grace Rescue Mission",
+    "Description": "",
+    "Address": "2205 Exchange Avenue\nOklahoma City, OK 73108",
+    "Phone": "(405) 232-5756",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Hillcrest Pentecostal Church",
+    "Description": "For more information, please call.",
+    "Address": "2500 SW 59th Street\nOklahoma City, OK 73119",
+    "Phone": "(405) 681-8241",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "City Care Inc.",
+    "Description": "Skyline's second mission outpost is located only 2.5 miles from First Church. The McKee Center on SE 15th street maintains a clothes closet and also provides lunch for fifty senior citizens every Monday, Wednesday, and Friday. The McKee Center's back to school program provided 1,500 children with brand new school clothes and shoes this year.",
+    "Address": "131 NW 4th Street\nOklahoma City, OK 73102",
+    "Phone": "(405) 609-2401",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34603_qatjeiqjpi.JPG"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Travelers Aid Society of OKC",
+    "Description": "AKA Upward Transitions Assistance Center\r\nNewcomers and even long term residents can get help.Upward Tansition provides Food Pantry.",
+    "Address": "1033 N Walker Avenue\nOklahoma City, OK 73102",
+    "Phone": "405 - 232 - 550",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34604_travelers-aid-society-of-okc_cie.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Church on the Rock",
+    "Description": "Every Wed: 6:00 p.m. - 6:30 p.m.\r\n",
+    "Address": "1780 W. Memorial Road\nOklahoma City, OK 73134",
+    "Phone": "(405) 943-2484",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Downtown Baptist Church",
+    "Description": "Mon-Fri: 1:00-2:00 p.m.\r\nNo single men - Need SS card",
+    "Address": "629 W. Main\nOklahoma City, OK 73102",
+    "Phone": "(405) 232-6977",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Fairview Baptist Church",
+    "Description": "4th Sat: 10:00 a.m. until food is gone",
+    "Address": "1700 NE 7th Street\nOklahoma City, OK 73117",
+    "Phone": "(405) 232-1621",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "The Free Food Pantry, Inc. and Educational Center",
+    "Description": "Oklahoma City, OK 73123-3641 Pickup - referral from DHS\r\nPicture ID & SS# of all family members. Deliver only - call first \r\nM - F: 10:00 a.m. -4:00 p.m.\r\n",
+    "Address": "388 Park Ave\nOklahoma City, OK 73102",
+    "Phone": "(405) 721-6763",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Infant Crisis Services",
+    "Description": "Mon-Fri: 10:30 a.m.-2:30 p.m.\r\nBirth-3 yrs. Need referral",
+    "Address": "1933 NW 39\nOklahoma City, OK 73118",
+    "Phone": "(405) 528-3663",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "St. Patrick's Catholic Church",
+    "Description": "Oklahoma City, OK 73107 Only serve 73127, 73008, 73107, 73112\r\nMon-Thurs 8:30a.m.-3:30 p.m.\r\n",
+    "Address": "2121 N. Portland Closed for Lunch\nOklahoma City, OK 73107",
+    "Phone": "(405) 946-4441",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34619_iocysqaxic.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Neighbor for Neighbor Oklahoma City",
+    "Description": "M, T, Th,Fri: 9:00-2:15 p.m.\r\nDHS referral\r\nSingle men OK",
+    "Address": "300 SW 13th\nOklahoma City, OK 73109",
+    "Phone": "(405) 236-0473",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Via De Gracia",
+    "Description": "Every other Thursday, 3-5 p.m.\r\nSERVE 73109",
+    "Address": "2211 S. Kentucky Place\nOklahoma City, OK 73108",
+    "Phone": "(405) 691-1934",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Sacred Heart Church - Sister BJ's Pantry ",
+    "Description": "HoursWednesday and&nbsp; Friday: 4:00pm - 6:00 pm",
+    "Address": "819 NW 4th Street\nOklahoma City, OK 73106",
+    "Phone": "(405) 837-7068",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34628_sacred-heart-church_dfi.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "Bible Methodist Church",
+    "Description": "Hours:Wednesday and Saturday 9:00am to 12:00pm\r\nSERVE Zip Code 73110",
+    "Address": "5801 S Douglas Ave\nOklahoma City, OK 73109",
+    "Phone": "(405) 632-2060",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34629_bible-methodist-church_ysw.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "North East Resource Center, Inc - Food Pantry",
+    "Description": "Hours of ServicesMonday to Friday 10am to 3:00pmWhat to bringYourself, one dollar and proof that you live in one of the following zip codes:73102/05/11/17/21Proof of residence in one of our zip codes is through:Ideally - A valid drivers license,alternatively utility bill, rental agreement* ora letter from the person you are staying with a",
+    "Address": "1415 NE 23rd St\nOklahoma City, OK 73111",
+    "Phone": "405-600-6297",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/35938_nerci-food-pantry-north-east-resource-center-inc_xea.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Oklahoma City",
+    "Name": "OKC Dream Center",
+    "Description": "The food Pantry Hours: The 4th Saturdays of every monthPlease call for hours of distributionProvides groceries to 130 families. An additional 30 families are part of a monthly food co-op that meets on the 2nd Saturdays. Our team is also available on a daily basis to distribute an emergency box of food to families facing an unexpected shortage.\r\nVolunteersA",
+    "Address": "2212 SW 55th Street\nOklahoma City, OK 73119",
+    "Phone": "(405) 635-2615",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/38320_okc-dream-center_xay.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okmulgee",
+    "Name": "St Anthony Catholic Church",
+    "Description": "Provides a food pantry. For more information, please call.",
+    "Address": "515 S Morton Ave\nOkmulgee, OK 74447",
+    "Phone": "(918) 756-4385",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okmulgee",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Okmulgee. Pantry hours: Mondays through Fridays 9:30 am - 5:30 pm",
+    "Address": "301 West 6th Street\nOkmulgee, OK 74447",
+    "Phone": "(918) 756-9224",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okmulgee",
+    "Name": "Deep Fork Community Action Foundation",
+    "Description": "Provides a food pantry.  Serves Okmulgee, Okfuskee and McIntosh Counties. Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "223 W 6th St\nOkmulgee, OK 74447",
+    "Phone": "(918) 756-2826",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okmulgee",
+    "Name": "First United Methodist Church Pantry",
+    "Description": "   We are located on the corner of 8th & Seminole in the office building.  A PANTRY sign hangs over the door.\r\nWe are open 10:00am to 2:30pm Monday thru Thursday.  Closed on holidays.  We have been helping with food for over 20 years.\r\nWe get referials from Deep Fork  and DHS.",
+    "Address": "302 S. Seminole\nOkmulgee, OK 74447",
+    "Phone": "918-756-6083",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Okmulgee",
+    "Name": "Crossstown Pentecostal Holiness Church",
+    "Description": "The Food Storehouse is open twice a week and our church volunteers serve families in the community with several days worth of food each time they visit. The storehouse often supplies other supplies such as diapers, and toiletries as needed. At Christmas time, sacks of groceries and gifts and clothing for children and adults are given to needy familiesServing the Cities of Schulter, O",
+    "Address": "1206 W. 5th. st.\nOkmulgee, OK 74447",
+    "Phone": "(918) 756-2442",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37712_crossstown-phc_kjd.0302&pitch=0&thumbfov=100"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Owasso",
+    "Name": "Owasso Community Resources",
+    "Description": "Provides a food pantry.  Serves Tulsa County (Owasso and Collinsville area). Documentation Required: Application process includes photo ID, Social Security Card for every household member including children &proof of residency. Pantry hours: Mondays through Thursdays 9 am - 2 PM.",
+    "Address": "109 N Birch Ste 109\nOwasso, OK 74055",
+    "Phone": "(918) 272-4969",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pauls Valley",
+    "Name": "Samaritans of Pauls Valley",
+    "Description": "Provides a food pantry.  Serves Pauls Valley, Rural Route areas only Pantry Hours: Tuesday 10:00am - 2:00pmThursday 3:00p - 7:00pmLast Saturday of month 10:00am - 1:00pm",
+    "Address": "1000 N. Ash Street\nPauls Valley, OK 73075",
+    "Phone": "(405) 207-9077",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30999_samaritans_73075_gzb.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pauls Valley",
+    "Name": "Delta Community Action",
+    "Description": "Provides a food pantry.  Serves Garvin, McClain and Stephens Counties Pantry hours: Mondays through Fridays 8 am - noon 1 pm - 5 pm",
+    "Address": "225 W McClure\nPauls Valley, OK 73075",
+    "Phone": "(405) 238-3838",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pauls Valley",
+    "Name": "First Baptist Church Pauls Valey",
+    "Description": "We desire to help those with a physical hunger by giving them a sack of groceries from our food pantry, but every person who comes through our food pantry is also given the opportunity to take the bread of life that will satisfy every hunger in the soul.  Our food pantry is part of our women's ministry and is open on Mondays from 4:00 to 4:30 pm.\r\n\r\nAssistance is available ",
+    "Address": "213 North Ash Street\nPauls Valley, OK 73075",
+    "Phone": "(405)238-3431",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/36500_first-baptist-church-pauls-valey_liq.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Perkins",
+    "Name": "Ministerial Alliance of Perkins",
+    "Description": "Provides a food pantry.  Serves Perkins only.Pantry Hours: Monday - Friday 9:00am - 4:00pm",
+    "Address": "119 E Stumbo\nPerkins, OK 74059",
+    "Phone": "(405) 547-2004",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Perry",
+    "Name": "First Presbyterian Church",
+    "Description": "Provides a food pantry.  Serves Perry and Noble. Documentation Required: ID Pantry hours: Mondays through Fridays 9 am - 2 pm",
+    "Address": "422 N 8th\nPerry, OK 73077",
+    "Phone": "(580) 336-9177",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ponca City",
+    "Name": "Ponca City Salvation Army",
+    "Description": "Provides a food pantry.  Serves Ponca City Pantry hours: Mondays through Fridays 9:00 am - 12:00 pmWith any closings posted on the door. It is a good policy to call ahead to be sure we are open on a given day, however you should find we are open MOST weekdays.",
+    "Address": "601 S 3rd Street\nPonca City, OK 74601",
+    "Phone": "(580) 762-7501",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30965_ponca_city_salvation_army_74601_fyw.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ponca City",
+    "Name": "New Emergency Resource Agency ",
+    "Description": "We are a 501C3 agency. We do not buy, \r\nsell, trade or barter. Everything donated is giving away to qualified \r\npersons. A qualified person is low to no income and a legal US citizen \r\nwith proper indentification and proof. MissionGiving people a hand up instead of a hand out.",
+    "Address": "500 N 1st \nPonca City, OK 74601",
+    "Phone": "(580) 765-5372",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34360_new-emergency-resource-agency_gfa.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Poteau",
+    "Name": "Sugarloaf Food Pantry",
+    "Description": "Contact Marty Davis, Program Director, for more information.",
+    "Address": "35204 Midway Road\nPoteau, OK 74953",
+    "Phone": "(918) 658-3892",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Poteau",
+    "Name": "Sugar Loaf Christian Fellowship",
+    "Description": "Provides a food pantry.  Serves LeFlore County Pantry hours: Every other Thursday: 12 - 2 pm",
+    "Address": "35204 Midway Road\nPoteau, OK 74953",
+    "Phone": "(918) 658-3892",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Poteau",
+    "Name": "Ki Bois Community Action Foundation of LeFlore County",
+    "Description": "Provides a food pantry. Kibois will serve Leflore County but not the Hodgen Oklahoma area..it is serviced by the First Baptist Church. In HeavenerPantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "108 Witte\nPoteau, OK 74953",
+    "Phone": "(918) 649-3999",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Poteau",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves LeFlore County Pantry hours: Mondays through Thursdays 9 am - noon and 1 pm - 3 PM, Friday: 9 am - noon and 1 pm - 2 pm",
+    "Address": "108 N Witte\nPoteau, OK 74953",
+    "Phone": "(918) 647-8780",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Prague",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Prague Documentation Required: Proof of residency. Pantry hours: 2nd and 4th Friday: 10 am - Noon",
+    "Address": "1520 Bluebell\nPrague, OK 74864",
+    "Phone": "(405) 567-4977",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pryor",
+    "Name": "Pryor Rescue Mission",
+    "Description": "Provides a food pantry.  Serves Mayes County, Oklahoma.",
+    "Address": "640 W Graham Highway 20 W\nPryor, OK 74361",
+    "Phone": "(918) 825-1650",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pryor",
+    "Name": "Pryor Ministries Center",
+    "Description": "Provides a food pantry.  Serves Pryor, Oklahoma. Documentation Required: Valid Social Security number and adults need some sort of pictured ID to fill out application. Pantry Hours: Monday, Wednesdays and Fridays 12:00pm - 3:00pm",
+    "Address": "15 SW 3rd Street\nPryor, OK 74361",
+    "Phone": "(918) 824-1128",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30967_pryor_ministries_center_74361_ury.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Pryor",
+    "Name": "Community Action",
+    "Description": "Provides a food pantry. ",
+    "Address": "708 SE 1st St\nPryor, OK 74361",
+    "Phone": "918-825-3423",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Purcell",
+    "Name": "McClain County Salvation Army",
+    "Description": "Provides a food pantry.  Serves McClain County. Documentation  Social Security number and income verification. Pantry hours: Sunday - Friday: 24-Hours",
+    "Address": "223 W Washington\nPurcell, OK 73080",
+    "Phone": "405) 527-6537",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Purcell",
+    "Name": "Memorial Assembly of God",
+    "Description": "Food pantry to low income households on Tuesday evenings 6:30 to 8:00. Need photo ID.",
+    "Address": "701 W Monroe\nPurcell, OK 73080",
+    "Phone": "405-527-2769",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ralston",
+    "Name": "Ralston Bible Church",
+    "Description": "Provides a food pantry.  Serves Ralston, Fairfax Pantry hours: Mondays through Fridays 9 am - 5 pm",
+    "Address": "200 S 7th\nRalston, OK 74650",
+    "Phone": "(918) 738-4301",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Ryan",
+    "Name": "Community Action Development Corporation Jefferson County",
+    "Description": "Provides a food pantry.  Serves Jefferson County Pantry hours: Mondays through Fridays 8 am - noon, 1 pm - 5 pm",
+    "Address": "Taylor and Main\nRyan, OK 73565",
+    "Phone": "(580) 757-2235",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Salina",
+    "Name": "Community Outreach Centers",
+    "Description": "Provides a food pantry. ",
+    "Address": "709 E. Brewer\nSalina, OK 74365",
+    "Phone": "918-434-2288",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sallisaw",
+    "Name": "Cookson Hills Community Action Foundation",
+    "Description": "Provides a food pantry.  Serves Sequoyah County. Documentation Required: Application process includes documentation of social security cards for all members living in the household, picture ID of presenting family member and proof of income. Pantry hours: Mondays through Fridays 10 am - 3 pm",
+    "Address": "212 S Elm\nSallisaw, OK 74955",
+    "Phone": "(918) 775-9116",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sallisaw",
+    "Name": "Catholic Charities Helping Center",
+    "Description": "Provides a food pantry.  Serves Sequoyah County, Oklahoma Pantry hours: Mondays through Fridays 10 am - 2 pm",
+    "Address": "409 North Adams Street\nSallisaw, OK 74955",
+    "Phone": "(918) 775-6111",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sand Springs",
+    "Name": "Sand Springs Community Services",
+    "Description": "Provides a food pantry.  Serves Sand Springs. Documentation Required: Proof of residency, proof of income, Social Security card for each member of household, and current photo ID. Pantry hours: Mondays through Thursdays 9 am - 3 pm",
+    "Address": "15 E 2nd St\nSand Springs, OK 74063",
+    "Phone": "(918) 245-5183",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sapulpa",
+    "Name": "New Journey Church",
+    "Description": "HoursMonday, Tuesday Friday 9:00am - 4:00pm Pantry items ranging from produce, breads, desserts, vegetables, fruits, meats, and various other items.  ",
+    "Address": "17061 S. Hickory Road\nSapulpa, OK 74066",
+    "Phone": "918-321-5818",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/32320_june-rose-assembly_key.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sapulpa",
+    "Name": "Salvation Army - Sapulpa",
+    "Description": "Provides a food pantry.  Serves Creek County Pantry hours: By appointment only. Mondays through Fridays 9 am - 4 pm",
+    "Address": "1721 South Hickory\nSapulpa, OK 74066",
+    "Phone": "(918) 224-4328",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sapulpa",
+    "Name": "Good Shepherd Episcopal Food Pantry",
+    "Description": "Friday\r\n9:30 AM - 11:30 AM\r\nFood Pantry (by appointment &amp; a DHS referral).",
+    "Address": "1420 E Dewey\nSapulpa, OK 74066",
+    "Phone": "918-224-5144",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sapulpa",
+    "Name": "Caring Community Friends",
+    "Description": "Fresh Food HoursThursday 2:30pm to 3:30 pm.Fresh fruits and vegetables distribution.\r\nServes Sapulpa residents",
+    "Address": "12 W Burnham Ave.\nSapulpa, OK 74066",
+    "Phone": "918-224-6464",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/36822_caring-community-friends_qzk.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Seminole",
+    "Name": "Inter-Faith Soc Ministry",
+    "Description": "Provides a food pantry.  Serves Seminole County Pantry hours: Mondays through Fridays 4 pm - 5 pm",
+    "Address": "813 N Main\nSeminole, OK 74869",
+    "Phone": "(405) 382-4134",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Seminole",
+    "Name": "Glad Tidings Assembly of God Church",
+    "Description": "Provides a food pantry.  Serves Seminole County Pantry hours: 2nd and 4th Thursday of every month",
+    "Address": "1609 E Wrangler Blvd\nSeminole, OK 74818",
+    "Phone": "(405) 382-6200",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Seminole",
+    "Name": "Community Action Agency",
+    "Description": "Provides a food pantry.  Serves Seminole County. Documentation Required: SS card, proof of residency and proof of the need. Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "212 E Oak\nSeminole, OK 74868",
+    "Phone": "(405) 382-1800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Seminole",
+    "Name": "Church of Christ",
+    "Description": "Provides a food pantry.  Serves Seminole Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "1240 Hwy 99 N\nSeminole, OK 74868",
+    "Phone": "(405) 382-1713",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Shawnee",
+    "Name": "Calvary Southern Baptist Church",
+    "Description": "Provides a food pantry.  Serves Shawnee. Documentation Required: Proof of residency Pantry Hours: Thursday6:00pm - 7:30pm",
+    "Address": "214 W Farrall Ave\nShawnee, OK 74801",
+    "Phone": "(405) 275-3450",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Shawnee",
+    "Name": "Shawnee Salvation Army",
+    "Description": "Provides a food pantry.  Serves Pottawatomie and Seminole counties. Documentation Required: Photo ID, social security cards for all family members, proof of residency, income, and expenses. Pantry Hours: Monday through Friday 9:00am -12:00pm and 1:00pm - 4:00pm Friday9:00am - 12:00pm",
+    "Address": "200 E 9th Street\nShawnee, OK 74801",
+    "Phone": "(405) 275-2243",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31005_shawnee_salvation_army_74801_tuv.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Shawnee",
+    "Name": "Shawnee Rescue Mission",
+    "Description": "Provides a food pantry.  Serves Pottawatomie County Pantry Hours: Friday 4:00 pm - 7:00 pm",
+    "Address": "506 S. Beard Ave\nShawnee, OK 74801",
+    "Phone": "(405) 878-8700",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31004_shawnee_rescue_mission_74801_tpc.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Shawnee",
+    "Name": "Shawnee Rescue Mission - Food Pantry",
+    "Description": "Provides a food pantry.  Serves Shawnee Pantry Hours: Tuesday 9:00am - 12:00pm and 2:00pm - 5:00pmWednesday 10:00am - 12:00pm and 2:00pm - 5:00pm Thursday10:00am - 12:00pm  and 3:00pm - 5:00pm Friday 8:00am - 10:00am",
+    "Address": "506 S Beard\nShawnee, OK 74801",
+    "Phone": "(405) 878-8700",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Spencer",
+    "Name": "St Luke Baptist Church",
+    "Description": "Provides a food pantry.  Serves 73084 Pantry hours: Mondays through Fridays 9 am - 3 pm",
+    "Address": "10001 NE 50\nSpencer, OK 73084",
+    "Phone": "(405) 769-5123",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Spencer",
+    "Name": "St James Baptist",
+    "Description": "Provides a food pantry.  Documentation Required: Social Security and picture I.D. Pantry hours: Monday, Wednesdays and Fridays 9 am - 3 pm",
+    "Address": "12600 Parker Hts Blvd\nSpencer, OK 73084",
+    "Phone": "(405) 769-4125",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stigler",
+    "Name": "Ki Bois Community Action Foundation of Haskell County",
+    "Description": "Provides a food pantry.  Serves Haskell County Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "1025 E Main Street\nStigler, OK 74462",
+    "Phone": "(918) 967-3365",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stigler",
+    "Name": "Joseph Project Community Food Pantry- New Life Christian Cen",
+    "Description": "Provides a food pantry.  Serves Haskell County. Documentation Required: Proof of age, SS card for individuals that are18 years old and older living in the household, address and why they are applying and their signature. Pantry hours: Tuesdays 10 am - noon and Wednesdays 3 pm - 5 pm",
+    "Address": "401 E Main\nStigler, OK 74462",
+    "Phone": "(918) 967-3932",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stigler",
+    "Name": "High Impact Services (Joseph Project)",
+    "Description": "Provides a food pantry.  Serves Haskell County Residents Only Valid ID, Physical address, proof of income, proof of residency. Pantry hours: Tuesdays and Wednesdays 10am TO 12 NOON",
+    "Address": "405 E Main\nStigler, OK 74462",
+    "Phone": "(918) 967-3932",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stigler",
+    "Name": "Pentecostal Holiness Church",
+    "Description": "Provides a food pantry.  Serves Stigler Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "504 NW 7th Street\nStigler, OK 74462",
+    "Phone": "(918) 967-4818",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "STW Church of Christ",
+    "Description": "Provides a food pantry.  Pantry hours: 1st Thursday after the 1st Tuesday of month: 10:30 am Serves Stillwater, Payne",
+    "Address": "821 N Duck\nStillwater, OK 74075",
+    "Phone": "(405) 372-7439",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "Mehan Church Food Pantry",
+    "Description": "Provides a food pantry. Serves Stillwater and Payne CountyPantry hours:The Saturday after the first Tuesday of the month, not second Saturday.&nbsp; People show up starting around 7 am -7:30 am.&nbsp; Sign up list starts around 8 am.&nbsp; Clients called in order on the list starting at 9 am (sometimes a little early). Usually has a good variety and quantity of food including mea",
+    "Address": "8300 E 68th\nStillwater, OK",
+    "Phone": "(405) 743-2097",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "Lost Creek UMC",
+    "Description": "Provides a food pantry.  Serves Stillwater Pantry hours: 3rd Wednesday of the month: 1:30 pm - 4 pm",
+    "Address": "8002 S Washington St.\nStillwater, OK 74074",
+    "Phone": "(405) 377-0927",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30920_lost_creek_umc_74074_rec.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "COCAA",
+    "Description": "Provides a food pantry.  Serves: Stillwater, Perkins, Cushing, Ripley, Glencoe and Yale residents at 125 % above poverty level income. Documentation Required: Application, Social Security card required, Photo ID, income verification, proof of residency Pantry hours: Mondays through Fridays 8 am - 5 pm",
+    "Address": "410 S Lewis\nStillwater, OK 74074",
+    "Phone": "(405) 624-2533",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Stillwater, Payne. Documentation Required: ID. Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "1101 S Lowry\nStillwater, OK 74074",
+    "Phone": "(405) 372- 1554",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stillwater",
+    "Name": "Our Daily Bread Food & Resource Center",
+    "Description": "Our Daily Bread is a client-choice pantry resembling a small grocery store. For more information, please call.",
+    "Address": "701 E 12th Street\nStillwater, OK 74074",
+    "Phone": "608-698-1951",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37171_our-daily-bread-food-resource-center_eoz.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stilwell",
+    "Name": "Adair County Salvation Army",
+    "Description": "Provides a food pantry.  Serves Stilwell. Documentation Required: Valid photo ID, cut-off notice, social security cards for each family member living in household. Pantry hours: Tuesdays through Thursdays 9 am - 3 pm",
+    "Address": "102 N 6th\nStilwell, OK 74960",
+    "Phone": "(918) 696-4018",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stratford",
+    "Name": "New Beginnings Church",
+    "Description": "Provides a food pantry.  Serves Garvin and Pontotoc Counties Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "2360 State Hwy 19\nStratford, OK 74872",
+    "Phone": "(580) 759-3535",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stringtown",
+    "Name": "Southern Oklahoma Nutrition Program of Carter County",
+    "Description": "Provides a food pantry.  Serves Individuals must be a resident of Oklahoma, meet required income limits and be age 60 years old or older. Documentation Required: Photo ID Pantry hours: Mondays through Fridays 8 am - 1 pm",
+    "Address": "104 Reba Mcentire Road Hwy 43 E\nStringtown, OK 74569",
+    "Phone": "(580) 346-7822",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Stroud",
+    "Name": "Stroud Food Pantry Inc.",
+    "Description": "Provides a food pantry.  Serves Stroud. Pantry Hours: 2nd and 4th Tuesday of every month10:00am - 1:00pm",
+    "Address": "211 N 3rd Ave\nStroud, OK 74079",
+    "Phone": "(918) 987-0210",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/31026_stroud_food_pantry_inc._74079_fzh.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Sulphur",
+    "Name": "Faith Center Church",
+    "Description": "Provides a food pantry.  Serves Murray County. Documentation Required: Must prove residence at the current address by supplying a copy of current utility bill, doctors bill or other piece of mail. Must meet Oklahoma low-income guidelines. Pantry hours: Once a month following the 2nd Thursday) Saturday: 8 am - 9:30 am",
+    "Address": "2600 W Broadway\nSulphur, OK 73086",
+    "Phone": "(580) 622-3114",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tahlequah",
+    "Name": "Hands of Grace Warehouse - Zoe Institute Inc",
+    "Description": "Provides a food pantry.  Serves Cherokee, Adair, Sequoyah county. Pantry Hours: Wednesdays 9:00 am - 3:00 pmSaturday11:00am - 1:00pm",
+    "Address": "309 S Muskogee Ave\nTahlequah, OK 74464",
+    "Phone": "(918) 453-9778",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tahlequah",
+    "Name": "CARE Food Pantry",
+    "Description": "Provides a food pantry.  Serves Cherokee County. Documentation Required: Picture ID and SS cards for each member of family to receive food for that person. Pantry hours: Monday, Wednesdays and Fridays 10 am - 1 pm",
+    "Address": "220 N Muskogee Ave\nTahlequah, OK 74464",
+    "Phone": "(918) 458-5338",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tecumseh",
+    "Name": "Highland Church of Christ",
+    "Description": "&nbsp;We maintain a food pantry for the purpose of providing food to those in need. Through our food pantry, our budget, and the quarterly special contributions we will continue to meet the needs of many that cannot help themselves.Serves Tecumseh. Documentation Required: Proof of residency Pantry Hours: Monday through Friday 9:00am - 12:00pm",
+    "Address": "905 E Walnut Street\nTecumseh, OK 74873",
+    "Phone": "(405) 598-3514",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tecumseh",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Tecumseh. Documentation Required: Proof of residency Pantry hours: Mondays through Thursdays 8 am - 5 pm",
+    "Address": "301 S Broadway\nTecumseh, OK 74873",
+    "Phone": "(405) 598-3778",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Temple",
+    "Name": "Cotton County Community Action Development Corporation",
+    "Description": "Provides a food pantry.  Serves Cotton County. Documentation Required: Application required, Picture I.D. and social security cards for every member of the household must be presented. Pantry hours: Mondays through Fridays 8 am - noon and 1 pm - 4 pm",
+    "Address": "102 W Texas\nTemple, OK 73568",
+    "Phone": "(580) 342-6967",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tishomingo",
+    "Name": "First Assembly of God Church",
+    "Description": "Provides a food pantry.  Serves Johnston County Pantry hours: Mondays through Fridays 9 am - 5 pm",
+    "Address": "211 N Broadway Street\nTishomingo, OK 73460",
+    "Phone": "(580) 371-2112",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tishomingo",
+    "Name": "Church of the Nazarene",
+    "Description": "Provides a food pantry.  Serves Johnston County-No one turned away. Pantry hours: Mondays through Fridays 9AM-3PM",
+    "Address": "400 S Muldrow\nTishomingo, OK 73460",
+    "Phone": "(580) 371-3120",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tishomingo",
+    "Name": "Assembly of God Church",
+    "Description": "Provides a food pantry.  Serves Tishomingo, Ravia, Connerville. Documentation Required: Proof of residency. Pantry hours: Fourth Saturday monthly: 8 am - noon",
+    "Address": "205 N Broadway\nTishomingo, OK 73460",
+    "Phone": "(580) 371-2112",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tishomingo",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Johnston County Pantry hours: Mondays through Thursdays 8 am - 5 pm",
+    "Address": "202 N Neshoba\nTishomingo, OK 73460",
+    "Phone": "(580) 371-2498",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Community Food Bank of Eastern Oklahoma",
+    "Description": "Mobile Pantry Program provides fresh produce, bakery items and shelf-stable food to food insecure families in rural, under-served areas. For more information, please call.",
+    "Address": "1304 N Kenosha Ave\nTulsa, OK 74106",
+    "Phone": "(918) 585-2800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/327_community-food-bank-of-eastern-oklahoma_jbu.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Restore Hope",
+    "Description": "Provides a food pantry.  Serves Tulsa County Residents. Documentation Required: ID is required for each family member, proof of address is required along with Social Security card. Pantry Hours: Monday - Thursday 11:30am - 3:00pm",
+    "Address": "2960 Charles Page Boulevard\nTulsa, OK 74127",
+    "Phone": "(918) 582-5766",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30975_restore_hope_74127_vjt.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Potter's Clay Mission",
+    "Description": "Provides a food pantry.  Serves Southwest Tulsa Pantry hours: Every Wednesday 10 am - 2 pm except first Wednesday of the month.",
+    "Address": "2208 Southwest Blvd\nTulsa, OK 74107",
+    "Phone": "(918) 581-0444",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Park Plaza Church of Christ",
+    "Description": "Provides a food pantry.  Serves Tulsa County. Documentation Required: Provide some form of ID: photo ID, social security and proof of residency (bill with address, etc.) Pantry Hours: Monday through Thursday 10:00am - 3:00pm",
+    "Address": "5925 E 51st Street\nTulsa, OK 74135",
+    "Phone": "(918) 895-6816",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30960_park_plaza_church_of_christ_74135_vaa.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Harvest House Tulsa",
+    "Description": "Provides 5 days of nutritious groceries, selected by the client, to each household served.  Appointment Hours:Wednesday11:00am to 3:00pmServes residents of Tulsa County and seven adjoining counties in Northeast Oklahoma.Documentation required: Official photo ID and Social Security cards for every household member.  Many other services ar",
+    "Address": "1439 E 71st St\nTulsa, OK 74136",
+    "Phone": "(918) 884-7667 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30955_open_bible_fellowship_74136_txt.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Neighbors Along the Line",
+    "Description": "Neighbors Along the Line allows eligible clients to receive food on an emergency basis up to once per month.Hours:Monday 1:30pm - 3:30pmTuesday 1:30pm&nbsp; -3:30pmWednesday 4:30pm - 5:45pmThursday 1:30pm-3:30pm &amp; 4:30pm-5:45pmRequirementsTo be eligible to receive food from our pantry, clients must meet income and residency guidelines",
+    "Address": "5000 West Charles Page Boulevard\nTulsa, OK 74127",
+    "Phone": "(918) 584-1111",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30947_neighbors_along_the_line_74127_rtj.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Manna House",
+    "Description": "Provides a food pantry.  Serves 74110 and 74115 zip codes residents only. Documentation Required: Proof of residency. Pantry hours: Tuesdays 10:00am - 2:00pm We also have a clothing area.",
+    "Address": "4921 East Admiral Place\nTulsa, OK 74115",
+    "Phone": "918-836-5541",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Loaves and Fishes",
+    "Description": "Provides a food pantry.  Serves Tulsa County Family Food Pantry serves families, single women (with or without children). Men's Food Pantry serves single men who are 70 years or older, disabled or have custody of dependent children. Serves Free Lunch:Monday and Wednesday11:00am - 11:45amGrocery Assistance:Monday and Wednesday12:00pm - 1:30pmSat",
+    "Address": "11321 E 19th Street\nTulsa, OK 74128",
+    "Phone": "(918) 234-8577",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30916_loaves_and_fishes_74128_xcy.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Iron Gate",
+    "Description": "There are NO requirements to receive emergency groceries at Iron Gate. Soup Kitchen Hours:Every day 8:30am - 10:30amGrocery Pantry HoursWednesday and Friday 12:00am - 1:00pmSaturday 11:00am - 12:00pmThe grocery pantry provides a self-serve grocery bag of basics and fresh produce with no required documentation. Guests can get grocery ",
+    "Address": "501 South Cincinnati Avenue\nTulsa, OK 74103",
+    "Phone": "(918) 359-9001",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30898_iron_gate_74103_qxx.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Helping Hand Ministry",
+    "Description": "Provides a food pantry.  Serves Tulsa County. Documentation Required: Picture ID, Social Security card. Pantry hours: Mondays through Fridays 9 am - noon, or until funds depleted.",
+    "Address": "700 S Boston\nTulsa, OK 74119",
+    "Phone": "(918) 584-6923",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Tulsa County. Documentation Required: Must have photo ID and current proof of residence. Pantry hours: Mondays through Thursdays 10 am - 11 am",
+    "Address": "305 S Detroit Ave\nTulsa, OK 74120",
+    "Phone": "(918) 587-6000",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Christ For Humanity",
+    "Description": "Provides a food pantry.  Serves Tulsa. Documentation Required: Must provide photo ID and meet federal poverty guidelines. Pantry hours: By appointment",
+    "Address": "6314 E 13th St\nTulsa, OK 74112",
+    "Phone": "(918) 836-2424 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Catholic Charities",
+    "Description": "Provides a food pantry.  Serves Tulsa. Must be pregnant, have minor children residing permanently in the home, be disabled or handicapped, or be over the age of 55. Documentation Required: Must provide one of the following for each member of the household: driver's license, birth certificate, insurance card, passport, or Social Security card. Will need ID for family members.",
+    "Address": "2450 N Harvard Ave\nTulsa, OK 74106",
+    "Phone": "(918) 949-4673",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Western Neighbors",
+    "Description": "Provides a food pantry.  Serves Tulsa south and west of the Arkansas River, south through Jenks School District, west to Prattville. Serves zip codes 74107, 74132, 74131, 74150 and 74157. Pantry Hours: Monday through Thursday8:00am - 12:00pm",
+    "Address": "4235 Southwest Blvd\nTulsa, OK 74107",
+    "Phone": "(918) 445-8840",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "A Third Place Community Foundation",
+    "Description": "Here at A Third Place Community Foundation we offer a food pantry open Wednesday's from Noon - 4:00pm",
+    "Address": "5920 N Owasso Ave\nTulsa, OK 74126",
+    "Phone": "(918) 794-4637",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/32626_a-third-place-community-foundation_ofw.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Chapel of Restoration Food Pantry",
+    "Description": "We have an emergency food pantry and we also serve hot meals on Sundays after church. Should you be in the need of food please contact us or, we are in the pantry on Saturdays from 12pm to 1pm. ",
+    "Address": "13650 E. 21st St\nTulsa, OK 74134",
+    "Phone": "(918) 392-0522",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Tulsa Dream Center",
+    "Description": "We serve over 600 hot meals a week to those who are hungry.&nbsp; Hours:Tuesday, Wednesday and Thursday12:00pmAnyone in the city can join us for a hot well balanced meal.&nbsp; Our belief is no one should go hungry.&nbsp; Along with our hot meals, every Tuesday and Thursday at 1pm after a short time of ministry we give food bags to anyone in need.&nbsp; Everything is fr",
+    "Address": "200 W 46th St, N\nTulsa, OK 74126",
+    "Phone": "(918) 430-9984",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/33301_dreamcenter_agp.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "South Tulsa Community House",
+    "Description": "We provide food pantry services, bus token program and GED classes to residents in the 61st and Peoria area of Tulsa (approximately 51st street to 71st street; Riverside Dr. to Lewis Ave.).   Hours: Monday through Thursday 9:00am to 1:00pmFriday By Appointment Only for Emergency Food Distribution We further provide free fax, copier and computer/internet ac",
+    "Address": "5780 South Peoria Ave.\nTulsa, OK 74105-7857",
+    "Phone": "(918) 742-5597",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/33199_south-tulsa-community-house_bsa.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Community Food Bank of Eastern Oklahoma",
+    "Description": "Feed the hungry of Eastern Oklahoma through a network of Partner Programs and engage our communities in ending hunger.\r\n\r\nVISION: Food security, with dignity, for all Eastern Oklahomans.\r\nCompany Overview\r\nWe provide food and other donated goods to 450 Partner Programs in 24 counties of eastern Oklahoma. These programs include emergency food pantries, soup kitchens, emergen",
+    "Address": "1304 N Kenosha Ave\nTulsa, OK 74106",
+    "Phone": "(918) 585-2800",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/33864_goqmgluimb.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Agape Bible Fellowship Pantry ",
+    "Description": "We are 1 year old we give food and clothing , we get food from our congregation and we are sponsored by Eastern Oklahoma Food Bank . We give bags of food on Thursday from 9 to 1pm. and on Sundays from 1:00 pm  to 1:30 pm . We offer prayer but not a requirement. We get one donation from Salvation army once a year, just received another donation from them. usually we give food for 5 to 7 days . eggs",
+    "Address": "7143 East 10 th street \nTulsa, OK 74112",
+    "Phone": "9189336464",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "Tulsa Indian United Methodist Food Pantry",
+    "Description": "Food Pantry Hours 2nd and Last Thursday of every month. \r\n9am- 11am State issued ID and utility bill \r\nRequired. ",
+    "Address": "1911 N College\nTulsa, OK 74110",
+    "Phone": "918-834-1956",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Tulsa",
+    "Name": "People's Pantry of Tulsa, Inc.",
+    "Description": "The Peoples's Pantry of Tulsa, Inc. is an emergency food pantry.  We serve the neighborhood between Harvard Avenue to Sheridan Road and Admiral Boulevard to 15th Street.  Our pantry is served by volunteers.Hours:Wednesday5:00pm to 7:00pmThose in need of emergency groceries should bring their I.D. along with a utility bill showing their name and current address.  \r\n\r\n\r\nA",
+    "Address": "4739 E. 5th St.\nTulsa, OK 74112",
+    "Phone": "(918) 720-2953",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/37569_peoples-pantry-of-tulsa-inc_zlp.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Vinita",
+    "Name": "Salvation Army",
+    "Description": "Provides a food pantry.  Serves Craig County. Documentation Required: Must bring in photo ID and Social Security for each member of household. Pantry hours: Monday, Wednesdays and Fridays 10 am - 2 pm",
+    "Address": "222 W Sequoyah\nVinita, OK 74301",
+    "Phone": "(918) 256-2037",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wagoner",
+    "Name": "Wagoner Community Outreach",
+    "Description": "Provides a food pantry.  Serves Wagoner. Documentation Required: Social security cards and proof of residency in Wagoner. Pantry hours: 4th Thursday of month: Doors open at 5 PM.",
+    "Address": "700 SW 13th St\nWagoner, OK 74467",
+    "Phone": "(918) 485-6830",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Walters",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Cotton County. Pantry hours: 2nd and 4th Saturdays: 8 am - 10 am",
+    "Address": "319 S 3rd\nWalters, OK 73572",
+    "Phone": "(580) 875-3341",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_6.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Warr Acres",
+    "Name": "St Charles Borromeo Catholic Church - Dorothy Day Center",
+    "Description": "The Dorothy Day Center\r\nBecause of our relationship with The Regional Food Bank of Oklahoma we are able to procure food and supplies for about 14 cents a pound.  This is about 1/13 the price of retail.\r\n\r\nWe provide food, hygiene supplies, and basic household cleaning supplies to approximately 350 families a month.  This averages out to about 1070 people a month.\r\n\r\nW",
+    "Address": "5024 N Grove \nWarr Acres, OK 73122",
+    "Phone": "(405) 603-7591 ",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/34596_grxzwtvgij.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Watonga",
+    "Name": "Child and Adult Food Care Program",
+    "Description": "Provides a food pantry.  Serves Cimarron, Texas, Beaver, Harper, Woods, Alfalfa, Grant, Blaine, Roger Mills, Beckham, Washita, Caddo, Logan, Canadian, Custer, Kay, Noble, Garfield, Major, Woodward, Ellis, Dewey, and Kingfisher Counties. Must be approved by DHS Pantry hours: Mondays through Fridays 8am - 5pm",
+    "Address": "117 W Russworm\nWatonga, OK 73772",
+    "Phone": "(580) 623-7283",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Waurika",
+    "Name": "OKLA Department of Human Services of Jefferson County",
+    "Description": "Provides a food pantry.  Serves Jefferson County. Documentation Required: ID. Pantry hours: Mondays through Thursdays 7:30 am - 5 pm and Friday: 8 am - 5 pm",
+    "Address": "400 E Highway 70\nWaurika, OK 73573",
+    "Phone": "(580) 228-3581",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wellston",
+    "Name": "First United Methodist Church",
+    "Description": "Provides a food pantry.  Serves Wellston (zip code 74881)",
+    "Address": "4th and Birch\nWellston, OK 74881",
+    "Phone": "(405) 356-4123",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Westville",
+    "Name": "Westville Food Pantry",
+    "Description": "Provides a food pantry.  Serves Arkansas, Benton County. Documentation Required: Drivers license or photo ID. Pantry hours:&nbsp; This pantry is only open every OTHER TUESDAY from 8 A.m until 1:00 p.m and serves WESTVILLE, AND ADAIR COUNTY ONLY",
+    "Address": "109 Williams Street\nWestville, OK 74965",
+    "Phone": "918-723-5640",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wewoka",
+    "Name": "New Life Church",
+    "Description": "Provides a food pantry.  Serves Seminole County and surrounding areas.",
+    "Address": "121 W 12th Street\nWewoka, OK 74884",
+    "Phone": "(405) 257-3537",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wewoka",
+    "Name": "Ministerial Alliance",
+    "Description": "Provides a food pantry.  Serves Wewoka. Pantry hours: Mondays through Thursdays 8 am - 4 pm and Friday: 8 am - noon",
+    "Address": "1301 S Mekusukey\nWewoka, OK 74884",
+    "Phone": "(405) 257-5438",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_7.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wewoka",
+    "Name": "Church of Christ",
+    "Description": "Provides a food pantry.  Serves Wewoka and surrounding area. Pantry hours: Mondays through Fridays 9 am - 4 pm",
+    "Address": "401 S Mekusukey\nWewoka, OK 74884",
+    "Phone": "(405) 257-2255",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wilburton",
+    "Name": "Ministerial Alliance",
+    "Description": "Provides a food pantry.  Serves Wilburton",
+    "Address": "209 E Ada Street\nWilburton, OK 74578",
+    "Phone": "(918) 465-3891",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wilburton",
+    "Name": "Ki Bois Community Action Foundation of Latimer County",
+    "Description": "Provides a food pantry.  Serves Latimer County. Documentation Required: Proof of need is made through an application process and proof of residency. Pantry hours: Mondays through Fridays 8 am - 4:30 pm",
+    "Address": "309 W Main\nWilburton, OK 74578",
+    "Phone": "(918) 465-3381",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_1.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Wilburton",
+    "Name": "Calvary Baptist Church",
+    "Description": "Provides a food pantry.  Serves Wilburton Pantry hours: 4th Thursday of the month: 9 am - noon",
+    "Address": "204 E Ash\nWilburton, OK 74578",
+    "Phone": "(918) 465-2548",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_4.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "Living Word Fellowship",
+    "Description": "Provides a food pantry.  Pantry Hours: Mondays - Friday 8:00am - 5:00pm",
+    "Address": "1310 Oklahoma Avenue\nWoodward, OK 73801",
+    "Phone": "(580) 256-1844",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_8.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "High Plains Outreach Center",
+    "Description": "Provides a food pantry.  Documentation Required: Proper Identification and Police Check",
+    "Address": "1220 7th Street\nWoodward, OK 73801",
+    "Phone": "(580) 254-5162",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "First United Methodist Church of Woodward",
+    "Description": "Provides a food pantry.  Serves North West Oklahoma",
+    "Address": "1111 Downs Avenue\nWoodward, OK 73801",
+    "Phone": "(580) 256-5515",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "First Baptist Church",
+    "Description": "Provides a food pantry.  Serves Woodward Area Pantry hours: Mondays through Fridays 9am-5pm",
+    "Address": "202 E Hanks Trail\nWoodward, OK 73801",
+    "Phone": "(580) 256-2837",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "Families Helping Families - Living Word Fellowship",
+    "Description": "Provides a food pantry.  Serves Woodward and surrounding Counties. Documentation Required: Utility bill with the person needing the groceries name on it .Pantry Hours: Monday 8:00am - 6:00pmFor more information, please call.",
+    "Address": "1310 Oklahoma Avenue\nWoodward, OK 73801",
+    "Phone": "(580) 256-1844",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_3.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Woodward",
+    "Name": "Families Helping Families",
+    "Description": "Provides a food pantry. Hours:Monday 4:30pm - 6:30pm2nd &amp; 4th Thursday on month4:00pm - 6:00pm",
+    "Address": "1310 Oklahoma Avenue\nWoodward, OK 73801",
+    "Phone": "(580) 256-1844",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/30815_families_helping_families_73801_lpb.png"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Yale",
+    "Name": "Yale Assembly Of God",
+    "Description": "Provides a food pantry.  Serves Yale, Payne County Pantry hours: 1st Monday of Month: 6 pm - 7 pm",
+    "Address": "210 W Charleston\nYale, OK 74085",
+    "Phone": "(918) 387-2184",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_2.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Yukon",
+    "Name": "Yukon Sharing Ministry Inc",
+    "Description": "Provides a food pantry.  Serves Yukon and parts of Canadian County in Yukon school district as well as those in the Mustang School district with a Yukon zip code. Documentation Required: Photo ID for person making request, Social Security card for each member of household, pay stubs, proof of residency, and will need to complete an application. Pantry hours: Monday, Tuesday, Thursday a",
+    "Address": "4 N 6th St\nYukon, OK 73085",
+    "Phone": "(405) 354-9456",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_10.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Yukon",
+    "Name": "First Christian Church",
+    "Description": "Provides a food pantry.  Serves Eastern Canadian County: Yukon, Mustang, and Piedmont. Documentation Required: Call for details. Photo ID. Pantry hours: Sunday: 6 pm - 7 pm and Wednesday 9 am - Noon and 6 pm - 7 pm",
+    "Address": "123 S 6th\nYukon, OK 73099",
+    "Phone": "(405) 354-5808",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_5.jpg"
+  },
+  {
+    "State": "Oklahoma",
+    "City": "Yukon",
+    "Name": "Compassionate Hands",
+    "Description": "Provides a food pantry.  Serves Yukon. Documentation Required: Picture ID, Social Security Card or Birth Certificates, proof of residency and proof of income for the past 60 days for all members of the household. Pantry hours: Mondays, Tuesdays, Thursdays Fridays 9 am - 4 pm",
+    "Address": "119 S 6th St\nYukon, OK 73099",
+    "Phone": "(405) 354-9591",
+    "FoodPantriesImage": "https://www.foodpantries.org/gallery/no_photo_9.jpg"
+  }
+]
