@@ -26,6 +26,16 @@ PODS:
     - FirebaseCore (~> 4.0)
   - GeoFire (2.0.1):
     - Firebase/Database (~> 4.0)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.6.0):
+    - GoogleMaps (= 2.6.0)
+    - GooglePlaces (= 2.6.0)
+  - GooglePlaces (2.6.0):
+    - GoogleMaps/Base (= 2.6.0)
   - GoogleToolboxForMac/DebugUtils (2.1.3):
     - GoogleToolboxForMac/Defines (= 2.1.3)
   - GoogleToolboxForMac/Defines (2.1.3)
@@ -52,6 +62,9 @@ DEPENDENCIES:
   - Firebase/Core
   - FirebaseAuth (>= 4.5.0)
   - GeoFire (>= 2.0.0)
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
   - SwiftLocation (>= 3.2.1)
 
 SPEC CHECKSUMS:
@@ -62,6 +75,9 @@ SPEC CHECKSUMS:
   FirebaseDatabase: 5f0bc6134c5c237cf55f9e1249d406770a75eafd
   FirebaseInstanceID: 8d20d890d65c917f9f7d9950b6e10a760ad34321
   GeoFire: 3e70a24019dc16816190f533c9cac0d1321c4a71
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  GooglePlacePicker: e4488625effb006f59de49e14b7a603e463e4261
+  GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
   GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
   GTMSessionFetcher: 390ea358e5a0d0133153806f744662dad933d06b
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
@@ -69,6 +85,6 @@ SPEC CHECKSUMS:
   SwiftLocation: 603153e718a5b4a1e1f114346c2d5e13c16b69da
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: c069917a3a5d56efb9fc7cd248dc61c6d3e65849
+PODFILE CHECKSUM: ff3b0cf45f3e93f4abdd33ac29c88fcc9ffcab9f
 
 COCOAPODS: 1.4.0

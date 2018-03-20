@@ -9,6 +9,9 @@
 import UIKit
 import Firebase
 import FirebaseAuth
+import GoogleMaps
+import GooglePlaces
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -17,13 +20,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        GMSPlacesClient.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
+        GMSServices.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
         FirebaseApp.configure()
         Auth.auth().signInAnonymously() { (user, error) in
             if let e = error {
                 print("Error: \(e)")
             }
-            let isAnonymous = user!.isAnonymous  // true
-            let uid = user!.uid
+            //let isAnonymous = user!.isAnonymous  // true
+            //let uid = user!.uid
         }
         return true
     }
