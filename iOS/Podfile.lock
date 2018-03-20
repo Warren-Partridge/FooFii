@@ -43,12 +43,16 @@ PODS:
     - nanopb/encode (= 0.3.8)
   - nanopb/decode (0.3.8)
   - nanopb/encode (0.3.8)
+  - SwiftLocation (3.2.1):
+    - SwiftyJSON (~> 4.0.0-alpha.1)
+  - SwiftyJSON (4.0.0)
 
 DEPENDENCIES:
   - Firebase (>= 4.0.0)
   - Firebase/Core
   - FirebaseAuth (>= 4.5.0)
   - GeoFire (>= 2.0.0)
+  - SwiftLocation (>= 3.2.1)
 
 SPEC CHECKSUMS:
   Firebase: cc13dfab1038c8b45d7903e01fc690451d6d0b24
@@ -62,7 +66,9 @@ SPEC CHECKSUMS:
   GTMSessionFetcher: 390ea358e5a0d0133153806f744662dad933d06b
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
   nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  SwiftLocation: 603153e718a5b4a1e1f114346c2d5e13c16b69da
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: 44476305a20a29e980981660ac0272f90183ab79
+PODFILE CHECKSUM: c069917a3a5d56efb9fc7cd248dc61c6d3e65849
 
 COCOAPODS: 1.4.0

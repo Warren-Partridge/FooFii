@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */; };
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
+		3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */; };
 		3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6071F96E45900AA01FC /* AppDelegate.swift */; };
 		3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6091F96E45900AA01FC /* LoginController.swift */; };
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FooFii.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeofireExperimentController.swift; sourceTree = "<group>"; };
 		3EEEA6041F96E45900AA01FC /* FooFii.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FooFii.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EEEA6071F96E45900AA01FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EEEA6091F96E45900AA01FC /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
 				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
 				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
+				3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */,
 				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
 				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
@@ -191,6 +194,8 @@
 				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
 				"${BUILT_PRODUCTS_DIR}/GeoFire/GeoFire.framework",
 				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftLocation/SwiftLocation.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
 				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
 				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
 			);
@@ -199,6 +204,8 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GeoFire.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftLocation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
 			);
@@ -234,6 +241,7 @@
 			files = (
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
+				3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */,
 				3E5C850A2061A8710060F646 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
