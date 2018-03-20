@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  FooFii
 //
 //  Created by Calvin Rose on 10/17/17.
@@ -8,8 +8,8 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
-
+class LoginController: UIViewController {
+ 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

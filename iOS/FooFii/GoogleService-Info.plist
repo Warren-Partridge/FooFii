@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>1082875698258-tfu6tk009b36pj0944plc0i6t6n5fj48.apps.googleusercontent.com</string>
+	<string>1075985408537-tc50q5jm713td1sogg9g5rgnil4pe8rp.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1082875698258-tfu6tk009b36pj0944plc0i6t6n5fj48</string>
+	<string>com.googleusercontent.apps.1075985408537-tc50q5jm713td1sogg9g5rgnil4pe8rp</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCyp4TTJJQEGANxOx5Kgk0MtD0T4b3aDYc</string>
+	<string>AIzaSyDfDHe0hEDQTPQcyXXyCPQIuOI4MjPPbXs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1082875698258</string>
+	<string>1075985408537</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.FooFii</string>
+	<string>com.foofiiapp.FooFii</string>
 	<key>PROJECT_ID</key>
-	<string>foo-fi</string>
+	<string>foofii-ee6ee</string>
 	<key>STORAGE_BUCKET</key>
-	<string>foo-fi.appspot.com</string>
+	<string>foofii-ee6ee.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1082875698258:ios:0dfcabde1c532eb3</string>
+	<string>1:1075985408537:ios:c2df7738b3e1b020</string>
 	<key>DATABASE_URL</key>
-	<string>https://foo-fi.firebaseio.com</string>
+	<string>https://foofii-ee6ee.firebaseio.com</string>
 </dict>
 </plist>
