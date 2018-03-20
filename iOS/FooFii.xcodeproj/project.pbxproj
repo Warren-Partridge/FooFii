@@ -15,6 +15,9 @@
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
 		3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */; };
 		3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
+		5C087E8C2061D1450063ED09 /* Maps.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C087E8B2061D1450063ED09 /* Maps.storyboard */; };
+		5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8D2061D1750063ED09 /* ViewController.swift */; };
+		5C087E902061D1900063ED09 /* MyMapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8F2061D18F0063ED09 /* MyMapController.swift */; };
 		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +33,9 @@
 		3EEEA6101F96E45900AA01FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EEEA6131F96E45900AA01FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EEEA6151F96E45900AA01FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C087E8B2061D1450063ED09 /* Maps.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Maps.storyboard; sourceTree = "<group>"; };
+		5C087E8D2061D1750063ED09 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5C087E8F2061D18F0063ED09 /* MyMapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapController.swift; sourceTree = "<group>"; };
 		88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.debug.xcconfig"; sourceTree = "<group>"; };
 		BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.release.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,7 +77,10 @@
 				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
 				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
 				3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */,
+				5C087E8D2061D1750063ED09 /* ViewController.swift */,
+				5C087E8F2061D18F0063ED09 /* MyMapController.swift */,
 				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
+				5C087E8B2061D1450063ED09 /* Maps.storyboard */,
 				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
 				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
@@ -160,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
+				5C087E8C2061D1450063ED09 /* Maps.storyboard in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
@@ -175,9 +185,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FooFii/Pods-FooFii-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlacePicker.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -239,9 +256,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */,
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
 				3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */,
+				5C087E902061D1900063ED09 /* MyMapController.swift in Sources */,
 				3E5C850A2061A8710060F646 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -381,7 +400,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5ZL35CB8RG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = FooFii/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.foofiiapp.FooFii;
@@ -397,7 +416,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5ZL35CB8RG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = FooFii/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.foofiiapp.FooFii;

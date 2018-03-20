@@ -10,7 +10,7 @@ import Foundation
 import Firebase
 import GeoFire
 
-let ref = Database.database().reference()
-let gfMarkets = GeoFire(firebaseRef: ref.child("markets/geofire"))
-let gfSnap = GeoFire(firebaseRef: ref.child("snap/geofire"))
+//let ref = Database.database().reference()
+//let gfMarkets = GeoFire(firebaseRef: ref.child("markets/geofire"))
+//let gfSnap = GeoFire(firebaseRef: ref.child("snap/geofire"))
 
