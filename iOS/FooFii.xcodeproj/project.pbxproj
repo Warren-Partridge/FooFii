@@ -17,7 +17,6 @@
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
 		3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */; };
 		3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
-		5C087E8C2061D1450063ED09 /* Maps.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C087E8B2061D1450063ED09 /* Maps.storyboard */; };
 		5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8D2061D1750063ED09 /* ViewController.swift */; };
 		5C087E902061D1900063ED09 /* MyMapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8F2061D18F0063ED09 /* MyMapController.swift */; };
 		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
@@ -37,7 +36,6 @@
 		3EEEA6101F96E45900AA01FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EEEA6131F96E45900AA01FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EEEA6151F96E45900AA01FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5C087E8B2061D1450063ED09 /* Maps.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Maps.storyboard; sourceTree = "<group>"; };
 		5C087E8D2061D1750063ED09 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5C087E8F2061D18F0063ED09 /* MyMapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapController.swift; sourceTree = "<group>"; };
 		88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.debug.xcconfig"; sourceTree = "<group>"; };
@@ -84,7 +82,6 @@
 				5C087E8D2061D1750063ED09 /* ViewController.swift */,
 				5C087E8F2061D18F0063ED09 /* MyMapController.swift */,
 				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
-				5C087E8B2061D1450063ED09 /* Maps.storyboard */,
 				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
 				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
@@ -175,7 +172,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
-				5C087E8C2061D1450063ED09 /* Maps.storyboard in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
