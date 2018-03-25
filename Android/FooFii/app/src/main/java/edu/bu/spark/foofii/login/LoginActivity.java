@@ -62,6 +62,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import edu.bu.spark.foofii.R;
 import edu.bu.spark.foofii.base.BaseActivity;
+import edu.bu.spark.foofii.database.DataBaseActivity;
 import edu.bu.spark.foofii.model.User;
 
 /**
@@ -74,7 +75,7 @@ public class LoginActivity extends BaseActivity implements
 
     private static final String TAG = "LoginActivity";
     private static final int RC_SIGN_IN = 9001;
-    private static final int REQUEST_SIGNUP = 0;
+    private static final int REQUEST_SIGNUP = 0; // What does this do
 
     @BindView(R.id.input_email)
     public EditText emailText;
@@ -135,6 +136,9 @@ public class LoginActivity extends BaseActivity implements
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        loginButton = findViewById(R.id.btn_login);
+        signupLink = findViewById(R.id.link_signup);
+
         /* Initialize Facebook */
         FacebookSdk.sdkInitialize(getApplicationContext());
 
@@ -162,6 +166,9 @@ public class LoginActivity extends BaseActivity implements
 
         /* FireBase Auth */
         mAuth = FirebaseAuth.getInstance();
+
+        //Signing out
+        FirebaseAuth.getInstance().signOut();
 
         /* Facebook Login */
         ImageView facebookButton = findViewById(R.id.icon_fb);
@@ -231,13 +238,25 @@ public class LoginActivity extends BaseActivity implements
 
                 @Override
                 public void onClick(View v) {
-                    Intent intent = new Intent(getApplicationContext(), SignupActivity.class);
-                    startActivityForResult(intent, REQUEST_SIGNUP);
-                    performLogin();
-                    overridePendingTransition(R.anim.push_left_in, R.anim.push_left_out);
+                    //Intent intent = new Intent(getApplicationContext(), SignupActivity.class);
+                    //startActivityForResult(intent, REQUEST_SIGNUP); //What does this do
+                    showSignup();
+                    //performLogin();
+                    //overridePendingTransition(R.anim.push_left_in, R.anim.push_left_out);
                 }
             });
         }
+    }
+
+    /**
+     * Show Signup
+     */
+    private void showSignup() {
+        Toast.makeText(this,"Changing Activities...",Toast.LENGTH_LONG).show();
+        Intent intent = new Intent(getApplicationContext(), SignupActivity.class);
+        startActivity(intent);
+        finish();
+        overridePendingTransition(R.anim.push_left_in, R.anim.push_left_out);
     }
 
     @Override
@@ -376,11 +395,16 @@ public class LoginActivity extends BaseActivity implements
         hideProgress();
         Toast.makeText(getBaseContext(), "Authentication Successful!", Toast.LENGTH_LONG).show();
 
-        Intent resultIntent = new Intent();
+        Intent resultIntent = new Intent(getApplicationContext(), DataBaseActivity.class);
+
         resultIntent.putExtra("Provider", provider);
         resultIntent.putExtra("UserEmail", userEmail);
+
         setResult(Activity.RESULT_OK, resultIntent);
-        finish();
+
+        startActivity(resultIntent);
+
+        finish(); //End Login Activity
     }
 
     /**
