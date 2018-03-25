@@ -33,18 +33,8 @@
                                 <color key="backgroundColor" red="0.36862745099999999" green="0.66274509800000003" blue="0.27450980390000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <color key="tintColor" red="0.36862745099999999" green="0.66274509800000003" blue="0.27450980390000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </imageView>
-                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Search" translucent="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xCI-zL-g18">
-                                <rect key="frame" x="16" y="-9" width="174" height="56"/>
-                                <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="174" id="xjL-g6-XEf"/>
-                                </constraints>
-                                <color key="tintColor" red="1" green="0.57637232540000005" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
-                                <color key="barTintColor" red="0.99999600649999998" green="1" blue="1" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </searchBar>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="krE-Z2-fQY">
-                                <rect key="frame" x="204" y="3" width="171" height="32"/>
+                                <rect key="frame" x="204" y="13" width="171" height="32"/>
                                 <color key="backgroundColor" red="0.96078431369999995" green="0.75294117650000003" blue="0.36470588240000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="171" id="iTB-3y-jLN"/>
@@ -56,15 +46,15 @@
                                 </state>
                             </button>
                             <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aaQ-2Q-BBZ">
-                                <rect key="frame" x="16" y="138" width="343" height="354"/>
+                                <rect key="frame" x="16" y="103" width="343" height="347"/>
                                 <connections>
                                     <segue destination="hBb-YJ-aYX" kind="embed" id="JZc-g1-OLe"/>
                                 </connections>
                             </containerView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Stz-DV-smh">
-                                <rect key="frame" x="136" y="545" width="103" height="44"/>
+                                <rect key="frame" x="136" y="515" width="103" height="44"/>
                                 <state key="normal" title="Open In Maps?">
-                                    <color key="titleColor" red="0.1615651548" green="0.16040420529999999" blue="0.16245850919999999" alpha="1" colorSpace="deviceRGB"/>
+                                    <color key="titleColor" red="0.0" green="0.99143940210000003" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
                                     <action selector="GoogleMapsLink:" destination="l5p-nd-sHa" eventType="touchUpInside" id="Xp3-8N-vyM"/>
@@ -201,6 +191,16 @@
                                     <constraint firstItem="TIa-uI-GD1" firstAttribute="leading" secondItem="yYC-fJ-mqw" secondAttribute="leading" constant="23" id="yzQ-2B-J44"/>
                                 </constraints>
                             </view>
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Search" translucent="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xCI-zL-g18">
+                                <rect key="frame" x="16" y="1" width="171" height="56"/>
+                                <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="171" id="xjL-g6-XEf"/>
+                                </constraints>
+                                <color key="tintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="barTintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </searchBar>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -208,27 +208,31 @@
                             <constraint firstItem="xCI-zL-g18" firstAttribute="bottom" secondItem="krE-Z2-fQY" secondAttribute="bottom" constant="12" id="BpX-SF-Eyq"/>
                             <constraint firstItem="sAa-hu-AcB" firstAttribute="trailing" secondItem="VXU-at-4dA" secondAttribute="trailing" id="IM9-kk-j8u"/>
                             <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="centerX" secondItem="Stz-DV-smh" secondAttribute="centerX" id="Ih9-vl-MYf"/>
-                            <constraint firstItem="xCI-zL-g18" firstAttribute="centerY" secondItem="sAa-hu-AcB" secondAttribute="centerY" constant="-10.5" id="NtW-7O-wTc"/>
+                            <constraint firstItem="xCI-zL-g18" firstAttribute="centerY" secondItem="sAa-hu-AcB" secondAttribute="centerY" constant="-0.5" id="NtW-7O-wTc"/>
                             <constraint firstAttribute="trailing" secondItem="sAa-hu-AcB" secondAttribute="trailing" id="Pik-Bu-FnC"/>
                             <constraint firstItem="sAa-hu-AcB" firstAttribute="top" secondItem="B7S-Wf-Fuo" secondAttribute="top" id="S32-9U-jX5"/>
                             <constraint firstItem="yYC-fJ-mqw" firstAttribute="top" secondItem="B7S-Wf-Fuo" secondAttribute="top" constant="13" id="Wtx-8D-96A"/>
                             <constraint firstItem="xCI-zL-g18" firstAttribute="leading" secondItem="aaQ-2Q-BBZ" secondAttribute="leading" id="Ztj-Ll-cxe"/>
-                            <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="top" secondItem="VXU-at-4dA" secondAttribute="bottom" constant="52" id="ZwN-Yh-7YC"/>
-                            <constraint firstItem="B7S-Wf-Fuo" firstAttribute="bottom" secondItem="aaQ-2Q-BBZ" secondAttribute="bottom" constant="67" id="c1J-5G-u2u"/>
+                            <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="top" secondItem="VXU-at-4dA" secondAttribute="bottom" constant="17" id="ZwN-Yh-7YC"/>
+                            <constraint firstItem="B7S-Wf-Fuo" firstAttribute="bottom" secondItem="aaQ-2Q-BBZ" secondAttribute="bottom" constant="109" id="c1J-5G-u2u"/>
                             <constraint firstItem="sAa-hu-AcB" firstAttribute="leading" secondItem="VXU-at-4dA" secondAttribute="leading" id="euY-hf-4Gi"/>
-                            <constraint firstItem="krE-Z2-fQY" firstAttribute="leading" secondItem="xCI-zL-g18" secondAttribute="trailing" constant="14" id="fp4-I6-pf9"/>
+                            <constraint firstItem="krE-Z2-fQY" firstAttribute="leading" secondItem="xCI-zL-g18" secondAttribute="trailing" constant="17" id="fp4-I6-pf9"/>
                             <constraint firstItem="xCI-zL-g18" firstAttribute="top" secondItem="krE-Z2-fQY" secondAttribute="top" constant="-12" id="g5A-jV-w8z"/>
                             <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="leading" secondItem="hH5-lD-wAd" secondAttribute="leadingMargin" id="pE9-bD-UOQ"/>
-                            <constraint firstItem="B7S-Wf-Fuo" firstAttribute="bottom" secondItem="Stz-DV-smh" secondAttribute="bottom" constant="-30" id="r8P-ec-ucz"/>
-                            <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="top" secondItem="sAa-hu-AcB" secondAttribute="bottom" constant="79" id="rg3-em-0W2"/>
+                            <constraint firstItem="B7S-Wf-Fuo" firstAttribute="bottom" secondItem="Stz-DV-smh" secondAttribute="bottom" id="r8P-ec-ucz"/>
+                            <constraint firstItem="aaQ-2Q-BBZ" firstAttribute="top" secondItem="sAa-hu-AcB" secondAttribute="bottom" constant="44" id="rg3-em-0W2"/>
                             <constraint firstItem="sAa-hu-AcB" firstAttribute="leading" secondItem="hH5-lD-wAd" secondAttribute="leading" id="t5g-Eu-C8t"/>
-                            <constraint firstItem="Stz-DV-smh" firstAttribute="top" secondItem="yYC-fJ-mqw" secondAttribute="bottom" constant="351" id="u15-08-fVU"/>
+                            <constraint firstItem="Stz-DV-smh" firstAttribute="top" secondItem="yYC-fJ-mqw" secondAttribute="bottom" constant="321" id="u15-08-fVU"/>
                             <constraint firstItem="yYC-fJ-mqw" firstAttribute="leading" secondItem="B7S-Wf-Fuo" secondAttribute="leading" constant="-140" id="vGt-Eg-5ym"/>
                             <constraint firstItem="VXU-at-4dA" firstAttribute="top" secondItem="B7S-Wf-Fuo" secondAttribute="top" constant="53" id="y5Y-uO-CNc"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="B7S-Wf-Fuo"/>
                     </view>
-                    <toolbarItems/>
+                    <toolbarItems>
+                        <barButtonItem enabled="NO" style="done" systemItem="bookmarks" id="WzF-Sm-RbX">
+                            <color key="tintColor" red="0.0" green="0.78257921006944442" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </barButtonItem>
+                    </toolbarItems>
                     <navigationItem key="navigationItem" title="Foo - Fii" id="p8s-cP-ICd">
                         <barButtonItem key="leftBarButtonItem" systemItem="organize" id="2CT-pJ-Ios">
                             <color key="tintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -239,6 +243,7 @@
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
+                        <outlet property="bottomButton1" destination="WzF-Sm-RbX" id="WEW-wD-Dhm"/>
                         <outlet property="filterButton" destination="krE-Z2-fQY" id="WCf-yb-mcz"/>
                         <outlet property="leadingConstraint" destination="vGt-Eg-5ym" id="IYx-dD-sP9"/>
                         <outlet property="searchBar" destination="xCI-zL-g18" id="LcL-4T-eIn"/>
@@ -247,14 +252,14 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="q5X-0N-39s" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2940" y="-388"/>
+            <point key="canvasLocation" x="2813.5999999999999" y="-195.6521739130435"/>
         </scene>
         <!--My Map Controller-->
         <scene sceneID="mPE-u3-a3X">
             <objects>
                 <viewController id="hBb-YJ-aYX" customClass="MyMapController" customModule="FooFii" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="W1e-4Z-osX">
-                        <rect key="frame" x="0.0" y="0.0" width="343" height="354"/>
+                        <rect key="frame" x="0.0" y="0.0" width="343" height="347"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="6de-ca-jCx"/>

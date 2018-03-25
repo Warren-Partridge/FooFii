@@ -33,9 +33,6 @@ class ViewController: UIViewController{
     
     
     //Side Menu
-    
-    
-    
     @IBOutlet weak var leadingConstraint: NSLayoutConstraint!
     var menuShowing=false
     
@@ -54,12 +51,14 @@ class ViewController: UIViewController{
     }
     
     
-    
+    //variables from storyboard
     @IBOutlet weak var yellow_box: UITextView!
     
     @IBOutlet weak var searchBar: UISearchBar!
     
     @IBOutlet weak var filterButton: UIButton!
+    
+    @IBOutlet weak var bottomButton1: UIBarButtonItem!
     
     
     override func viewDidLoad() {
@@ -84,15 +83,21 @@ class ViewController: UIViewController{
         filterButton.titleLabel?.layer.shadowRadius = 3
         filterButton.titleLabel?.layer.shadowColor = UIColor.black.cgColor
         filterButton.titleLabel?.layer.shadowOffset = CGSize(width: 0, height: 1)
-        filterButton.titleLabel?.layer.shadowOpacity = 0.6
+        filterButton.titleLabel?.layer.shadowOpacity = 0.4
         filterButton.titleLabel?.layer.masksToBounds = false
         
-        //rounding edges of button
+        //rounding edges of the two button
         filterButton.layer.cornerRadius = 5
         filterButton.layer.borderWidth = 1
         filterButton.layer.borderColor = UIColor.clear.cgColor
         
+        searchBar.layer.cornerRadius = 10
+        searchBar.clipsToBounds = true
+        
+
+        
     }
+    
     
     
     
