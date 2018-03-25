@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */; };
+		34876B402068537700AAF30A /* foo_fii_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 34876B3F2068537700AAF30A /* foo_fii_logo.png */; };
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
 		3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */; };
 		3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3C2067F147009C25C1 /* Snap.swift */; };
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FooFii.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		34876B3F2068537700AAF30A /* foo_fii_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foo_fii_logo.png; sourceTree = "<group>"; };
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeofireExperimentController.swift; sourceTree = "<group>"; };
 		3EAB7E3C2067F147009C25C1 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 		3EEEA6061F96E45900AA01FC /* FooFii */ = {
 			isa = PBXGroup;
 			children = (
+				34876B3F2068537700AAF30A /* foo_fii_logo.png */,
 				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
 				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
 				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
+				34876B402068537700AAF30A /* foo_fii_logo.png in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
