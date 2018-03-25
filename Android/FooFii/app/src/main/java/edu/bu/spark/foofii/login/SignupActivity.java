@@ -18,6 +18,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 
+import org.w3c.dom.Text;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import edu.bu.spark.foofii.R;
@@ -61,10 +63,22 @@ public class SignupActivity extends AppCompatActivity {
     }
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
-        ButterKnife.bind(this);
+
+        ButterKnife.bind(this); // not working
+
+        /*
+        nameText = new EditText(this);
+        emailText = new EditText(this);
+        mobileText = new EditText(this); // Don't think we want this... This can be optional
+        passwordText = new EditText(this); // Don't want Password
+        reEnterPasswordText = new EditText(this); // Don't want password
+        */
+
+        signupButton = (Button) findViewById(R.id.btn_signup);
+        loginLink = (TextView) findViewById(R.id.link_login);
 
         /* Initialize Progress Dialog */
         progressDialog = new
@@ -89,16 +103,24 @@ public class SignupActivity extends AppCompatActivity {
         /* Go Back */
         loginLink.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 showLogin();
             }
         });
     }
 
     /**
+     * Show test Text
+     */
+    private void dialog() {
+        Toast.makeText(this,"Test,Test,Test!",Toast.LENGTH_LONG);
+    }
+
+    /**
      * Show Login
      */
     private void showLogin() {
+        Toast.makeText(this,"Changing Activities...",Toast.LENGTH_LONG).show();
         Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
         startActivity(intent);
         finish();
@@ -114,6 +136,8 @@ public class SignupActivity extends AppCompatActivity {
             onSignupFailed();
             return;
         }
+
+        Toast.makeText(this,"Creating Account...",Toast.LENGTH_SHORT).show();
 
         /* Disable Sign Up Button */
         signupButton.setEnabled(false);
@@ -188,6 +212,9 @@ public class SignupActivity extends AppCompatActivity {
      * @return isSuccess
      */
     private boolean validateForm() {
+
+        Toast.makeText(this,"Validating Form...",Toast.LENGTH_SHORT).show();
+
         /* Set Default Validator Response */
         boolean valid = true;
 
