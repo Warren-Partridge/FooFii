@@ -44,6 +44,6 @@ class Market {
 
 extension Market: CustomStringConvertible {
     var description: String {
-        return "(\(name), \(address))"
+        return "(\(name))"
     }
 }

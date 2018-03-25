@@ -60,10 +60,12 @@ class GeofireExperimentController: UIViewController, CLLocationManagerDelegate {
     let regionRadius: CLLocationDistance = 1000
     func centerMapOnLocation(location: CLLocation) {
         print("centering")
-        queryMarkets(lat: location.coordinate.latitude,
-                  long: location.coordinate.longitude,
-                  radius: 1,
-                  onDone: { (markets) in
+        queryMarkets(
+                lat: 42.3601,  //location.coordinate.latitude,
+                long: -71.0589, //location.coordinate.longitude,
+                radius: 1,
+                onDone: { (markets) in
+            print("Got markets!")
             print(markets)
         }) { (err) in
             print("error: ", err)
