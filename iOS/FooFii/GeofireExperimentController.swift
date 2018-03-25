@@ -28,6 +28,7 @@ class GeofireExperimentController: UIViewController, CLLocationManagerDelegate {
     @IBOutlet weak var mapView: MKMapView!
     
     let locationManager = CLLocationManager()
+    var centered = false
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -44,8 +45,11 @@ class GeofireExperimentController: UIViewController, CLLocationManagerDelegate {
     
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         guard let locValue = manager.location else { return }
-        centerMapOnLocation(location: locValue)
-        //locationManager.stopUpdatingLocation()
+        if !centered {
+            centered = true
+            centerMapOnLocation(location: locValue)
+        }
+        locationManager.stopUpdatingLocation()
     }
 
     override func didReceiveMemoryWarning() {
@@ -55,6 +59,15 @@ class GeofireExperimentController: UIViewController, CLLocationManagerDelegate {
     
     let regionRadius: CLLocationDistance = 1000
     func centerMapOnLocation(location: CLLocation) {
+        print("centering")
+        querySnap(lat: location.coordinate.latitude,
+                  long: location.coordinate.longitude,
+                  radius: 1,
+                  onDone: { (snaps) in
+            print(snaps)
+        }) { (err) in
+            print("error: ", err)
+        }
         let coordinateRegion = MKCoordinateRegionMakeWithDistance(location.coordinate,
                                                                   regionRadius, regionRadius)
         mapView.setRegion(coordinateRegion, animated: true)
