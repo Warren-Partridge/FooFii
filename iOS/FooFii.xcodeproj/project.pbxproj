@@ -11,6 +11,7 @@
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
 		3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */; };
 		3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3C2067F147009C25C1 /* Snap.swift */; };
+		3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3E2068105B009C25C1 /* Market.swift */; };
 		3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6071F96E45900AA01FC /* AppDelegate.swift */; };
 		3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6091F96E45900AA01FC /* LoginController.swift */; };
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeofireExperimentController.swift; sourceTree = "<group>"; };
 		3EAB7E3C2067F147009C25C1 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
+		3EAB7E3E2068105B009C25C1 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
 		3EEEA6041F96E45900AA01FC /* FooFii.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FooFii.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EEEA6071F96E45900AA01FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3EEEA6091F96E45900AA01FC /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
 				3E5C85092061A8710060F646 /* Data.swift */,
 				3EAB7E3C2067F147009C25C1 /* Snap.swift */,
+				3EAB7E3E2068105B009C25C1 /* Market.swift */,
 			);
 			path = FooFii;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */,
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
+				3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */,
 				3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */,
 				3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */,
 				5C087E902061D1900063ED09 /* MyMapController.swift in Sources */,
