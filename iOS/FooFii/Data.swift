@@ -6,6 +6,8 @@
 //  Copyright © 2018 Calvin Rose. All rights reserved.
 //
 
+// This is the code for interfacing with Firebase and Geofire. 
+
 import Foundation
 import Firebase
 import GeoFire
