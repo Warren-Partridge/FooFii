@@ -15,6 +15,7 @@ pod 'SwiftLocation', '>= 3.2.1'
 pod 'GooglePlaces'
 pod 'GooglePlacePicker'
 pod 'GoogleMaps'
+pod 'Firebase/Database'
 
   # Pods for FooFii
 
