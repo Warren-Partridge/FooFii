@@ -1,5 +1,13 @@
 {
     "rules": {
+        "answer1": {
+          ".write": true,
+          ".read": true
+        },
+        "answer2": {
+          ".write": true,
+          ".read": true
+        },
         "snap": {
             "all": {
               ".read": true

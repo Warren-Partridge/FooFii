@@ -60,6 +60,7 @@ PODS:
 DEPENDENCIES:
   - Firebase (>= 4.0.0)
   - Firebase/Core
+  - Firebase/Database
   - FirebaseAuth (>= 4.5.0)
   - GeoFire (>= 2.0.0)
   - GoogleMaps
@@ -85,6 +86,6 @@ SPEC CHECKSUMS:
   SwiftLocation: 603153e718a5b4a1e1f114346c2d5e13c16b69da
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: ff3b0cf45f3e93f4abdd33ac29c88fcc9ffcab9f
+PODFILE CHECKSUM: 47a41fb9f24f26ef1f4665966923df14e9b2d722
 
 COCOAPODS: 1.4.0
