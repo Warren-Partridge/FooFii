@@ -17,6 +17,8 @@
 		3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
 		5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8D2061D1750063ED09 /* ViewController.swift */; };
 		5C087E902061D1900063ED09 /* MyMapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8F2061D18F0063ED09 /* MyMapController.swift */; };
+		5C3B8CA2208FEF77009359E1 /* header.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5C3B8CA1208FEF77009359E1 /* header.xib */; };
+		5CE930712068443B00505B74 /* FoofiiHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CE930702068443B00505B74 /* FoofiiHeader.swift */; };
 		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +36,8 @@
 		3EEEA6151F96E45900AA01FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C087E8D2061D1750063ED09 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5C087E8F2061D18F0063ED09 /* MyMapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapController.swift; sourceTree = "<group>"; };
+		5C3B8CA1208FEF77009359E1 /* header.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = header.xib; sourceTree = "<group>"; };
+		5CE930702068443B00505B74 /* FoofiiHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoofiiHeader.swift; sourceTree = "<group>"; };
 		88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.debug.xcconfig"; sourceTree = "<group>"; };
 		BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.release.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -74,6 +78,7 @@
 				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
 				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
 				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
+				5CE930702068443B00505B74 /* FoofiiHeader.swift */,
 				3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */,
 				5C087E8D2061D1750063ED09 /* ViewController.swift */,
 				5C087E8F2061D18F0063ED09 /* MyMapController.swift */,
@@ -82,6 +87,7 @@
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
 				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
 				3E5C85092061A8710060F646 /* Data.swift */,
+				5C3B8CA1208FEF77009359E1 /* header.xib */,
 			);
 			path = FooFii;
 			sourceTree = "<group>";
@@ -169,6 +175,7 @@
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
+				5C3B8CA2208FEF77009359E1 /* header.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +263,7 @@
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
 				3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */,
+				5CE930712068443B00505B74 /* FoofiiHeader.swift in Sources */,
 				5C087E902061D1900063ED09 /* MyMapController.swift in Sources */,
 				3E5C850A2061A8710060F646 /* Data.swift in Sources */,
 			);
