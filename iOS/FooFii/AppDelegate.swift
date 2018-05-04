@@ -20,8 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        GMSPlacesClient.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
-        GMSServices.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
+        //GMSPlacesClient.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
+        //GMSServices.provideAPIKey("AIzaSyDHv1H8F-f-lpmRE-k-s229071HjCcWOzE")
         FirebaseApp.configure()
         Auth.auth().signInAnonymously() { (user, error) in
             if let e = error {
@@ -30,6 +30,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             //let isAnonymous = user!.isAnonymous  // true
             //let uid = user!.uid
         }
+        
+        // Set color of navigation bar
+        UINavigationBar.appearance().barTintColor = UIColor(red: 67/255, green: 157/255, blue: 40/255, alpha: 1)
+        UINavigationBar.appearance().tintColor = .white
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedStringKey.foregroundColor: UIColor.white]
+        UINavigationBar.appearance().isTranslucent = false
+        UINavigationBar.appearance().setBackgroundImage(UIImage(), for: .default)
+        UINavigationBar.appearance().shadowImage = UIImage()
+
+        // Set status bar style
+        UIApplication.shared.statusBarStyle = .default
+        self.window?.tintColor = UIColor(red: 67/255, green: 157/255, blue: 40/255, alpha: 1)
+        
         return true
     }
 

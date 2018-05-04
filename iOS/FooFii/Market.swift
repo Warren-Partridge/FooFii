@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import CoreLocation
 
 class Market {
     
@@ -18,7 +19,7 @@ class Market {
     let tags: [String]
     let zip: String
     let website: String
-    let latlong: (Double, Double)
+    let latlong: CLLocation
     
     init(name: String,
          address: String,
@@ -28,7 +29,7 @@ class Market {
          tags: [String],
          facebook: String,
          website: String,
-         latlong: (Double, Double)) {
+         latlong: CLLocation) {
         self.name = name;
         self.address = address;
         self.cityName = cityName;

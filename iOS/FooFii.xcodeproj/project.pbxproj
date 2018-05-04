@@ -9,9 +9,10 @@
 /* Begin PBXBuildFile section */
 		0C016F21206B028300A8DDD5 /* QuestionaireController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C016F20206B028300A8DDD5 /* QuestionaireController.swift */; };
 		2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */; };
-		34876B402068537700AAF30A /* foo_fii_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 34876B3F2068537700AAF30A /* foo_fii_logo.png */; };
+		3E2415E0209CAAB900A0E5EA /* SNAPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */; };
+		3E2415E2209CCB2200A0E5EA /* foofii_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E2415E1209CCB2200A0E5EA /* foofii_logo.png */; };
+		3E2415E8209CD3A300A0E5EA /* SNAPDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */; };
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
-		3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */; };
 		3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3C2067F147009C25C1 /* Snap.swift */; };
 		3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3E2068105B009C25C1 /* Market.swift */; };
 		3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6071F96E45900AA01FC /* AppDelegate.swift */; };
@@ -28,9 +29,10 @@
 		0C016F20206B028300A8DDD5 /* QuestionaireController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionaireController.swift; sourceTree = "<group>"; };
 		2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FooFii.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		34876B3F2068537700AAF30A /* foo_fii_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foo_fii_logo.png; sourceTree = "<group>"; };
+		3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNAPViewController.swift; sourceTree = "<group>"; };
+		3E2415E1209CCB2200A0E5EA /* foofii_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foofii_logo.png; sourceTree = "<group>"; };
+		3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNAPDetailViewController.swift; sourceTree = "<group>"; };
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
-		3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeofireExperimentController.swift; sourceTree = "<group>"; };
 		3EAB7E3C2067F147009C25C1 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
 		3EAB7E3E2068105B009C25C1 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
 		3EEEA6041F96E45900AA01FC /* FooFii.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FooFii.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,12 +81,12 @@
 		3EEEA6061F96E45900AA01FC /* FooFii */ = {
 			isa = PBXGroup;
 			children = (
-				34876B3F2068537700AAF30A /* foo_fii_logo.png */,
+				3E2415E1209CCB2200A0E5EA /* foofii_logo.png */,
 				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
 				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
 				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
+				3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */,
 				0C016F20206B028300A8DDD5 /* QuestionaireController.swift */,
-				3E6044FB2061BC6E00FE6260 /* GeofireExperimentController.swift */,
 				5C087E8D2061D1750063ED09 /* ViewController.swift */,
 				5C087E8F2061D18F0063ED09 /* MyMapController.swift */,
 				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
@@ -94,6 +96,7 @@
 				3E5C85092061A8710060F646 /* Data.swift */,
 				3EAB7E3C2067F147009C25C1 /* Snap.swift */,
 				3EAB7E3E2068105B009C25C1 /* Market.swift */,
+				3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */,
 			);
 			path = FooFii;
 			sourceTree = "<group>";
@@ -145,7 +148,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Calvin Rose";
 				TargetAttributes = {
 					3EEEA6031F96E45900AA01FC = {
@@ -178,7 +181,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */,
-				34876B402068537700AAF30A /* foo_fii_logo.png in Resources */,
+				3E2415E2209CCB2200A0E5EA /* foofii_logo.png in Resources */,
 				3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */,
 				2904CDD32033B93E002FB4D8 /* GoogleService-Info.plist in Resources */,
 				3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */,
@@ -269,11 +272,12 @@
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
 				3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */,
-				3E6044FC2061BC6E00FE6260 /* GeofireExperimentController.swift in Sources */,
+				3E2415E0209CAAB900A0E5EA /* SNAPViewController.swift in Sources */,
 				0C016F21206B028300A8DDD5 /* QuestionaireController.swift in Sources */,
 				3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */,
 				5C087E902061D1900063ED09 /* MyMapController.swift in Sources */,
 				3E5C850A2061A8710060F646 /* Data.swift in Sources */,
+				3E2415E8209CD3A300A0E5EA /* SNAPDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +317,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -320,6 +325,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -370,6 +376,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -377,6 +384,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;

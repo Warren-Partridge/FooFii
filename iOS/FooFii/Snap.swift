@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import CoreLocation
 
 class Snap {
     
@@ -15,14 +16,14 @@ class Snap {
     let cityName: String
     let state: String
     let zip: String
-    let latlong: (Double, Double)
+    let latlong: CLLocation
     
     init(name: String,
          address: String,
          cityName: String,
          state: String,
          zip: String,
-         latlong: (Double, Double)) {
+         latlong: CLLocation) {
         self.name = name;
         self.address = address;
         self.cityName = cityName;

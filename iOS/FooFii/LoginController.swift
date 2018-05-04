@@ -25,7 +25,7 @@ class LoginController: UIViewController {
         
         Auth.auth().signInAnonymously() { (user, error) in
             if error != nil {
-                print(error)
+                print(error!)
                 return
             }
             print("User logged in anonymously with uid: " + user!.uid)

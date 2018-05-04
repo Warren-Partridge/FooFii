@@ -5,9 +5,9 @@
 	<key>CFBundleDisplayName</key>
 	<string></string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Location</string>
+	<string>Uses your location to search for food providers near you</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Location</string>
+	<string>Uses your location to search for food providers near you</string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
