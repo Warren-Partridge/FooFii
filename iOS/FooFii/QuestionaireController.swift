@@ -12,8 +12,8 @@ import FirebaseDatabase
 
 class QuestionaireController: UIViewController {
     var ref: DatabaseReference!
-    @IBOutlet weak var answer1: UITextField!
     
+    @IBOutlet weak var answer1: UITextField!
     @IBOutlet weak var answer2: UITextField!
     
     override func viewDidLoad() {

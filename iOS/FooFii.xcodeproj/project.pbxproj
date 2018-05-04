@@ -12,6 +12,7 @@
 		3E2415E0209CAAB900A0E5EA /* SNAPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */; };
 		3E2415E2209CCB2200A0E5EA /* foofii_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E2415E1209CCB2200A0E5EA /* foofii_logo.png */; };
 		3E2415E8209CD3A300A0E5EA /* SNAPDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */; };
+		3E2415EC209CF58300A0E5EA /* SideSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415EB209CF58300A0E5EA /* SideSegue.swift */; };
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
 		3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3C2067F147009C25C1 /* Snap.swift */; };
 		3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3E2068105B009C25C1 /* Market.swift */; };
@@ -32,6 +33,7 @@
 		3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNAPViewController.swift; sourceTree = "<group>"; };
 		3E2415E1209CCB2200A0E5EA /* foofii_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = foofii_logo.png; sourceTree = "<group>"; };
 		3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNAPDetailViewController.swift; sourceTree = "<group>"; };
+		3E2415EB209CF58300A0E5EA /* SideSegue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideSegue.swift; sourceTree = "<group>"; };
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		3EAB7E3C2067F147009C25C1 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
 		3EAB7E3E2068105B009C25C1 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				3EAB7E3C2067F147009C25C1 /* Snap.swift */,
 				3EAB7E3E2068105B009C25C1 /* Market.swift */,
 				3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */,
+				3E2415EB209CF58300A0E5EA /* SideSegue.swift */,
 			);
 			path = FooFii;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E2415EC209CF58300A0E5EA /* SideSegue.swift in Sources */,
 				5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */,
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
