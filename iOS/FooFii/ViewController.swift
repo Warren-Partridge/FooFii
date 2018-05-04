@@ -12,7 +12,7 @@ import MapKit
 
 class ViewController: UIViewController{
     
-    //Google Maps Link
+    // Google Maps Link
     var latitude: CLLocationDegrees = 42.351462
     var longitude: CLLocationDegrees = -71.121457
     

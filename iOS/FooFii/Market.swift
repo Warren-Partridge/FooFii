@@ -9,6 +9,7 @@
 import Foundation
 import CoreLocation
 
+/* Represent 1 Farmer's Market */
 class Market {
     
     let name: String

@@ -49,7 +49,7 @@ class SNAPViewController: UIViewController, UITableViewDelegate, UITableViewData
         isSearching = true
         Locator.currentPosition(accuracy: .neighborhood, onSuccess: { location in
             self.lastLocation = location
-            querySnap(center: location, radius: 1, onDone: { queryResults in
+            querySnap(center: location, radius: 3, onDone: { queryResults in
                 let sorted = queryResults.sorted(by: {l, r in
                     return l.latlong.distance(from: location) < r.latlong.distance(from: location)
                 })

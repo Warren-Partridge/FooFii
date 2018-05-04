@@ -9,6 +9,7 @@
 import Foundation
 import CoreLocation
 
+/* Represent 1 SNAP provider (grocery store, etc.) */
 class Snap {
     
     let name: String
