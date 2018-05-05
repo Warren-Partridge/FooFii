@@ -2,8 +2,7 @@
 //  FoodLocation.swift
 //  FooFii
 //
-//  Created by Calvin Rose on 5/5/18.
-//  Copyright © 2018 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 import Foundation

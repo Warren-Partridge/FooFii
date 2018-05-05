@@ -1,5 +1,5 @@
 //
-//  Questionaire.swift
+//  QuestionaireController.swift
 //  FooFii
 //
 //  Copyright © 2018 Global App Initiative. All rights reserved.
