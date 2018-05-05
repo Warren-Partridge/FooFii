@@ -24,7 +24,7 @@ class SideSegue: UIStoryboardSegue {
                        options: .curveEaseInOut,
                        animations: {
                         dst.view.transform = CGAffineTransform(translationX: 0, y: 0)
-        },
+                        },
                        completion: { finished in
                         src.present(dst, animated: false, completion: nil)
         })
