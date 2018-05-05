@@ -2,8 +2,7 @@
 //  Questionaire.swift
 //  FooFii
 //
-//  Created by zhaoyang on 3/27/18.
-//  Copyright © 2018 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,7 @@
 //  Data.swift
 //  FooFii
 //
-//  Created by Calvin Rose on 3/20/18.
-//  Copyright © 2018 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 // This is the code for interfacing with Firebase and Geofire. 
@@ -13,9 +12,6 @@ import Firebase
 import GeoFire
 
 let ref = Database.database().reference()
-
-// For markets
-//let gfMarkets = GeoFire(firebaseRef: ref.child("markets/geofire"))
 
 // Given a coordinate and radius, get all snap providers in an area.
 // The query is async, so you must pass in two callbacks for
@@ -43,6 +39,7 @@ func querySnap(center: CLLocation, radius: Double,
             let city = value?["City"] as? String ?? ""
             let state = value?["State"] as? String ?? ""
             ret += [Snap(
+                uid: key,
                 name: name,
                 address: address,
                 cityName: city,
@@ -97,6 +94,7 @@ func queryMarkets(center: CLLocation, radius: Double,
             let website = value?["Website"] as? String ?? ""
             let tags: [String] = []; // Todo fix
             ret += [Market(
+                uid: key,
                 name: name,
                 address: address,
                 cityName: city,

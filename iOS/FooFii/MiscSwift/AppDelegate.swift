@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  FooFii
 //
-//  Created by Calvin Rose on 10/17/17.
-//  Copyright © 2017 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 import UIKit

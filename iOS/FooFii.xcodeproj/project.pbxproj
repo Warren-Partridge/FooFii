@@ -14,6 +14,7 @@
 		3E2415E8209CD3A300A0E5EA /* SNAPDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */; };
 		3E2415EC209CF58300A0E5EA /* SideSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2415EB209CF58300A0E5EA /* SideSegue.swift */; };
 		3E5C850A2061A8710060F646 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5C85092061A8710060F646 /* Data.swift */; };
+		3EA76A96209E071200927575 /* FoodLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EA76A95209E071200927575 /* FoodLocation.swift */; };
 		3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3C2067F147009C25C1 /* Snap.swift */; };
 		3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAB7E3E2068105B009C25C1 /* Market.swift */; };
 		3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEEA6071F96E45900AA01FC /* AppDelegate.swift */; };
@@ -21,8 +22,6 @@
 		3EEEA6111F96E45900AA01FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6101F96E45900AA01FC /* Assets.xcassets */; };
 		3EEEA6141F96E45900AA01FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */; };
 		3EF4D8A620461EF200B35EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EEEA60D1F96E45900AA01FC /* Main.storyboard */; };
-		5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8D2061D1750063ED09 /* ViewController.swift */; };
-		5C087E902061D1900063ED09 /* MyMapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C087E8F2061D18F0063ED09 /* MyMapController.swift */; };
 		8FD856FC9E5F11544E2B0EF8 /* Pods_FooFii.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 31240FEBBBB9B1ABA91A2F7C /* Pods_FooFii.framework */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +34,7 @@
 		3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SNAPDetailViewController.swift; sourceTree = "<group>"; };
 		3E2415EB209CF58300A0E5EA /* SideSegue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideSegue.swift; sourceTree = "<group>"; };
 		3E5C85092061A8710060F646 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		3EA76A95209E071200927575 /* FoodLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodLocation.swift; sourceTree = "<group>"; };
 		3EAB7E3C2067F147009C25C1 /* Snap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snap.swift; sourceTree = "<group>"; };
 		3EAB7E3E2068105B009C25C1 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
 		3EEEA6041F96E45900AA01FC /* FooFii.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FooFii.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,8 +44,6 @@
 		3EEEA6101F96E45900AA01FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EEEA6131F96E45900AA01FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EEEA6151F96E45900AA01FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5C087E8D2061D1750063ED09 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5C087E8F2061D18F0063ED09 /* MyMapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapController.swift; sourceTree = "<group>"; };
 		88ECAF3095835B96BADC7264 /* Pods-FooFii.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.debug.xcconfig"; sourceTree = "<group>"; };
 		BD38048F4065302AE334028E /* Pods-FooFii.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FooFii.release.xcconfig"; path = "Pods/Target Support Files/Pods-FooFii/Pods-FooFii.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -62,6 +60,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3E2415ED209DFF1F00A0E5EA /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */,
+				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
+				3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */,
+				0C016F20206B028300A8DDD5 /* QuestionaireController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3E2415EE209DFF4600A0E5EA /* DataClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3EAB7E3C2067F147009C25C1 /* Snap.swift */,
+				3EAB7E3E2068105B009C25C1 /* Market.swift */,
+				3EA76A95209E071200927575 /* FoodLocation.swift */,
+			);
+			path = DataClasses;
+			sourceTree = "<group>";
+		};
+		3E2415EF209DFF6400A0E5EA /* UIClasses */ = {
+			isa = PBXGroup;
+			children = (
+				3E2415EB209CF58300A0E5EA /* SideSegue.swift */,
+			);
+			path = UIClasses;
+			sourceTree = "<group>";
+		};
+		3E2415F0209DFF7500A0E5EA /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				3E2415E1209CCB2200A0E5EA /* foofii_logo.png */,
+				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		3E2415F1209DFFE200A0E5EA /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
+				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		3E2415F2209E000700A0E5EA /* MiscSwift */ = {
+			isa = PBXGroup;
+			children = (
+				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
+				3E5C85092061A8710060F646 /* Data.swift */,
+			);
+			path = MiscSwift;
+			sourceTree = "<group>";
+		};
 		3EEEA5FB1F96E45800AA01FC = {
 			isa = PBXGroup;
 			children = (
@@ -83,23 +137,14 @@
 		3EEEA6061F96E45900AA01FC /* FooFii */ = {
 			isa = PBXGroup;
 			children = (
-				3E2415E1209CCB2200A0E5EA /* foofii_logo.png */,
-				3EEEA6071F96E45900AA01FC /* AppDelegate.swift */,
-				3EEEA6091F96E45900AA01FC /* LoginController.swift */,
-				3EEEA60D1F96E45900AA01FC /* Main.storyboard */,
-				3E2415DF209CAAB900A0E5EA /* SNAPViewController.swift */,
-				0C016F20206B028300A8DDD5 /* QuestionaireController.swift */,
-				5C087E8D2061D1750063ED09 /* ViewController.swift */,
-				5C087E8F2061D18F0063ED09 /* MyMapController.swift */,
-				3EEEA6101F96E45900AA01FC /* Assets.xcassets */,
-				3EEEA6121F96E45900AA01FC /* LaunchScreen.storyboard */,
 				3EEEA6151F96E45900AA01FC /* Info.plist */,
 				2904CDD22033B93E002FB4D8 /* GoogleService-Info.plist */,
-				3E5C85092061A8710060F646 /* Data.swift */,
-				3EAB7E3C2067F147009C25C1 /* Snap.swift */,
-				3EAB7E3E2068105B009C25C1 /* Market.swift */,
-				3E2415E7209CD3A300A0E5EA /* SNAPDetailViewController.swift */,
-				3E2415EB209CF58300A0E5EA /* SideSegue.swift */,
+				3E2415F2209E000700A0E5EA /* MiscSwift */,
+				3E2415F1209DFFE200A0E5EA /* Storyboards */,
+				3E2415F0209DFF7500A0E5EA /* Assets */,
+				3E2415EF209DFF6400A0E5EA /* UIClasses */,
+				3E2415EE209DFF4600A0E5EA /* DataClasses */,
+				3E2415ED209DFF1F00A0E5EA /* ViewControllers */,
 			);
 			path = FooFii;
 			sourceTree = "<group>";
@@ -272,14 +317,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E2415EC209CF58300A0E5EA /* SideSegue.swift in Sources */,
-				5C087E8E2061D1760063ED09 /* ViewController.swift in Sources */,
 				3EEEA6081F96E45900AA01FC /* AppDelegate.swift in Sources */,
+				3EA76A96209E071200927575 /* FoodLocation.swift in Sources */,
 				3EEEA60A1F96E45900AA01FC /* LoginController.swift in Sources */,
 				3EAB7E3F2068105B009C25C1 /* Market.swift in Sources */,
 				3E2415E0209CAAB900A0E5EA /* SNAPViewController.swift in Sources */,
 				0C016F21206B028300A8DDD5 /* QuestionaireController.swift in Sources */,
 				3EAB7E3D2067F147009C25C1 /* Snap.swift in Sources */,
-				5C087E902061D1900063ED09 /* MyMapController.swift in Sources */,
 				3E5C850A2061A8710060F646 /* Data.swift in Sources */,
 				3E2415E8209CD3A300A0E5EA /* SNAPDetailViewController.swift in Sources */,
 			);

@@ -2,8 +2,7 @@
 //  SNAPViewController.swift
 //  FooFii
 //
-//  Created by Calvin Rose on 5/4/18.
-//  Copyright © 2018 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 import UIKit
@@ -33,6 +32,7 @@ class SNAPViewController: UIViewController, UITableViewDelegate, UITableViewData
     override func viewDidLoad() {
         super.viewDidLoad()
         distanceFormatter.unitStyle = .full
+        // Don't show the ugly empty cells in the table view
         snapTable.tableFooterView = UIView()
     }
 
@@ -50,10 +50,10 @@ class SNAPViewController: UIViewController, UITableViewDelegate, UITableViewData
         Locator.currentPosition(accuracy: .neighborhood, onSuccess: { location in
             self.lastLocation = location
             querySnap(center: location, radius: 3, onDone: { queryResults in
+                // Sort results by distance
                 let sorted = queryResults.sorted(by: {l, r in
                     return l.latlong.distance(from: location) < r.latlong.distance(from: location)
                 })
-                
                 self.isSearching = false
                 self.snaps = sorted
                 self.snapTable.reloadData()

@@ -2,13 +2,15 @@
 //  SideSegue.swift
 //  FooFii
 //
-//  Created by Calvin Rose on 5/4/18.
-//  Copyright © 2018 Calvin Rose. All rights reserved.
+//  Copyright © 2018 Global App Initiative. All rights reserved.
 //
 
 import Foundation
 import UIKit
 
+// A custom segue to be used for sliding the between VCs from left to right.
+// Used in the LoginController and the QuestionaireController to make transitions
+// prettier.
 class SideSegue: UIStoryboardSegue {
     override func perform() {
         let src = self.source
