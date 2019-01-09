@@ -22,7 +22,7 @@ class QuestionaireController: UIViewController {
     }
     
     @IBAction func Post(_ sender: UIButton) {
-        ref?.child("answer1").childByAutoId().setValue(answer1.text)
+        ref?.child("answetetestestesttt1").childByAutoId().setValue(answer1.text)
         ref?.child("answer2").childByAutoId().setValue(answer2.text)
     }
     

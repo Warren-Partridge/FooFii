@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="2Eu-iC-nyA">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="gZ5-04-uaB">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
-        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--SNAP Providers-->
+        <!--SNAP-Eligible Stores-->
         <scene sceneID="zef-DS-Lnh">
             <objects>
                 <viewController id="Iaq-pW-hJZ" customClass="SNAPViewController" customModule="FooFii" customModuleProvider="target" sceneMemberID="viewController">
@@ -60,7 +60,7 @@
                                                     <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name of SNAP Provider" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dXQ-Yr-RHw">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name of SNAP-eligible store" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dXQ-Yr-RHw">
                                                     <rect key="frame" x="8" y="8" width="326" height="23"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="19"/>
                                                     <nil key="textColor"/>
@@ -105,7 +105,7 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="efP-ve-zV2"/>
                     </view>
-                    <navigationItem key="navigationItem" title="SNAP Providers" id="p2M-MU-Z9j"/>
+                    <navigationItem key="navigationItem" title="SNAP-Eligible Stores" id="p2M-MU-Z9j"/>
                     <connections>
                         <outlet property="snapTable" destination="YlI-Nm-HZu" id="EIs-WN-bir"/>
                     </connections>
@@ -122,8 +122,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name of SNAP Provider" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qWs-sC-d4D">
-                                <rect key="frame" x="96.5" y="40" width="182" height="50"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name of SNAP-Eligible Store" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qWs-sC-d4D">
+                                <rect key="frame" x="77" y="40" width="221" height="50"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="50" id="P2n-Jn-cgh"/>
                                 </constraints>
@@ -192,9 +192,9 @@
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">FooFii's mission is to bridge hunger and help, with the click of a button.
 
-Our mobile app is designed to help health care providers easily identify and support patients with food insecurity.
+Our mobile app is designed to help people with food insecurity easily find resources near them.
 
-For this summer 2018, we are actively seeking partnerships with health centers to pilot FooFii in Greater Boston, as well as recruiting interns with a tech background, particularly mobile app and website development.
+We are actively seeking partnerships to pilot FooFii in Greater Boston.
 
 Visit the site at https://www.foofiiapp.com/</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
@@ -202,15 +202,13 @@ Visit the site at https://www.foofiiapp.com/</string>
                                 <dataDetectorType key="dataDetectorTypes" link="YES"/>
                             </textView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="foofii_logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Op1-ov-76I">
-                                <rect key="frame" x="67" y="59" width="240" height="100"/>
+                                <rect key="frame" x="68" y="59" width="239" height="100"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="100" id="nd8-gZ-RTz"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cfR-Jb-AKz">
-                                <rect key="frame" x="95" y="544.5" width="185.5" height="33.5"/>
-                                <string key="text">Created at Boston University
-by the Global App Initiative</string>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cfR-Jb-AKz">
+                                <rect key="frame" x="187.5" y="578" width="0.0" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -270,16 +268,15 @@ by the Global App Initiative</string>
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Trh-Zk-6B6">
-                                <rect key="frame" x="164.5" y="408" width="45" height="32"/>
+                                <rect key="frame" x="165" y="407.5" width="45" height="32"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <state key="normal" title="Log In"/>
                                 <connections>
                                     <action selector="buttonLogIn:" destination="2Eu-iC-nyA" eventType="touchUpInside" id="vTF-K5-MsV"/>
-                                    <segue destination="gZ5-04-uaB" kind="custom" identifier="SegueToQuestionaire" customClass="SideSegue" customModule="FooFii" customModuleProvider="target" id="CRK-y0-WLW"/>
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="o3Z-Rv-WqP">
-                                <rect key="frame" x="0.0" y="280" width="375" height="128"/>
+                                <rect key="frame" x="0.0" y="279.5" width="375" height="128"/>
                                 <subviews>
                                     <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Your E-mail" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="cFt-k9-tIi">
                                         <rect key="frame" x="40" y="78" width="295" height="30"/>
@@ -306,7 +303,7 @@ by the Global App Initiative</string>
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FEh-B3-t07">
-                                <rect key="frame" x="161.5" y="460" width="53" height="28"/>
+                                <rect key="frame" x="161" y="459.5" width="53" height="28"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="13"/>
                                 <state key="normal" title="Sign Out"/>
                                 <connections>
@@ -348,44 +345,44 @@ by the Global App Initiative</string>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="foofii_logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="Wmr-4T-4Az">
-                                <rect key="frame" x="48" y="39" width="279" height="109"/>
+                                <rect key="frame" x="48" y="39" width="279" height="108.5"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="108.5" id="B9J-nR-hvU"/>
                                 </constraints>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Questionare" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wOR-cV-NGG">
-                                <rect key="frame" x="132" y="177" width="111" height="25.5"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Help Us Improve FooFii" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wOR-cV-NGG">
+                                <rect key="frame" x="82.5" y="177" width="210" height="26"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="21"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How did you hear about FooFii?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="I6U-25-DqR">
-                                <rect key="frame" x="40" y="252.5" width="295" height="22"/>
+                                <rect key="frame" x="40" y="253" width="295" height="22"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Answer1" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7W7-WX-yjN">
-                                <rect key="frame" x="40" y="289" width="295" height="30"/>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7W7-WX-yjN">
+                                <rect key="frame" x="40" y="290" width="295" height="30"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" returnKeyType="continue" enablesReturnKeyAutomatically="YES"/>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Why do you want to use FooFii?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qdq-qZ-dHo">
-                                <rect key="frame" x="40" y="369" width="295" height="22"/>
+                                <rect key="frame" x="40" y="370" width="295" height="22"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Answer2" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="VV2-Ez-GJd">
-                                <rect key="frame" x="40" y="405.5" width="295" height="30"/>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="VV2-Ez-GJd">
+                                <rect key="frame" x="40" y="407" width="295" height="30"/>
                                 <nil key="textColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" returnKeyType="go" enablesReturnKeyAutomatically="YES"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EMT-2P-1wU">
-                                <rect key="frame" x="171" y="617" width="32" height="30"/>
-                                <state key="normal" title="Next"/>
+                                <rect key="frame" x="126.5" y="617" width="122" height="30"/>
+                                <state key="normal" title="Start Using FooFii"/>
                                 <connections>
                                     <action selector="Post:" destination="gZ5-04-uaB" eventType="touchUpInside" id="kDd-c5-WFu"/>
                                     <segue destination="O0N-oF-n5N" kind="custom" identifier="SegueToMain" customClass="SideSegue" customModule="FooFii" customModuleProvider="target" id="2ih-rm-F5V"/>
@@ -431,8 +428,8 @@ by the Global App Initiative</string>
         </scene>
     </scenes>
     <resources>
-        <image name="AboutIcon" width="50" height="50"/>
-        <image name="SnapIcon" width="50" height="50"/>
+        <image name="AboutIcon" width="200" height="200"/>
+        <image name="SnapIcon" width="200" height="200"/>
         <image name="foofii_logo.png" width="750" height="312"/>
     </resources>
 </document>
